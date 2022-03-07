@@ -4,7 +4,7 @@ Disciplina de Introdução a Inteligencia Artificial e ao Aprendizado de Máquin
 ## Horários
 
 * Terça 8-10am e Quinta 8-10am
-
+*  Sala de aula Presencial (a ser definida, favor aguardar)
 * [Link para Sala de aula Virtual](https://meet.google.com/hoc-nytc-yiv)
 
 ## links para Alunos
