@@ -11,9 +11,9 @@ Disciplina de Introdução a Inteligencia Artificial e ao Aprendizado de Máquin
 
 [Inscrição do Classroom para acompanhar a disciplina](https://classroom.google.com/c/NDc1ODg1MzkzNzU3?cjc=2ha7lvm)
 
-## Aulas Gravadas e Slides
+## [Aulas Gravadas e Slides - clique aqui](https://github.com/arduinoufv/inf620/tree/main/aulas#aulas-gravadas)
 
-a ser adicionado em breve
+
 
 
 
