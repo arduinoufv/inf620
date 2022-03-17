@@ -10,7 +10,7 @@
    * [Formulário para envio da Lista 1](https://forms.gle/FPqgSAfNR8pnZFPJA)
    * [Horários de monitoria](https://docs.google.com/spreadsheets/d/1BwfpwQF3Ypvu-MIIwhaHrhtyYp77xNoIX2kfayx-yKA/edit?usp=sharing)
 * [Aula 3 - 17 Marco 2022 - Revisão da Introdução a Python e dois exemplos introdutórios de Redes Neurais](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n-jsPxyg50VrWbU6uuRme0)
-   * [Lista 2 de Exercicio](https://forms.gle/jqXJhZ44jKyZu8f37)
+   * [Lista 2 de Exercicio para 25 março](https://forms.gle/jqXJhZ44jKyZu8f37)
    * [Slides da Aula](https://docs.google.com/presentation/d/1Zv7GwoSk_I4FSvYkTan07kQvnDAoDWQO3Sp3so19e2A/edit?usp=sharing)
    * [Formulario para envio da Lista 2](https://forms.gle/jqXJhZ44jKyZu8f37)
    
