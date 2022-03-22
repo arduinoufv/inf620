@@ -17,5 +17,7 @@
 * [Aula 4 - 22 marco de 2022 - Revisao IF, Lista, Interface Gradio, Tempo de execução NumPy](https://www.youtube.com/playlist?list=PLcvOyD_LMr6neAXh2JO3NGaqpsUW0gQVg)
    * [Colab da aula](https://colab.research.google.com/drive/1SSwt7oBOv7OF5goFecgAqzKP85YqsRul?usp=sharing)
    * [Slides](https://docs.google.com/presentation/d/110kBncxqTlqmFjUS-pyYL79bAZa6kBwro8E1-UTyIA4/edit?usp=sharing)
+   * [Lista 3](https://colab.research.google.com/drive/1rNU0glSKUnmDudLUHtI0TAby0HXCQ41P?usp=sharing)
+   * [Formulário para envio da Lista 3](https://forms.gle/AHVRzFqfmT2ygU3r9)
  
    
