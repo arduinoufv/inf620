@@ -14,7 +14,7 @@
    * [Slides da Aula](https://docs.google.com/presentation/d/1Zv7GwoSk_I4FSvYkTan07kQvnDAoDWQO3Sp3so19e2A/edit?usp=sharing)
    * [Formulario para envio da Lista 2](https://forms.gle/jqXJhZ44jKyZu8f37)
    
-* [Aula 4 - 22 marco de 2022 - Revisao IF, Lista, Interface Gradio, Tempo de execução NumPy]()
+* [Aula 4 - 22 marco de 2022 - Revisao IF, Lista, Interface Gradio, Tempo de execução NumPy](https://www.youtube.com/playlist?list=PLcvOyD_LMr6neAXh2JO3NGaqpsUW0gQVg)
    * [Colab da aula](https://colab.research.google.com/drive/1SSwt7oBOv7OF5goFecgAqzKP85YqsRul?usp=sharing)
    * [Slides](https://docs.google.com/presentation/d/110kBncxqTlqmFjUS-pyYL79bAZa6kBwro8E1-UTyIA4/edit?usp=sharing)
  
