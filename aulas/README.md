@@ -19,5 +19,8 @@
    * [Slides](https://docs.google.com/presentation/d/110kBncxqTlqmFjUS-pyYL79bAZa6kBwro8E1-UTyIA4/edit?usp=sharing)
    * [Lista 3](https://colab.research.google.com/drive/1rNU0glSKUnmDudLUHtI0TAby0HXCQ41P?usp=sharing)
    * [Formulário para envio da Lista 3](https://forms.gle/AHVRzFqfmT2ygU3r9)
+* [Aula 5 - 24 março 2022 - Panda](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ljEqfMYwtsBr8hISFIkdeO)
+   * [Slide](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing)
+   *
  
    
