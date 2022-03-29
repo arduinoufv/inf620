@@ -21,6 +21,10 @@
    * [Formulário para envio da Lista 3](https://forms.gle/AHVRzFqfmT2ygU3r9)
 * [Aula 5 - 24 março 2022 - Panda](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ljEqfMYwtsBr8hISFIkdeO)
    * [Slide](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing)
-   *
+   
+* [ Aula 6 - 29 março 2022 - Grafos](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m4BsscvbGc6N0yKgS0NUN6)
+    * [slides](https://docs.google.com/presentation/d/1ramghUBaWDObH8GUuNCc1Le2QU5uVqKvuJMsJriMF78/edit?usp=sharing) 
+    * [Lista 4 - Pandas, Numpy e Gradio](https://colab.research.google.com/drive/177wtwu5ui_xjKoCYrRvM84K_WkFQQIVc?usp=sharing)
+    * [Video com instruções para Lista 4](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nE97hr02LzcZAZ0BYTeQcB)
  
    
