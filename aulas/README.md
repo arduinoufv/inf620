@@ -33,7 +33,7 @@
     * Tópicos: Exemplos de modelos com Regressão Linear, Naive Bayes, Gaussian Naive Bayes, KNN
     * Ferramentas: [Colab do livro com sklearn + correções](https://colab.research.google.com/drive/1L9DZoCbfq_OJnRctd8QhuIKbvh02I7Fe) 
     * [Lista 5](https://colab.research.google.com/drive/19bDJsrFx15M-5hvWzNhq_vRngBXP3xYt?usp=sharing)
-    * [Formulário para entrega](https://forms.gle/dMphq33CMiYBFpdm6)
+    * [Formulário para entrega 12 abril](https://forms.gle/dMphq33CMiYBFpdm6)
     * Referências: Livro [Python Data Science Handbookby Jake VanderPlas](https://www.oreilly.com/library/view/python-data-science/9781491912126/) e o  canal [Statquest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
     *   [slides](https://docs.google.com/presentation/d/1LN0qAsAF7El_86HRBchXryQ3iZ1fc5D0KUx11X7Le1E/edit?usp=sharing)
  
