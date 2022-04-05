@@ -32,6 +32,7 @@
 * [Aula 8 - 5 Abril 2022 - Introdução ao Aprendizado de Máquina]()
     * Tópicos: Exemplos de modelos com Regressão Linear, Naive Bayes, Gaussian Naive Bayes, KNN
     * Ferramentas: Colab com sklearn
+    * Referências: Livro [Python Data Science Handbookby Jake VanderPlas](https://www.oreilly.com/library/view/python-data-science/9781491912126/) e o  canal [Statquest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
     *   [slides](https://docs.google.com/presentation/d/1LN0qAsAF7El_86HRBchXryQ3iZ1fc5D0KUx11X7Le1E/edit?usp=sharing)
  
    
