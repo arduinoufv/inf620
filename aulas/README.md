@@ -27,5 +27,11 @@
     * [Lista 4 - Pandas, Numpy e Gradio](https://colab.research.google.com/drive/177wtwu5ui_xjKoCYrRvM84K_WkFQQIVc?usp=sharing)
     * [Video com instruções para Lista 4](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nE97hr02LzcZAZ0BYTeQcB)
     * [Formulário para envio da Lista4 até 4 de abril](https://forms.gle/XRc9qGSufkGsS9bE8)
+* [ Aula 7 - 31 março 2022 - Imagens](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lwucTAipb58gdm_e62WgP4)
+    *  [slides](https://docs.google.com/presentation/d/1QeTy49w4ANS5ecBRMTAnsDUOsm80s2kJXsQBsBvKWtc/edit?usp=sharing)
+* [Aula 8 - 5 Abril 2022 - Introdução ao Aprendizado de Máquina]()
+    * Tópicos: Exemplos de modelos com Regressão Linear, Naive Bayes, Gaussian Naive Bayes, KNN
+    * Ferramentas: Colab com sklearn
+    *   [slides](https://docs.google.com/presentation/d/1LN0qAsAF7El_86HRBchXryQ3iZ1fc5D0KUx11X7Le1E/edit?usp=sharing)
  
    
