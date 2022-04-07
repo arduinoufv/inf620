@@ -36,5 +36,9 @@
     * [Formulário para entrega 12 abril](https://forms.gle/dMphq33CMiYBFpdm6)
     * Referências: Livro [Python Data Science Handbookby Jake VanderPlas](https://www.oreilly.com/library/view/python-data-science/9781491912126/) e o  canal [Statquest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
     *   [slides](https://docs.google.com/presentation/d/1LN0qAsAF7El_86HRBchXryQ3iZ1fc5D0KUx11X7Le1E/edit?usp=sharing)
+
+ * [Aula 9 - 7 abril 2022 - Introdução ao Aprendizado Parte II]()
+      * [slides](https://docs.google.com/presentation/d/1e02qSnwNUj-OnOpdIJ35hf67b4CK6-KwNTxRXg1AM4s/edit?usp=sharing)
+      *  
  
    
