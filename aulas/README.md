@@ -39,6 +39,6 @@
 
  * [Aula 9 - 7 abril 2022 - Introdução ao Aprendizado Parte II]()
       * [slides](https://docs.google.com/presentation/d/1e02qSnwNUj-OnOpdIJ35hf67b4CK6-KwNTxRXg1AM4s/edit?usp=sharing)
-      *  
+      *  Tópicos: validação cruzada, Viés(Bias) e Variância, busca automática de parametros (tuning), revisão e mais exemplos de Naive Bayes, revisão e mais exemplos de Regressão Linear, engenharia de atributos (features).
  
    
