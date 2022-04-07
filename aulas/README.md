@@ -40,5 +40,5 @@
  * [Aula 9 - 7 abril 2022 - Introdução ao Aprendizado Parte II]()
       * [slides](https://docs.google.com/presentation/d/1e02qSnwNUj-OnOpdIJ35hf67b4CK6-KwNTxRXg1AM4s/edit?usp=sharing)
       *  Tópicos: validação cruzada, Viés(Bias) e Variância, busca automática de parametros (tuning), revisão e mais exemplos de Naive Bayes, revisão e mais exemplos de Regressão Linear, engenharia de atributos (features).
- 
+      * Referências: Livro [Python Data Science Handbookby Jake VanderPlas](https://www.oreilly.com/library/view/python-data-science/9781491912126/) e o  canal [Statquest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw), [canal didática tech](https://www.youtube.com/watch?v=ID5Ui22F8HQ&list=PLyqOvdQmGdTSqkutrKDaVJlEv-ui1MyK4), livro [Data Mining](https://youtu.be/SrMhf65qqjg?t=426) do Prof. Wagner Meira da UFMG 
    
