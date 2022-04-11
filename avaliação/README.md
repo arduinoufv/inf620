@@ -1,0 +1,22 @@
+# Avaliação - Alunos que NÃO cursam Mestrado/Doutorado em Computação
+
+Pontuação
+
+* 70 pts - Listas e Questionários
+* 10 pts - Vídeo de um Artigo na sua área de pesquisa que utiliza Int. Artificial e/ou Aprendizado de Maq e/ou Deep Learning
+* 20 pts - Survey com pelos menos 6 artigos da sua área de pesquisa que utiliza Int. Artificial e/ou Aprendizado de Maq e/ou Deep Learning. 
+
+
+# Avaliação - Mestrado/Doutorado em Computação
+
+* 20 pts - Monitoria/Correção de Listas
+* 15 pts - Questionários
+* 35 pts - Projeto de IA/ML com dados e experimentos da UFV e/ou Material Didático
+* 10 pts - Vídeo de um Artigo na sua área de pesquisa que utiliza Int. Artificial e/ou Aprendizado de Maq e/ou Deep Learning
+* 20 pts - Survey com pelos menos 6 artigos da sua área de pesquisa que utiliza Int. Artificial e/ou Aprendizado de Maq e/ou Deep Learning. 
+
+
+# Exemplos de vídeo de artigos do ano de 2021
+
+
+# Exemplos de survey de artigos do ano de 2021
