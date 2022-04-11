@@ -16,7 +16,7 @@ Pontuação
 * 20 pts - Survey com pelos menos 6 artigos da sua área de pesquisa que utiliza Int. Artificial e/ou Aprendizado de Maq e/ou Deep Learning. 
 
 
-# Exemplos de vídeo de artigos do ano de 2021
+# [Exemplos de vídeo de artigos do ano de 2021](https://docs.google.com/spreadsheets/d/17tnNYrbzGSrq64lUxSQX9egoEwoqGdafJ7LpXrKIBGQ/edit?usp=sharing)
 
 
-# Exemplos de survey de artigos do ano de 2021
+# [Exemplos de survey de artigos do ano de 2021](https://docs.google.com/spreadsheets/d/18-IEFvTJdo-nroIyS8-D_yGJ443st-_dK5JK7Q_v7ew/edit?usp=sharing)
