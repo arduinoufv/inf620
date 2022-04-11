@@ -43,6 +43,6 @@
       * Referências: Livro [Python Data Science Handbookby Jake VanderPlas](https://www.oreilly.com/library/view/python-data-science/9781491912126/) e o  canal [Statquest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw), [canal didática tech](https://www.youtube.com/watch?v=ID5Ui22F8HQ&list=PLyqOvdQmGdTSqkutrKDaVJlEv-ui1MyK4), livro [Data Mining](https://youtu.be/SrMhf65qqjg?t=426) do Prof. Wagner Meira da UFMG 
   
  * [Aula 10 - 12 Abril 2022 - Introdução ao Aprendizado Parte III]()
-       * [slides](https://docs.google.com/presentation/d/1H8F3Wn5fNB29cLqx3LycFNNErYpTilI0mVtCmkGXskk/edit?usp=sharing)
+      * [slides](https://docs.google.com/presentation/d/1H8F3Wn5fNB29cLqx3LycFNNErYpTilI0mVtCmkGXskk/edit?usp=sharing)
        
    
