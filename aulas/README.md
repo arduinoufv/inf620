@@ -46,8 +46,8 @@
       * [slides de SVM](https://docs.google.com/presentation/d/1H8F3Wn5fNB29cLqx3LycFNNErYpTilI0mVtCmkGXskk/edit?usp=sharing)
       * Tópicos: **Support Vector Machine - SVM**
 
- * [Aula 10 - 12 Abril 2022 - Introdução as Arvores de Decisão]()
-      * [slides de Arvores de Decisao]()
+ * [Aula 10 - 12 Abril 2022 - Introdução as Arvores de Decisão](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kdzPb7inEfgXNXfR3gOPtS)
+      * [slides de Arvores de Decisao](https://docs.google.com/presentation/d/1y4dkyMNFjLYU-ByBEXPExgCqYHHWkSxu5gDjo2hqzo0/edit?usp=sharing)
       * Tópicos: **Arvores de Decisao**
        
    
