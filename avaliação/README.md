@@ -1,3 +1,5 @@
+# [Videos com explicações](https://youtu.be/y6LqcjYH3kM)
+
 # Avaliação - Alunos que NÃO cursam Mestrado/Doutorado em Computação
 
 Pontuação
