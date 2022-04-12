@@ -42,7 +42,12 @@
       *  Tópicos: validação cruzada, Viés(Bias) e Variância, busca automática de parametros (tuning), revisão e mais exemplos de Naive Bayes, revisão e mais exemplos de Regressão Linear, engenharia de atributos (features).
       * Referências: Livro [Python Data Science Handbookby Jake VanderPlas](https://www.oreilly.com/library/view/python-data-science/9781491912126/) e o  canal [Statquest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw), [canal didática tech](https://www.youtube.com/watch?v=ID5Ui22F8HQ&list=PLyqOvdQmGdTSqkutrKDaVJlEv-ui1MyK4), livro [Data Mining](https://youtu.be/SrMhf65qqjg?t=426) do Prof. Wagner Meira da UFMG 
   
- * [Aula 10 - 12 Abril 2022 - Introdução ao Aprendizado Parte III]()
-      * [slides](https://docs.google.com/presentation/d/1H8F3Wn5fNB29cLqx3LycFNNErYpTilI0mVtCmkGXskk/edit?usp=sharing)
+ * [Aula 10 - 12 Abril 2022 - Introdução ao Aprendizado Parte III - SVM](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nF0eQB-UhnSCKsJnrnuXz9)
+      * [slides de SVM](https://docs.google.com/presentation/d/1H8F3Wn5fNB29cLqx3LycFNNErYpTilI0mVtCmkGXskk/edit?usp=sharing)
+      * Tópicos: **Support Vector Machine - SVM**
+
+ * [Aula 10 - 12 Abril 2022 - Introdução as Arvores de Decisão]()
+      * [slides de Arvores de Decisao]()
+      * Tópicos: **Arvores de Decisao**
        
    
