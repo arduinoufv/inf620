@@ -51,6 +51,6 @@
       * Tópicos: **Arvores de Decisao**, **Random Forest**
       * [colab da lista 6 - prazo até 9 de maio](https://colab.research.google.com/drive/1T9ZWngdvgjQLBcKSOrIgaVNzDG0fJuDw?usp=sharing)
       * [Formulário para envio da lista 6](https://forms.gle/9XtQkadJeKy4KtYG9)
-      * [Vídeo explicativo para lista 6]()
+      * [Vídeo explicativo para lista 6](https://youtu.be/n7YkoL3ejD4)
        
    
