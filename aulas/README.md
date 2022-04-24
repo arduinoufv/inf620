@@ -53,4 +53,9 @@
       * [Formulário para envio da lista 6](https://forms.gle/9XtQkadJeKy4KtYG9)
       * [Vídeo explicativo para lista 6](https://youtu.be/n7YkoL3ejD4)
        
+  * [Aula 11 - 26 Abril 2022 - Boosting (assíncrona)](https://studio.youtube.com/channel/UCv4EGtmSQFQ8aHNYJEe1pDA/playlists)
+    * [slides de Arvores de Decisao](https://docs.google.com/presentation/d/1y4dkyMNFjLYU-ByBEXPExgCqYHHWkSxu5gDjo2hqzo0/edit?usp=sharing)
+    * Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost**
+    
+    
    
