@@ -59,7 +59,7 @@
     
  * [Aula 12 -28 abril 2022 - Aprendizado não supervisionado](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lKYByMAdkh4oQ81zTYI9U9)
     * [slides](https://docs.google.com/presentation/d/10ujnonGpX676zUcPDJyovN0SARlFOXcWczCf_FuS6AI/edit?usp=sharing)
- * [Aula 13 - 3 Maio de 2022 - PCA e redução de dimensionalidade](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mS_CLF71q3VQ1sOEXLQ4Hg)
+ * [Aula 13 - 3 Maio de 2022 - PCA e redução de dimensionalidade (assíncrona)](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mS_CLF71q3VQ1sOEXLQ4Hg)
     * [slides](https://docs.google.com/presentation/d/1LtUNRaVyoDsw8pzHBEC-6rdkDm4NMRLR_z5DvUd7Er4/edit?usp=sharing)
     * Assistir também o [vídeo de Redes Neurais do Professor Antônio Braga da UFMG](https://youtu.be/F0to9MTqEhY), convidado a dar uma palestra de redes neurais na UFV
    
