@@ -49,7 +49,7 @@
  * [Aula 10 - Parte II - 12/19 Abril 2022 - Introdução as Arvores de Decisão](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kPS0Q8Op09SS0XFAIo9Vk6)
       * [slides de Arvores de Decisao](https://docs.google.com/presentation/d/1y4dkyMNFjLYU-ByBEXPExgCqYHHWkSxu5gDjo2hqzo0/edit?usp=sharing)
       * Tópicos: **Arvores de Decisao**, **Random Forest**
-      * [colab da lista 6 - prazo até 9 de maio](https://colab.research.google.com/drive/1T9ZWngdvgjQLBcKSOrIgaVNzDG0fJuDw?usp=sharing)
+      * [colab da lista 6 - prazo até 9 de maio](htthttps://docs.google.com/presentation/d/1LtUNRaVyoDsw8pzHBEC-6rdkDm4NMRLR_z5DvUd7Er4/edit?usp=sharingps://colab.research.google.com/drive/1T9ZWngdvgjQLBcKSOrIgaVNzDG0fJuDw?usp=sharing)
       * [Formulário para envio da lista 6](https://forms.gle/9XtQkadJeKy4KtYG9)
       * [Vídeo explicativo para lista 6](https://youtu.be/n7YkoL3ejD4)
        
@@ -59,4 +59,7 @@
     
  * [Aula 12 -28 abril 2022 - Aprendizado não supervisionado](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lKYByMAdkh4oQ81zTYI9U9)
     * [slides](https://docs.google.com/presentation/d/10ujnonGpX676zUcPDJyovN0SARlFOXcWczCf_FuS6AI/edit?usp=sharing)
+ * [Aula 13 - 3 Maio de 2022 - PCA e redução de dimensionalidade](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mS_CLF71q3VQ1sOEXLQ4Hg)
+    * [slides](https://docs.google.com/presentation/d/1LtUNRaVyoDsw8pzHBEC-6rdkDm4NMRLR_z5DvUd7Er4/edit?usp=sharing)
+    * Assistir também o [vídeo de Redes Neurais do Professor Antônio Braga da UFMG](https://youtu.be/F0to9MTqEhY), convidado a dar uma palestra de redes neurais na UFV
    
