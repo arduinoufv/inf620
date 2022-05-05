@@ -49,7 +49,7 @@
  * [Aula 10 - Parte II - 12/19 Abril 2022 - Introdução as Arvores de Decisão](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kPS0Q8Op09SS0XFAIo9Vk6)
       * [slides de Arvores de Decisao](https://docs.google.com/presentation/d/1y4dkyMNFjLYU-ByBEXPExgCqYHHWkSxu5gDjo2hqzo0/edit?usp=sharing)
       * Tópicos: **Arvores de Decisao**, **Random Forest**
-      * [colab da lista 6 - prazo até 9 de maio](https://colab.research.google.com/drive/1T9ZWngdvgjQLBcKSOrIgaVNzDG0fJuDw?usp=sharing)
+      * [colab da lista 6 - prazo até 16 de maio](https://colab.research.google.com/drive/1T9ZWngdvgjQLBcKSOrIgaVNzDG0fJuDw?usp=sharing)
       * [Formulário para envio da lista 6](https://forms.gle/9XtQkadJeKy4KtYG9)
       * [Vídeo explicativo para lista 6](https://youtu.be/n7YkoL3ejD4)
        
