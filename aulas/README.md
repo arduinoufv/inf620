@@ -66,6 +66,6 @@
  * [Aula 14 - Redes Neurais](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ms2mzmfnJu88t3pzX4fuxy)
        * [Slides](https://docs.google.com/presentation/d/1jCPr7rAANCWgEhbO4vIhpnCWaJuRTwPqn3uh0Se4neQ/edit?usp=sharing)
 
-* Aula 15 - Redes Convolucionais
+* [Aula 15 - Redes Convolucionais](https://www.youtube.com/playlist?list=PLcvOyD_LMr6laDL4ejEm7TvoSV1ujcuwq)
        [Slides](https://docs.google.com/presentation/d/1ImBh4awNQ6s6yx9ehcBwg1N1FxBFNHT08olVcH4H_Ag/edit?usp=sharing) 
-       [Demo Gradio](https://20948.gradio.app/)   
+       [Usar o link mais atual que estiver na planilha Demo Gradio]([https://20948.gradio.app/](https://docs.google.com/spreadsheets/d/1PnaqXAQQIgQ88Jp2K9_W--lwNnHwbbN5Jmpe_OX1Zq0/edit#gid=0))   
