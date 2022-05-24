@@ -71,3 +71,9 @@
    * [Usar o link mais atual que estiver na planilha Demo Gradio](https://docs.google.com/spreadsheets/d/1PnaqXAQQIgQ88Jp2K9_W--lwNnHwbbN5Jmpe_OX1Zq0/edit#gid=0)
  * [Aula 16 - Arquiteturas das Redes](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mQyaXkTx89eE7EO8bVt62n)   
    * [slides das arquiteturas de redes convolucionais](https://docs.google.com/presentation/d/1VILc5ts6Cuz3mwITOnbzPl9HUND_UMULoxRBakCmIQg/edit?usp=sharing)
+
+ * [Aula 17 - RNN & LSTM]()
+   * [Slides](https://docs.google.com/presentation/d/1kih30g1o3hEeBn-TjV_T8iDxHgnqDjcywgS7ZYLFZxs/edit?usp=sharing)
+  
+ * [Aula 18 - Word Embedding & Transformers]()
+   * [Slides](https://docs.google.com/presentation/d/1TCBjYVdFU16PJuw97-zjG3NnkOwW3RSybh8DtA2rQu8/edit?usp=sharing)
