@@ -72,7 +72,7 @@
  * [Aula 16 - Arquiteturas das Redes](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mQyaXkTx89eE7EO8bVt62n)   
    * [slides das arquiteturas de redes convolucionais](https://docs.google.com/presentation/d/1VILc5ts6Cuz3mwITOnbzPl9HUND_UMULoxRBakCmIQg/edit?usp=sharing)
 
- * [Aula 17 - RNN & LSTM]()
+ * [Aula 17 - RNN & LSTM](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lffWZmhyBOKg27qCoXLWbA)
    * [Slides](https://docs.google.com/presentation/d/1kih30g1o3hEeBn-TjV_T8iDxHgnqDjcywgS7ZYLFZxs/edit?usp=sharing)
   
  * [Aula 18 - Word Embedding & Transformers]()
