@@ -75,5 +75,5 @@
  * [Aula 17 - RNN & LSTM](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lffWZmhyBOKg27qCoXLWbA)
    * [Slides](https://docs.google.com/presentation/d/1kih30g1o3hEeBn-TjV_T8iDxHgnqDjcywgS7ZYLFZxs/edit?usp=sharing)
   
- * [Aula 18 - Word Embedding & Transformers]()
+ * [Aula 18 - Word Embedding & Transformers](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kw_P8xif7WWaqCyALmQbQc)
    * [Slides](https://docs.google.com/presentation/d/1TCBjYVdFU16PJuw97-zjG3NnkOwW3RSybh8DtA2rQu8/edit?usp=sharing)
