@@ -77,3 +77,8 @@
   
  * [Aula 18 - Word Embedding & Transformers](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kw_P8xif7WWaqCyALmQbQc)
    * [Slides](https://docs.google.com/presentation/d/1TCBjYVdFU16PJuw97-zjG3NnkOwW3RSybh8DtA2rQu8/edit?usp=sharing)
+ 
+ * **Demonstrações**
+    * [Matheus - Gradio Coleta de dados e Rede Convolucional para Reconhecer 5 objetos](https://docs.google.com/presentation/d/1dmi2Rw3znju59bBRh0HyXSXtKitcA11WrGmmRtRcFqo/edit?usp=sharing)
+    * [Yago - NLP - Spacy e GPT-3 Demo Chat Bot](https://docs.google.com/presentation/d/16UHpzvYupMWheyZeLn83KQ2l8FPlCNr3/edit?usp=sharing&ouid=111706728773970981162&rtpof=true&sd=true)
+    * [Airton - Redes Neurais Passo a Passo - Em Construção]() 
