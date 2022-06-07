@@ -84,4 +84,7 @@
     * [Yago - NLP - Spacy e GPT-3 Demo Chat Bot](https://youtu.be/aBLWmkfudD8)
           * [slides](https://docs.google.com/presentation/d/16UHpzvYupMWheyZeLn83KQ2l8FPlCNr3/edit?usp=sharing&ouid=111706728773970981162&rtpof=true&sd=true)
           
+    * [Lstm aplicado a predição de vazão de bacias- HUgo e Gabriel](https://youtu.be/CSuZZcC6XUA) [slides - em construção]()
+    * [Sugestão de Sequência de Passos para Análise dos Dados - Adilson - Parte I](https://youtu.be/kU3SpBnuFRo)   [slides](https://docs.google.com/presentation/d/1HkZRF2ko6AyU2cyQCS5uaNPgeYAmdIqaShK6R2_Av-4/edit?usp=sharing)
+       
     * [Airton - Redes Neurais Passo a Passo - Em Construção]() 
