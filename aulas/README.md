@@ -87,4 +87,4 @@
     * [Lstm aplicado a predição de vazão de bacias- HUgo e Gabriel](https://youtu.be/CSuZZcC6XUA) [slides - em construção]()
     * [Sugestão de Sequência de Passos para Análise dos Dados - Adilson - Parte I](https://youtu.be/kU3SpBnuFRo)   [Parte II com os colabs](https://youtu.be/E-LTIO1uclc) [slides](https://docs.google.com/presentation/d/1HkZRF2ko6AyU2cyQCS5uaNPgeYAmdIqaShK6R2_Av-4/edit?usp=sharing)
        
-    * [Airton - Redes Neurais Passo a Passo - Em Construção]() 
+    * [Airton - Redes Neurais Passo a Passo](https://youtu.be/HlRgaRBsb5Y) [slides](https://docs.google.com/presentation/d/1gwB16dgmH43w0CHyVXbPDmCJmxwv6mB1hSqHyPUGqEc/edit?usp=sharing)
