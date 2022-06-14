@@ -88,3 +88,8 @@
     * [Sugestão de Sequência de Passos para Análise dos Dados - Adilson - Parte I](https://youtu.be/kU3SpBnuFRo)   [Parte II com os colabs](https://youtu.be/E-LTIO1uclc) [slides](https://docs.google.com/presentation/d/1HkZRF2ko6AyU2cyQCS5uaNPgeYAmdIqaShK6R2_Av-4/edit?usp=sharing)
        
     * [Airton - Redes Neurais Passo a Passo](https://youtu.be/HlRgaRBsb5Y) [slides](https://docs.google.com/presentation/d/1gwB16dgmH43w0CHyVXbPDmCJmxwv6mB1hSqHyPUGqEc/edit?usp=sharing)
+
+
+ * [Aula de Detecao e Segmentaçao de Imagens]()
+      * [Slides e demos](https://docs.google.com/presentation/d/1E_EZ92JvScPdxwmwUo9dgdaSrbiNB1-rbOCymjUNqyM/edit?usp=sharing)
+      * [Apresentacao dos Resultados de Raphael e Mariana da Segmentação](https://youtu.be/p0vBEaXZl-s) 
