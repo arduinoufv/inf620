@@ -89,7 +89,8 @@
        
     * [Airton - Redes Neurais Passo a Passo](https://youtu.be/HlRgaRBsb5Y) [slides](https://docs.google.com/presentation/d/1gwB16dgmH43w0CHyVXbPDmCJmxwv6mB1hSqHyPUGqEc/edit?usp=sharing)
 
-
- * [Aula de Detecao e Segmentaçao de Imagens]()
+ * [Aula revisão de redes neurais](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lzPBRjA5h7NaM3Px9Z6mCQ)
+    * [slides](https://docs.google.com/presentation/d/1nvhGk_kZCH78jjaVIt5GAgACGYujZ1yNjn2bLdZK7ko/edit?usp=sharing)
+ * [Aula de Detecao e Segmentaçao de Imagens](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k-S77YzyaM9vzDev80H350)
       * [Slides e demos](https://docs.google.com/presentation/d/1E_EZ92JvScPdxwmwUo9dgdaSrbiNB1-rbOCymjUNqyM/edit?usp=sharing)
       * [Apresentacao dos Resultados de Raphael e Mariana da Segmentação](https://youtu.be/p0vBEaXZl-s) 
