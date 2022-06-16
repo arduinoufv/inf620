@@ -93,4 +93,5 @@
     * [slides](https://docs.google.com/presentation/d/1nvhGk_kZCH78jjaVIt5GAgACGYujZ1yNjn2bLdZK7ko/edit?usp=sharing)
  * [Aula de Detecao e Segmentaçao de Imagens](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k-S77YzyaM9vzDev80H350)
       * [Slides e demos](https://docs.google.com/presentation/d/1E_EZ92JvScPdxwmwUo9dgdaSrbiNB1-rbOCymjUNqyM/edit?usp=sharing)
-      * [Apresentacao dos Resultados de Raphael e Mariana da Segmentação](https://youtu.be/p0vBEaXZl-s) 
+      * [Apresentacao dos Resultados de Raphael e Mariana da Segmentação](https://youtu.be/p0vBEaXZl-s) para acessar o [Colab com a Unet](https://colab.research.google.com/drive/18bj73uoPviiYsCRhSmFD1m9MI8tdoR9D)
+
