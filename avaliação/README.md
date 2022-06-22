@@ -1,7 +1,7 @@
 # Envio dos trabalhos
 
-* [Envio do Artigo](https://forms.gle/7rxSB83PyK7mvXH27)
-* [Envio do Vídeo](https://forms.gle/FKmYUWUyN52Wrep1A)
+* [Envio do Artigo](https://forms.gle/7rxSB83PyK7mvXH27) Prazo 28/6
+* [Envio do Vídeo](https://forms.gle/FKmYUWUyN52Wrep1A)  Prazo 1/7
 
 # [Videos com explicações](https://youtu.be/y6LqcjYH3kM)
 
