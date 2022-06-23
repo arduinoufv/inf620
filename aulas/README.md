@@ -94,4 +94,10 @@
  * [Aula de Detecao e Segmentaçao de Imagens](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k-S77YzyaM9vzDev80H350)
       * [Slides e demos](https://docs.google.com/presentation/d/1E_EZ92JvScPdxwmwUo9dgdaSrbiNB1-rbOCymjUNqyM/edit?usp=sharing)
       * [Apresentacao dos Resultados de Raphael e Mariana da Segmentação](https://youtu.be/p0vBEaXZl-s) para acessar o [Colab com a Unet](https://colab.research.google.com/drive/18bj73uoPviiYsCRhSmFD1m9MI8tdoR9D)
+      
+ * [Aula de Redes Neurais com Grafos e Node2Vec](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lkHA3sPi3_7itSaStYmRhU)
+      * [ slides](https://docs.google.com/presentation/d/1He_F88zTXEYm4Wr1oovduwKtknILdcP9mXq_IKh3Dyg/edit?usp=sharing)
+      
+ * [Aula de Revisão geral de Aprendizado de Máquina](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n0ghqYMMbjoxs5fhrHjVpr)
+      * [slides](https://docs.google.com/presentation/d/1ms0pcfZbIUNdvUzLyzaaJJQ9Wo0P3Y-Z8EpPkKXGgMY/edit?usp=sharing)
 
