@@ -100,4 +100,6 @@
       
  * [Aula de Revisão geral de Aprendizado de Máquina](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n0ghqYMMbjoxs5fhrHjVpr)
       * [slides](https://docs.google.com/presentation/d/1ms0pcfZbIUNdvUzLyzaaJJQ9Wo0P3Y-Z8EpPkKXGgMY/edit?usp=sharing)
+ * [ Aula de Revisão de Deep Learning , Auto Encoder e GAN](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lBNRPCuxbvgytG4Hg0OwHw)
+      * [slides](https://docs.google.com/presentation/d/1z8mJGxRoqZxzDlGmA0OM9e0y3K_UKPUZBdvyiyPfWBA/edit?usp=sharing)
 
