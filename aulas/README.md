@@ -6,10 +6,10 @@
 
 ## Programação 2023
 
-1. Introdução - 7/3 [slides](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [Gravação]()
+1. Introdução - 7/3 [slides Aula 1](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [Gravação]()
 
-2. Introdução Continuação - 9/3 [slides](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [Gravação]() - Atividades [Para Entregar]()
-3. [14/3]
+2. Introdução Continuação - 9/3 [slides Aula 1 cont](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [Gravação]() - Atividades [Para Entregar]()
+3. Introdução a Programação - 14/3 [slide Aula 2](https://docs.google.com/presentation/d/1Ftk4GjlyI_tf9IfoVviYW4OInxqnM3zRc6TPahmzc8U/edit?usp=sharing)
 4. [16/3]
 5. [21/3]
 6. [23/3]
