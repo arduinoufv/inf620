@@ -11,7 +11,7 @@
 2. Introdução Continuação - 9/3 [slides Aula 1 cont](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [Gravação]() - Atividades [Para Entregar]()
 3. Introdução a Programação - 14/3 [slide Aula 2 Tipos, Variáveis, Listas e Dicionários](https://docs.google.com/presentation/d/1Ftk4GjlyI_tf9IfoVviYW4OInxqnM3zRc6TPahmzc8U/edit?usp=sharing) Registro da Aula [Gravação]() - Atividades [Para Entregar]()
 4. Introdução a Programação - 16/3 [slide Aula 3  Sets, Tuplas, Funções, Classes](https://docs.google.com/presentation/d/1Zv7GwoSk_I4FSvYkTan07kQvnDAoDWQO3Sp3so19e2A/edit?usp=sharing) Registro da Aula [Gravação]() - Atividades [Para Entregar]()
-5. Introdução a Programação - 21/3 [slide NumPy](https://docs.google.com/presentation/d/110kBncxqTlqmFjUS-pyYL79bAZa6kBwro8E1-UTyIA4/edit?usp=sharing) Registro da Aula [Gravação]() - Atividades [Para Entregar]()
+5. Introdução a Programação - 21/3 [slide Gradio e NumPy](https://docs.google.com/presentation/d/110kBncxqTlqmFjUS-pyYL79bAZa6kBwro8E1-UTyIA4/edit?usp=sharing) Registro da Aula [Gravação]() - Atividades [Para Entregar]()
 6. [23/3]
 * [28/3]
 * [30/3]
