@@ -4,6 +4,9 @@
 * Sala: A Definir
 * Links: A Definir
 
+Quanto a atividade estiver piscando, <blink>informa que deve ser entregue</blink>
+
+
 ## Programação 2023
 
 1. Introdução - 7/3 [slides Aula 1](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [Gravação]()
