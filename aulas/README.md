@@ -4,7 +4,7 @@
 * Sala: A Definir
 * Links: A Definir
 
-Quanto a atividade estiver piscando, <blink>informa que deve ser entregue</blink>
+Quanto a atividade estiver piscando, ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
 
 
 ## Programação 2023
