@@ -1,8 +1,8 @@
 # Aulas de 2023
 
 * Horários: Terças e Quintas 8am as 10am
-* Sala: A Definir
-* Links: A Definir
+* Sala: sala 408 CCE (Predio Vermelho) 4 andar - Sala de Seminarios do Dpto de Informática
+* Links: [meeting](https://meet.google.com/zfz-bfgy-dnm)
 
 Quanto a atividade estiver piscando, ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
 
