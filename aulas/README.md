@@ -9,7 +9,7 @@ Quanto a atividade estiver piscando, ![](https://github.com/arduinoufv/inf620/bl
 
 ## Programação 2023
 
-1. Introdução - 7/3 [slides Aula 1](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [Gravação]()
+1. Introdução - 7/3 [slides Aula 1](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kidT6I8AfcsSoaUQUpMDWY)
 
 2. Introdução Continuação - 9/3 [slides Aula 1 cont](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [Gravação]() - Atividades [Para Entregar]()
 3. Introdução a Programação - 14/3 [slide Aula 2 Tipos, Variáveis, Listas e Dicionários](https://docs.google.com/presentation/d/1Ftk4GjlyI_tf9IfoVviYW4OInxqnM3zRc6TPahmzc8U/edit?usp=sharing) Registro da Aula [Gravação]() - Atividades [Para Entregar]()
