@@ -10,7 +10,7 @@
 
 1. Introdução - 7/3 [slides Aula 1](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kidT6I8AfcsSoaUQUpMDWY)
 
-2. Introdução Continuação - 9/3 [slides Aula 1 cont](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula (https://www.youtube.com/playlist?list=PLcvOyD_LMr6kidT6I8AfcsSoaUQUpMDWY) - Atividades [Para Entregar até 14/3/23, 2 pontos](https://forms.gle/bAzSjLXMDBuPiUVJ9)  ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
+2. Introdução Continuação - 9/3 [slides Aula 1 cont](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kidT6I8AfcsSoaUQUpMDWY) - Atividades [Para Entregar até 14/3/23, 2 pontos](https://forms.gle/bAzSjLXMDBuPiUVJ9)  ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
 
 3. Introdução a Programação - 14/3 [slide Aula 2 Tipos, Variáveis, Listas e Dicionários](https://docs.google.com/presentation/d/1Ftk4GjlyI_tf9IfoVviYW4OInxqnM3zRc6TPahmzc8U/edit?usp=sharing) Registro da Aula [Gravação]() - Atividades [Para Entregar]()
 4. Introdução a Programação - 16/3 [slide Aula 3  Sets, Tuplas, Funções, Classes](https://docs.google.com/presentation/d/1Zv7GwoSk_I4FSvYkTan07kQvnDAoDWQO3Sp3so19e2A/edit?usp=sharing) Registro da Aula [Gravação]() - Atividades [Para Entregar]()
