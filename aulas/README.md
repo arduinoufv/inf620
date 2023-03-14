@@ -12,12 +12,13 @@
 
 2. Introdução Continuação - 9/3 [slides Aula 1 cont](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kidT6I8AfcsSoaUQUpMDWY) - Atividades [Para Entregar até 14/3/23, 2 pontos](https://forms.gle/bAzSjLXMDBuPiUVJ9)  ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
 
-3. Introdução a Programação - 14/3 [slide Aula 2 Tipos, Variáveis, Listas e Dicionários](https://docs.google.com/presentation/d/1Ftk4GjlyI_tf9IfoVviYW4OInxqnM3zRc6TPahmzc8U/edit?usp=sharing) Registro da Aula [Gravação]() - Atividades [Para Entregar]()
+3. Introdução a Programação - 14/3 [slide Aula 2 Tipos, Variáveis, Listas e Dicionários](https://docs.google.com/presentation/d/1Ftk4GjlyI_tf9IfoVviYW4OInxqnM3zRc6TPahmzc8U/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6myudXSygYrh5OWQuLdPigj)
+
 4. Introdução a Programação - 16/3 [slide Aula 3  Sets, Tuplas, Funções, Classes](https://docs.google.com/presentation/d/1Zv7GwoSk_I4FSvYkTan07kQvnDAoDWQO3Sp3so19e2A/edit?usp=sharing) Registro da Aula [Gravação]() - Atividades [Para Entregar]()
 5. Introdução a Programação - 21/3 [slide Gradio e NumPy](https://docs.google.com/presentation/d/110kBncxqTlqmFjUS-pyYL79bAZa6kBwro8E1-UTyIA4/edit?usp=sharing) Registro da Aula [Gravação]() - Atividades [Para Entregar]()
-6. [23/3]
-* [28/3]
-* [30/3]
+6.   Introdução a Programação - 23/3 [slide Pandas]() Registro da Aula [Gravação]() - Atividades [Para Entregar]()
+7.   Introdução a Programação - 28/3 [slide Pandas parte II, arquivos e matplotlib]() Registro da Aula [Gravação]() - Atividades [Para Entregar]()
+8.  [30/3]
 * [4/4]
 * [11/4]
 * [13/4]
