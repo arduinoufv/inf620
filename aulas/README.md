@@ -18,9 +18,9 @@
 5. Introdução a Programação - 21/3 [slide Gradio e NumPy](https://docs.google.com/presentation/d/110kBncxqTlqmFjUS-pyYL79bAZa6kBwro8E1-UTyIA4/edit?usp=sharing) Registro da Aula [Gravação]() - Atividades [Para Entregar]()
 6.   Introdução a Programação - 23/3 [slide Pandas]() Registro da Aula [Gravação]() - Atividades [Para Entregar]()
 7.   Introdução a Programação - 28/3 [slide Pandas parte II, arquivos e matplotlib]() Registro da Aula [Gravação]() - Atividades [Para Entregar]()
-8.  [30/3]
-* [4/4]
-* [11/4]
+8.  Introdução a Programação - 30/3 [Slide Jupyter Iterativo e linguagem Markdown]()
+9.  Introdução a Programação - 4/4  [Manipulação de Imagens, Github e Google Drive]()
+10.  Introdução a Programação - 11/4 [Visitando Colabs de aprendizado de Máquina]()
 * [13/4]
 * [18/4]
 * [20/4]
