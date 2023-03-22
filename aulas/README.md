@@ -21,28 +21,28 @@
 8.  Introdução a Programação - 30/3 [Slide Jupyter Iterativo e linguagem Markdown]()
 9.  Introdução a Programação - 4/4  [Manipulação de Imagens, Github e Google Drive]()
 10.  Introdução a Programação - 11/4 [Visitando Colabs de aprendizado de Máquina]()
-* [13/4]
-* [18/4]
-* [20/4]
-* [25/4]
-* [27/4]
-* [2/5]
-* [4/5]
-* [9/5]
-* [11/5]
-* [16/5]
-* [18/5]
-* [23/5]
-* [25/5]
-* [30/5]
-* [1/6]
-* [6/6]
-* [13/6]
-* [15/6]
-* [20/6]
-* [22/6]
-* [27/4]
-* [29/4]
+* [13/4] Exemplos de modelos com Regressão Linear, Naive Bayes, Gaussian Naive Bayes, KNN
+* [18/4] validação cruzada, Viés(Bias) e Variância, busca automática de parametros (tuning), revisão e mais exemplos de Naive Bayes, revisão e mais exemplos de Regressão Linear, engenharia de atributos (features).
+* [20/4] SVM
+* [25/4] Arvores de Decisão
+* [27/4] Random Forest
+* [2/5]  Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost**
+* [4/5]  Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost**
+* [9/5]   Aprendizado não supervisionado - Kmeans
+* [11/5]  Aprendizado não supervisionado - outros métodos de agrupamento
+* [16/5]  PCA
+* [18/5]  Redes Neurais
+* [23/5]  Redes Neurais
+* [25/5]  RNN & LSTM 
+* [30/5]  Redes Convolucionais
+* [1/6]   Arquiteturas
+* [6/6]   Detecao e Segmentaçao de Imagens
+* [13/6]  Word Embedding & Transformers
+* [15/6]  Aprendizado por Reforço
+* [20/6]  Aprendizado por Reforço
+* [22/6]  Auto Encoder e GAN
+* [27/4]  Redes Neurais com Grafos e Node2Vec
+* [29/4]  Palestras Michel, Julio, Thiago, Sabrina, Marcos, Hugo, Lucas
  
  
 
