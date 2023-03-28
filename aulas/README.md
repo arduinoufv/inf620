@@ -18,9 +18,9 @@
 4. Introdução a Programação - 16/3 [slide Aula 3  Sets, Tuplas, Funções, Classes](https://docs.google.com/presentation/d/1Zv7GwoSk_I4FSvYkTan07kQvnDAoDWQO3Sp3so19e2A/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kUKY26eusN_hdtAqSQ0qTe) - Atividades [Para Entregar - 3 pontos](https://forms.gle/Kmfa8kfE7ukkLt6k7) Assistir o [vídeo com dicas](https://youtu.be/HaiESjM_460)  
 5. Introdução a Programação - 21/3 [slide Gradio e NumPy](https://docs.google.com/presentation/d/110kBncxqTlqmFjUS-pyYL79bAZa6kBwro8E1-UTyIA4/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kM7SAdx4ADf_UjHo4Rldxq) - Atividades [Para Entregar]()
 6.   Introdução a Programação - 23/3 [slide Pandas](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mFTOufBAOavXBoqzF9MM2K) - Atividades [Para Entregar 30 de março de 2023 ](https://forms.gle/pRsxW1k7qZRY8LyDA) ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
-7.   Introdução a Programação - 28/3 [slide Pandas parte II, arquivos e matplotlib](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) Registro da Aula [Gravação]() - Atividades [Para Entregar]()
-8.  Introdução a Programação - 30/3 [Slide Jupyter Iterativo e linguagem Markdown]()
-9.  Introdução a Programação - 4/4  [Manipulação de Imagens, Github e Google Drive]()
+7.   Introdução a Programação - 28/3 [slide Pandas parte II, arquivos e matplotlib, Jupyter Iterativo e linguagem Markdown](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) Registro da Aula [Gravação]() - Atividades [Para Entregar]()
+8.  Introdução a Programação - 30/3 [Manipulação de Imagens, Github e Google Drive ]()
+9.  Introdução a Programação - 4/4  [Visitando Colabs de aprendizado de Máquina]()
 10.  Introdução a Programação - 11/4 [Visitando Colabs de aprendizado de Máquina]()
 * [13/4] Exemplos de modelos com Regressão Linear, Naive Bayes, Gaussian Naive Bayes, KNN
 * [18/4] validação cruzada, Viés(Bias) e Variância, busca automática de parametros (tuning), revisão e mais exemplos de Naive Bayes, revisão e mais exemplos de Regressão Linear, engenharia de atributos (features).
