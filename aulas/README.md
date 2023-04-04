@@ -20,29 +20,29 @@
 6.   Introdução a Programação - 23/3 [slide Pandas](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mFTOufBAOavXBoqzF9MM2K) - Atividades [Para Entregar 30 de março de 2023 ](https://forms.gle/pRsxW1k7qZRY8LyDA) ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
 7.   Introdução a Programação - 28/3 [slide Pandas parte II, arquivos e matplotlib, Jupyter Iterativo e linguagem Markdown](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l-b_RQQ0QOnLBQvipzzXcU) - Atividades [Para Entregar 18 de abril](https://colab.research.google.com/drive/1rUlcUze00BSriWMDFWrHze781nRbvtZi?usp=sharing) ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
 8.  Introdução a Programação - 30/3 [slide Manipulação de Imagens, Github e Google Drive ](https://docs.google.com/presentation/d/1QeTy49w4ANS5ecBRMTAnsDUOsm80s2kJXsQBsBvKWtc/edit?usp=sharing) Gravação da aula [playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n1eqTA3dxqU5BmXtGhUykG)
-9.  Introdução a Programação - 4/4  [Visitando Colabs de aprendizado de Máquina]()
-10.  Introdução a Programação - 11/4 [Visitando Colabs de aprendizado de Máquina]()
-* [13/4] Exemplos de modelos com Regressão Linear, Naive Bayes, Gaussian Naive Bayes, KNN
-* [18/4] validação cruzada, Viés(Bias) e Variância, busca automática de parametros (tuning), revisão e mais exemplos de Naive Bayes, revisão e mais exemplos de Regressão Linear, engenharia de atributos (features).
-* [20/4] SVM
-* [25/4] Arvores de Decisão
-* [27/4] Random Forest
+9.  Introdução a Programação - 4/4  [Visitando Colabs de aprendizado de Máquina](https://docs.google.com/presentation/d/1K9p27pa3PKJim7vJqe3hLFlonGCHmbbgZPGDDCA3DXY/edit?usp=sharing)
+10.  Introdução a Programação - 11/4 Exemplos de modelos com Regressão Linear, Naive Bayes, Gaussian Naive Bayes, KNN
+* [13/4] validação cruzada, Viés(Bias) e Variância, busca automática de parametros (tuning), revisão e mais exemplos de Naive Bayes, revisão e mais exemplos de Regressão Linear, engenharia de atributos (features).
+* [18/4] SVM
+* [20/4] Arvores de Decisão
+* [25/4] Random Forest
+* [27/4] Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost**
 * [2/5]  Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost**
-* [4/5]  Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost**
-* [9/5]   Aprendizado não supervisionado - Kmeans
-* [11/5]  Aprendizado não supervisionado - outros métodos de agrupamento
-* [16/5]  PCA
+* [4/5]   Aprendizado não supervisionado - Kmeans
+* [9/5]  Aprendizado não supervisionado - outros métodos de agrupamento
+* [11/5]   PCA
+* [16/5] Redes Neurais
 * [18/5]  Redes Neurais
-* [23/5]  Redes Neurais
-* [25/5]  RNN & LSTM 
-* [30/5]  Redes Convolucionais
-* [1/6]   Arquiteturas
-* [6/6]   Detecao e Segmentaçao de Imagens
-* [13/6]  Word Embedding & Transformers
-* [15/6]  Aprendizado por Reforço
-* [20/6]  Aprendizado por Reforço
-* [22/6]  Auto Encoder e GAN
-* [27/4]  Redes Neurais com Grafos e Node2Vec
+* [23/5]   RNN & LSTM 
+* [25/5] Redes Convolucionais
+* [30/5]  Arquiteturas
+* [1/6]  Detecao e Segmentaçao de Imagens 
+* [6/6]   Word Embedding & Transformers 
+* [13/6] Aprendizado por Reforço
+* [15/6]   Aprendizado por Reforço
+* [20/6]  Auto Encoder e GAN
+* [22/6]  Redes Neurais com Grafos e Node2Vec
+* [27/4]  Palestras Michel, Julio, Thiago, Sabrina, Marcos, Hugo, Lucas
 * [29/4]  Palestras Michel, Julio, Thiago, Sabrina, Marcos, Hugo, Lucas
  
  
