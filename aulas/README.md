@@ -21,13 +21,13 @@
 7.   Introdução a Programação - 28/3 [slide Pandas parte II, arquivos e matplotlib, Jupyter Iterativo e linguagem Markdown](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l-b_RQQ0QOnLBQvipzzXcU) - Atividades [Para Entregar 18 de abril](https://colab.research.google.com/drive/1rUlcUze00BSriWMDFWrHze781nRbvtZi?usp=sharing) ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
 8.  Introdução a Programação - 30/3 [slide Manipulação de Imagens, Github e Google Drive ](https://docs.google.com/presentation/d/1QeTy49w4ANS5ecBRMTAnsDUOsm80s2kJXsQBsBvKWtc/edit?usp=sharing) Gravação da aula [playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n1eqTA3dxqU5BmXtGhUykG)
 9.  Introdução a Programação - 4/4  [Visitando Colabs de aprendizado de Máquina](https://docs.google.com/presentation/d/1K9p27pa3PKJim7vJqe3hLFlonGCHmbbgZPGDDCA3DXY/edit?usp=sharing)
-10.  Introdução a Programação - 11/4 Exemplos de modelos com Regressão Linear, Naive Bayes, Gaussian Naive Bayes, KNN
-* [13/4] validação cruzada, Viés(Bias) e Variância, busca automática de parametros (tuning), revisão e mais exemplos de Naive Bayes, revisão e mais exemplos de Regressão Linear, engenharia de atributos (features).
-* [18/4] SVM
-* [20/4] Arvores de Decisão
-* [25/4] Random Forest
+10.  Introdução a Programação - 11/4 [Exemplos de modelos com Regressão Linear, Naive Bayes, Gaussian Naive Bayes, KNN](https://docs.google.com/presentation/d/1LN0qAsAF7El_86HRBchXryQ3iZ1fc5D0KUx11X7Le1E/edit?usp=sharing)
+* [13/4] [validação cruzada, Viés(Bias) e Variância, busca automática de parametros (tuning), revisão e mais exemplos de Naive Bayes, revisão e mais exemplos de Regressão Linear, engenharia de atributos (features)](https://docs.google.com/presentation/d/1e02qSnwNUj-OnOpdIJ35hf67b4CK6-KwNTxRXg1AM4s/edit?usp=sharing)
+* [18/4] Arvores de Decisão
+* [20/4] Random Forest
+* [25/4] Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost**
 * [27/4] Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost**
-* [2/5]  Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost**
+* [2/5]  SVM 
 * [4/5]   Aprendizado não supervisionado - Kmeans
 * [9/5]  Aprendizado não supervisionado - outros métodos de agrupamento
 * [11/5]   PCA
