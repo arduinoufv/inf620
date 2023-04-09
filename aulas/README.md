@@ -22,7 +22,7 @@
 8.  Introdução a Programação - 30/3 [slide Manipulação de Imagens, Github e Google Drive ](https://docs.google.com/presentation/d/1QeTy49w4ANS5ecBRMTAnsDUOsm80s2kJXsQBsBvKWtc/edit?usp=sharing) Gravação da aula [playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n1eqTA3dxqU5BmXtGhUykG)
 9.  Introdução a Programação - 4/4  [Visitando Colabs de aprendizado de Máquina](https://docs.google.com/presentation/d/1K9p27pa3PKJim7vJqe3hLFlonGCHmbbgZPGDDCA3DXY/edit?usp=sharing)
 10.  Introdução a Programação - 11/4 [Exemplos de modelos com Regressão Linear, Naive Bayes, Gaussian Naive Bayes, KNN](https://docs.google.com/presentation/d/1LN0qAsAF7El_86HRBchXryQ3iZ1fc5D0KUx11X7Le1E/edit?usp=sharing)
-* [13/4] [validação cruzada, Viés(Bias) e Variância, busca automática de parametros (tuning), revisão e mais exemplos de Naive Bayes, revisão e mais exemplos de Regressão Linear, engenharia de atributos (features)](https://docs.google.com/presentation/d/1e02qSnwNUj-OnOpdIJ35hf67b4CK6-KwNTxRXg1AM4s/edit?usp=sharing)
+* [13/4] [validação cruzada, Viés(Bias) e Variância, busca automática de parametros (tuning), revisão e mais exemplos de Naive Bayes, revisão e mais exemplos de Regressão Linear, engenharia de atributos (features)](https://docs.google.com/presentation/d/1e02qSnwNUj-OnOpdIJ35hf67b4CK6-KwNTxRXg1AM4s/edit?usp=sharing) - outros slides [Prof. Julio Slide 1](https://drive.google.com/file/d/14rITf8HizpeKFZScPBF_3F5pk9RCV5ks/view?usp=sharing) - [Prof. Julio Slide 2](https://drive.google.com/file/d/1KNsuSNzfv-fE-K7iG5sPF57L6OxPC7dH/view?usp=sharing)
 * [18/4] Arvores de Decisão
 * [20/4] Random Forest
 * [25/4] Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost**
