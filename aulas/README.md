@@ -34,6 +34,7 @@
 * [16/5] Redes Neurais
 * [18/5]  Redes Neurais
 * [23/5]   RNN & LSTM 
+    * [MIT Slides](http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L2.pdf) e [MIT Introduction Video](https://www.youtube.com/watch?v=ySEx_Bqxvvo)
 * [25/5] Redes Convolucionais
 * [30/5]  Arquiteturas
 * [1/6]  Detecao e Segmentaçao de Imagens 
