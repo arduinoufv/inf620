@@ -26,7 +26,8 @@
 
 * [13/4] [validação cruzada, Viés(Bias) e Variância, busca automática de parametros (tuning), revisão e mais exemplos de Naive Bayes, revisão e mais exemplos de Regressão Linear, engenharia de atributos (features)](https://docs.google.com/presentation/d/1e02qSnwNUj-OnOpdIJ35hf67b4CK6-KwNTxRXg1AM4s/edit?usp=sharing) - Playlist [de video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lFcJlMPEuuHER2R12EB7mk)  outros slides [Prof. Julio Slide 1](https://drive.google.com/file/d/14rITf8HizpeKFZScPBF_3F5pk9RCV5ks/view?usp=sharing) - [Prof. Julio Slide 2](https://drive.google.com/file/d/1KNsuSNzfv-fE-K7iG5sPF57L6OxPC7dH/view?usp=sharing)
 * [18/4] [Slide Arvores de Decisão](https://docs.google.com/presentation/d/1y4dkyMNFjLYU-ByBEXPExgCqYHHWkSxu5gDjo2hqzo0/edit?usp=sharing) playlist de [video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kx3vSd3QmGVASHDlofApgM)
-![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true) [Questionário de KNN e Naive bayes](https://forms.gle/fiwHwVucTJDJ83hw9)
+
+*  [Questionário de KNN e Naive bayes - 3 pontos - prazo 28/4](https://forms.gle/fiwHwVucTJDJ83hw9) ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
 
 * [20/4] Random Forest
 * [25/4] Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost**
