@@ -29,7 +29,7 @@
 
 *  [Questionário de KNN e Naive bayes - 3 pontos - prazo 28/4](https://forms.gle/fiwHwVucTJDJ83hw9) ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
 
-* [20/4] Random Forest
+* [20/4] Random Forest [Playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6laRhwevdGnq2XaYIGSAp7A)
 * [25/4] Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost**
 * [27/4] Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost**
 * [2/5]  SVM 
