@@ -2,7 +2,7 @@
 
 * Horários: Terças e Quintas 8am as 10am
 * Sala: sala 408 CCE (Predio Vermelho) 4 andar - Sala de Seminarios do Dpto de Informática
-* Links: [meeting](https://meet.google.com/zfz-bfgy-dnm)
+* Links: [meeting](https://meet.google.com/zfz-bfgy-dnm) - HOJE 25 abril sera no [link](meet.google.com/erq-qmry-ayx)
 * Monitoria : [horários e links](https://docs.google.com/spreadsheets/d/1uy1n0bAsQ59A7BYW3mRXrxVUZbN7MKMLSBjWcrj9bUE/edit?usp=sharing)
 
 
