@@ -2,7 +2,7 @@
 
 * Horários: Terças e Quintas 8am as 10am
 * Sala: sala 408 CCE (Predio Vermelho) 4 andar - Sala de Seminarios do Dpto de Informática
-* Links: [meeting](https://meet.google.com/zfz-bfgy-dnm) - HOJE 25 abril sera no [link](meet.google.com/erq-qmry-ayx)
+* Links: [meeting](https://meet.google.com/zfz-bfgy-dnm)
 * Monitoria : [horários e links](https://docs.google.com/spreadsheets/d/1uy1n0bAsQ59A7BYW3mRXrxVUZbN7MKMLSBjWcrj9bUE/edit?usp=sharing)
 
 
@@ -30,9 +30,11 @@
 *  [Questionário de KNN e Naive bayes - 3 pontos - prazo 28/4](https://forms.gle/fiwHwVucTJDJ83hw9) ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
 
 * [20/4] Random Forest [Playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6laRhwevdGnq2XaYIGSAp7A)
-* [25/4] Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost**
+* [25/4] [Links para video](https://drive.google.com/file/d/1qW7q9VzEnYaVUEJ059LIgTqGR85uXXAP/view?usp=sharing) e [chat](https://drive.google.com/file/d/1z6R0fMqpRAJ16rEETO6SV8cwXUN2GNCA/view?usp=sharing) 
+     *  [link para o colab](https://colab.research.google.com/drive/1zlg-048zjyrQCyS3wwSD-2syEF8QpWTC?usp=sharing)
+
 * [27/4] Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost**
-* [2/5]  SVM 
+* [2/5]   
 * [4/5]   Aprendizado não supervisionado - Kmeans
 * [9/5]  Aprendizado não supervisionado - outros métodos de agrupamento
 * [11/5]   PCA
