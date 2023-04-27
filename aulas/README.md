@@ -33,7 +33,7 @@
 * [25/4] [Links para video](https://drive.google.com/file/d/1qW7q9VzEnYaVUEJ059LIgTqGR85uXXAP/view?usp=sharing) e [chat](https://drive.google.com/file/d/1z6R0fMqpRAJ16rEETO6SV8cwXUN2GNCA/view?usp=sharing) 
      *  [link para o colab](https://colab.research.google.com/drive/1zlg-048zjyrQCyS3wwSD-2syEF8QpWTC?usp=sharing)
 
-* [27/4] Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost**
+* [27/4] Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost** [playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ljH2zy9Alrh84HFthV_wBA)
 * [2/5]   
 * [4/5]   Aprendizado não supervisionado - Kmeans
 * [9/5]  Aprendizado não supervisionado - outros métodos de agrupamento
