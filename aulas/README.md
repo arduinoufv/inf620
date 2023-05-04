@@ -27,7 +27,7 @@
 * [13/4] [validação cruzada, Viés(Bias) e Variância, busca automática de parametros (tuning), revisão e mais exemplos de Naive Bayes, revisão e mais exemplos de Regressão Linear, engenharia de atributos (features)](https://docs.google.com/presentation/d/1e02qSnwNUj-OnOpdIJ35hf67b4CK6-KwNTxRXg1AM4s/edit?usp=sharing) - Playlist [de video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lFcJlMPEuuHER2R12EB7mk)  outros slides [Prof. Julio Slide 1](https://drive.google.com/file/d/14rITf8HizpeKFZScPBF_3F5pk9RCV5ks/view?usp=sharing) - [Prof. Julio Slide 2](https://drive.google.com/file/d/1KNsuSNzfv-fE-K7iG5sPF57L6OxPC7dH/view?usp=sharing)
 * [18/4] [Slide Arvores de Decisão](https://docs.google.com/presentation/d/1y4dkyMNFjLYU-ByBEXPExgCqYHHWkSxu5gDjo2hqzo0/edit?usp=sharing) playlist de [video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kx3vSd3QmGVASHDlofApgM)
 
-*  [Questionário de KNN e Naive bayes - 3 pontos - prazo 28/4](https://forms.gle/fiwHwVucTJDJ83hw9) ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
+*  [Questionário de KNN e Naive bayes - 3 pontos - prazo 28/4](https://forms.gle/fiwHwVucTJDJ83hw9)
 
 * [20/4] Random Forest [Playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6laRhwevdGnq2XaYIGSAp7A)
 * [25/4] [Links para video](https://drive.google.com/file/d/1qW7q9VzEnYaVUEJ059LIgTqGR85uXXAP/view?usp=sharing) e [chat](https://drive.google.com/file/d/1z6R0fMqpRAJ16rEETO6SV8cwXUN2GNCA/view?usp=sharing) 
@@ -36,6 +36,9 @@
 * [27/4] Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost** [playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ljH2zy9Alrh84HFthV_wBA)
 * [2/5]   [Aprendizado não supervisionado - Kmeans](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n0vQK__UIbfY2Ig_cdOcNH) e os [slides]()
 * [4/5]  Aprendizado não supervisionado - outros métodos de agrupamento e PCA
+ ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
+    * Atividade 1 de Arvores para [entregar até dia 16/4 - valendo 3 pontos](https://forms.gle/Hj7pnnKFyvJPeoUr5)
+    * Atividade 2 de Arvores para [entregar até dia 16/4 - valendo 2 pontos](https://forms.gle/frmPDq5knyu45BJ17)
 
 * [9/5]  Redes Neurais e Regressao Logistica
 * [11/5] Redes Neurais
