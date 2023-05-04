@@ -37,8 +37,8 @@
 * [2/5]   [Aprendizado não supervisionado - Kmeans](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n0vQK__UIbfY2Ig_cdOcNH) e os [slides]()
 * [4/5]  Aprendizado não supervisionado - outros métodos de agrupamento e PCA
  ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
-    * Atividade 1 de Arvores para [entregar até dia 16/4 - valendo 3 pontos](https://forms.gle/Hj7pnnKFyvJPeoUr5)
-    * Atividade 2 de Arvores para [entregar até dia 16/4 - valendo 2 pontos](https://forms.gle/frmPDq5knyu45BJ17)
+    * Atividade 1 de Arvores para [entregar até dia 16/5 - valendo 3 pontos](https://forms.gle/Hj7pnnKFyvJPeoUr5)
+    * Atividade 2 de Arvores para [entregar até dia 16/5 - valendo 2 pontos](https://forms.gle/frmPDq5knyu45BJ17)
 
 * [9/5]  Redes Neurais e Regressao Logistica
 * [11/5] Redes Neurais
