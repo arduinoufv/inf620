@@ -34,24 +34,25 @@
      *  [link para o colab](https://colab.research.google.com/drive/1zlg-048zjyrQCyS3wwSD-2syEF8QpWTC?usp=sharing)
 
 * [27/4] Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost** [playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ljH2zy9Alrh84HFthV_wBA)
-* [2/5]   
-* [4/5]   Aprendizado não supervisionado - Kmeans
-* [9/5]  Aprendizado não supervisionado - outros métodos de agrupamento
-* [11/5]   PCA
-* [16/5] Redes Neurais
-* [18/5]  Redes Neurais
-* [23/5]   RNN & LSTM 
+* [2/5]   [Aprendizado não supervisionado - Kmeans](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n0vQK__UIbfY2Ig_cdOcNH) e os [slides]()
+* [4/5]  Aprendizado não supervisionado - outros métodos de agrupamento e PCA
+
+* [9/5]  Redes Neurais e Regressao Logistica
+* [11/5] Redes Neurais
+* [16/5] RNN & LSTM  
     * [MIT Slides](http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L2.pdf) e [MIT Introduction Video](https://www.youtube.com/watch?v=ySEx_Bqxvvo)
-* [25/5] Redes Convolucionais
-* [30/5]  Arquiteturas
-* [1/6]  Detecao e Segmentaçao de Imagens 
+* [18/5]  Redes Convolucionais
+* [23/5]  Redes Convolucionais
+* [25/5]  Arquiteturas
+* [30/5]  Detecao e Segmentaçao de Imagens 
+* [1/6]   Auto Encoder e GAN
 * [6/6]   Word Embedding & Transformers 
-* [13/6] Aprendizado por Reforço
-* [15/6]   Aprendizado por Reforço
-* [20/6]  Auto Encoder e GAN
+* [13/6]  Aprendizado por Reforço - Lucas
+* [15/6]   
+* [20/6]  Aprendizado por Reforço - Lucas
 * [22/6]  Redes Neurais com Grafos e Node2Vec
-* [27/4]  Palestras Michel, Julio, Thiago, Sabrina, Marcos, Hugo, Lucas
-* [29/4]  Palestras Michel, Julio, Thiago, Sabrina, Marcos, Hugo, Lucas
+* [27/4]  Palestras Michel, Julio, Thiago, Sabrina, Marcos,
+* [29/4]  Palestras Michel, Julio, Thiago, Sabrina, Marcos, 
  
  
 
