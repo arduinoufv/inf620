@@ -34,11 +34,12 @@
      *  [link para o colab](https://colab.research.google.com/drive/1zlg-048zjyrQCyS3wwSD-2syEF8QpWTC?usp=sharing)
 
 * [27/4] Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost** [playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ljH2zy9Alrh84HFthV_wBA)
-* [2/5]   [Aprendizado não supervisionado - Kmeans](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n0vQK__UIbfY2Ig_cdOcNH) e os [slides]()
-* [4/5]  Aprendizado não supervisionado - outros métodos de agrupamento e PCA
+* [2/5]   [Aprendizado não supervisionado - Kmeans](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n0vQK__UIbfY2Ig_cdOcNH) e os [slides](https://docs.google.com/presentation/d/10ujnonGpX676zUcPDJyovN0SARlFOXcWczCf_FuS6AI/edit?usp=sharing)
+* [4/5]  Aprendizado não supervisionado - [outros métodos de agrupamento e PCA](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lSUmKdpdPtaeWIuvGhBplw) e [slides](https://docs.google.com/presentation/d/1LtUNRaVyoDsw8pzHBEC-6rdkDm4NMRLR_z5DvUd7Er4/edit?usp=sharing)
  ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
     * Atividade 1 de Arvores para [entregar até dia 16/5 - valendo 3 pontos](https://forms.gle/Hj7pnnKFyvJPeoUr5)
     * Atividade 2 de Arvores para [entregar até dia 16/5 - valendo 2 pontos](https://forms.gle/frmPDq5knyu45BJ17)
+    * [dicas dos questionários e trabalho 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nddpu6v3Z28-yEAKuC38E9)
 
 * [9/5]  Redes Neurais e Regressao Logistica
 * [11/5] Redes Neurais
