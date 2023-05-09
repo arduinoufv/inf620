@@ -41,7 +41,7 @@
     * Atividade 2 de Arvores para [entregar até dia 16/5 - valendo 2 pontos](https://forms.gle/frmPDq5knyu45BJ17)
     * [dicas dos questionários e trabalho 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nddpu6v3Z28-yEAKuC38E9)
 
-* [9/5]  Redes Neurais e Regressao Logistica
+* [9/5]  [Redes Neurais e Regressao Logistica](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kzD5o2A3l7yidAXgmkdytZ)e slides [de regressão logistica](https://docs.google.com/presentation/d/1v8BGsEe9cLfJflYguJSQ2vAlWTQsZjlpDISp5yf9I9w/edit?usp=sharing) e slides de [redes neurais](https://docs.google.com/presentation/d/1jCPr7rAANCWgEhbO4vIhpnCWaJuRTwPqn3uh0Se4neQ/edit?usp=sharing)
 * [11/5] Redes Neurais
 * [16/5] RNN & LSTM  
     * [MIT Slides](http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L2.pdf) e [MIT Introduction Video](https://www.youtube.com/watch?v=ySEx_Bqxvvo)
