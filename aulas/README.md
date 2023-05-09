@@ -39,6 +39,8 @@
  ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
     * Atividade 1 de Arvores para [entregar até dia 16/5 - valendo 3 pontos](https://forms.gle/Hj7pnnKFyvJPeoUr5)
     * Atividade 2 de Arvores para [entregar até dia 16/5 - valendo 2 pontos](https://forms.gle/frmPDq5knyu45BJ17)
+     ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
+     * **Trabalho 2 até 23 de maio de 2023**
     * [dicas dos questionários e trabalho 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nddpu6v3Z28-yEAKuC38E9)
     * [Colab do Adilson para usar de base](https://colab.research.google.com/drive/1mAPIaTOEpxtWZW35YjHJkchKMDb1nMX5?usp=sharing) além da apresentação [do Adilson com slides](https://docs.google.com/presentation/d/1HkZRF2ko6AyU2cyQCS5uaNPgeYAmdIqaShK6R2_Av-4/edit?usp=sharing) e o [video](https://www.youtube.com/watch?v=kU3SpBnuFRo) e [parte II](https://www.youtube.com/watch?v=E-LTIO1uclc) 
 
