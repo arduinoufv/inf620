@@ -40,7 +40,7 @@
     * Atividade 1 de Arvores para [entregar até dia 16/5 - valendo 3 pontos](https://forms.gle/Hj7pnnKFyvJPeoUr5)
     * Atividade 2 de Arvores para [entregar até dia 16/5 - valendo 2 pontos](https://forms.gle/frmPDq5knyu45BJ17)
     * [dicas dos questionários e trabalho 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nddpu6v3Z28-yEAKuC38E9)
-    * [Colab do Adilson para usar de base]() além da apresentação [do Adilson ]()
+    * [Colab do Adilson para usar de base](https://colab.research.google.com/drive/1mAPIaTOEpxtWZW35YjHJkchKMDb1nMX5?usp=sharing) além da apresentação [do Adilson com slides](https://docs.google.com/presentation/d/1HkZRF2ko6AyU2cyQCS5uaNPgeYAmdIqaShK6R2_Av-4/edit?usp=sharing) e o [video](https://www.youtube.com/watch?v=kU3SpBnuFRo) e [parte II](https://www.youtube.com/watch?v=E-LTIO1uclc) 
 
 * [9/5]  [Redes Neurais e Regressao Logistica](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kzD5o2A3l7yidAXgmkdytZ)e slides [de regressão logistica](https://docs.google.com/presentation/d/1v8BGsEe9cLfJflYguJSQ2vAlWTQsZjlpDISp5yf9I9w/edit?usp=sharing) e slides de [redes neurais](https://docs.google.com/presentation/d/1jCPr7rAANCWgEhbO4vIhpnCWaJuRTwPqn3uh0Se4neQ/edit?usp=sharing)
 * [11/5] Redes Neurais
