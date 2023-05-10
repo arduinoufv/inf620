@@ -45,6 +45,9 @@
     * [Colab do Adilson para usar de base](https://colab.research.google.com/drive/1mAPIaTOEpxtWZW35YjHJkchKMDb1nMX5?usp=sharing) além da apresentação [do Adilson com slides](https://docs.google.com/presentation/d/1HkZRF2ko6AyU2cyQCS5uaNPgeYAmdIqaShK6R2_Av-4/edit?usp=sharing) e o [video](https://www.youtube.com/watch?v=kU3SpBnuFRo) e [parte II](https://www.youtube.com/watch?v=E-LTIO1uclc) 
 
 * [9/5]  [Redes Neurais e Regressao Logistica](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kzD5o2A3l7yidAXgmkdytZ)e slides [de regressão logistica](https://docs.google.com/presentation/d/1v8BGsEe9cLfJflYguJSQ2vAlWTQsZjlpDISp5yf9I9w/edit?usp=sharing) e slides de [redes neurais](https://docs.google.com/presentation/d/1jCPr7rAANCWgEhbO4vIhpnCWaJuRTwPqn3uh0Se4neQ/edit?usp=sharing)
+ ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
+    * [Questionário de Kmeans, PCA e DBscan - até dia 24/5 - valendo 3 pontos](https://forms.gle/4cuu8LLcEhjmtLPk6)
+
 * [11/5] Redes Neurais
 * [16/5] RNN & LSTM  
     * [MIT Slides](http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L2.pdf) e [MIT Introduction Video](https://www.youtube.com/watch?v=ySEx_Bqxvvo)
