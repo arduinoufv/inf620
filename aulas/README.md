@@ -48,10 +48,10 @@
  ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
     * [Questionário de Kmeans, PCA e DBscan - até dia 24/5 - valendo 3 pontos](https://forms.gle/4cuu8LLcEhjmtLPk6)
 
-* [16/5] RNN & LSTM  
+* [16/5] [Redes Convolucionais - play list](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kO5XqEIbzONT9EBC302b2) e [slides](https://docs.google.com/presentation/d/1ImBh4awNQ6s6yx9ehcBwg1N1FxBFNHT08olVcH4H_Ag/edit?usp=sharing)
+* [18/5]  
+* * [23/5]  RNN & LSTM  
     * [MIT Slides](http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L2.pdf) e [MIT Introduction Video](https://www.youtube.com/watch?v=ySEx_Bqxvvo)
-* [18/5]  Redes Convolucionais
-* [23/5]  Redes Convolucionais
 * [25/5]  Arquiteturas
 * [30/5]  Detecao e Segmentaçao de Imagens 
 * [1/6]   Auto Encoder e GAN
