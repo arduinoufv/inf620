@@ -50,7 +50,7 @@
 * [16/5] [Redes Convolucionais - play list](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kO5XqEIbzONT9EBC302b2) e [slides](https://docs.google.com/presentation/d/1ImBh4awNQ6s6yx9ehcBwg1N1FxBFNHT08olVcH4H_Ag/edit?usp=sharing)
 ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
 * [18/5]  [Tarefa de redes neurais e convolucionais para 1/7/2024 valendo 4 pontos](https://forms.gle/S8ex2uBEEPg7qMVc8)
-* [23/5] [Arquiteturas Convolucionais - slides ](https://docs.google.com/presentation/d/1VILc5ts6Cuz3mwITOnbzPl9HUND_UMULoxRBakCmIQg/edit?usp=sharing)
+* [23/5] [Arquiteturas Convolucionais - slides ](https://docs.google.com/presentation/d/1VILc5ts6Cuz3mwITOnbzPl9HUND_UMULoxRBakCmIQg/edit?usp=sharing) e [playlist de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kF5WFW_9XmEvmztQFbpHL2)
 * [25/5]   RNN & LSTM  
     * [MIT Slides](http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L2.pdf) e [MIT Introduction Video](https://www.youtube.com/watch?v=ySEx_Bqxvvo) 
 * [30/5]  Detecao e Segmentaçao de Imagens 
