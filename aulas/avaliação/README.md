@@ -15,8 +15,17 @@
     * 10 pontos
     * [Envio do Video](https://forms.gle/QejQNwMRh3DbXYq46)
 * Questionários
-    * Prazo: 19/7
+    * Prazo para finalizar todos: 19/7
+    * Alunos que não são da Computação
+      * Aprendizado Maquina 2 pts
+      * Programaço 3 pts
+      * Numpy/pandas 3 pts
+    * Todos Alunos
+      * Knn 3 pts
+      * Arvore Básico 3 pts
+      * Arvore 2 pts
+      *   
 
 * Trabalhos Práticos com Colab
-   * Prazo: 29/7
+   * Prazo : 29/7
    * 
