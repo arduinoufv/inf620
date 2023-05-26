@@ -14,7 +14,7 @@
     * [Exemplos do ano anterior]
     * 10 pontos
     * [Envio do Video](https://forms.gle/QejQNwMRh3DbXYq46)
-* Questionários
+* Questionários - 25 pontos
     * Prazo para finalizar todos: 19/7
     * Alunos que não são da Computação
       * Aprendizado Maquina 2 pts
@@ -24,8 +24,13 @@
       * Knn 3 pts
       * Arvore Básico 3 pts
       * Arvore 2 pts
-      *   
+      * Kmeans 3 pts
+      * Redes Neurais 4 pts
+      * Arquiteturas de Redes Convolucionais, Segmentação e Detecção 2 pts  
 
-* Trabalhos Práticos com Colab
+* Trabalhos Práticos com Colab - 15 pontos
    * Prazo : 29/7
-   * 
+   * Trabalho 1 - Pandas 3 pts
+   * Trabalho 2 - Preparação e Analise de dados 4 pts
+   * Trabalho 3 - Rede Neural 3 pts
+   * Trabalho 4 - Rede Convolucional 5 pts
