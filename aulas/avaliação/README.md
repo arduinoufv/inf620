@@ -37,5 +37,5 @@
    * Trabalho 3 - [Rede Neural 5 pts](https://github.com/arduinoufv/inf620/blob/main/aulas/avalia%C3%A7%C3%A3o/Trabalho3.md)
    * Trabalho 4 - [Rede Convolucional 5 pts](https://github.com/arduinoufv/inf620/blob/main/aulas/avalia%C3%A7%C3%A3o/trabalho4.md)
    * Trabalho 5 - [Random Forest 4 pts](https://github.com/arduinoufv/inf620/blob/main/aulas/avalia%C3%A7%C3%A3o/trabalho5.md)
-   * Trabalho 6 - Segmentação e Detecção 5 pts
+   * Trabalho 6 - [Segmentação e Detecção 5 pts](https://github.com/arduinoufv/inf620/blob/main/aulas/avalia%C3%A7%C3%A3o/trabalho6.md)
 
