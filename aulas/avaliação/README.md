@@ -1,6 +1,6 @@
 # Avaliação e Prazos
 
-
+[playlist com explicações](https://youtu.be/HFHuGfpaiaw)
 
 
 * Survey com avaliação de 5 ou mais artigos que usam Aprendizado de Máquina ou Inteligência Artificial aplicados a sua área de pesquisa.
