@@ -56,7 +56,7 @@
 * [23/5] [Arquiteturas Convolucionais - slides ](https://docs.google.com/presentation/d/1VILc5ts6Cuz3mwITOnbzPl9HUND_UMULoxRBakCmIQg/edit?usp=sharing) e [playlist de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kF5WFW_9XmEvmztQFbpHL2)
 * [25/5]   RNN & LSTM  [ playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ksGBHUdku-T5PEATDaSoUt) e [slides](https://docs.google.com/presentation/d/1kih30g1o3hEeBn-TjV_T8iDxHgnqDjcywgS7ZYLFZxs/edit?usp=sharing)
     * [MIT Slides](http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L2.pdf) e [MIT Introduction Video](https://www.youtube.com/watch?v=ySEx_Bqxvvo) 
-* [30/5]  Detecao e Segmentaçao de Imagens 
+* [30/5]  [Detecao e Segmentaçao de Imagens](https://docs.google.com/presentation/d/1E_EZ92JvScPdxwmwUo9dgdaSrbiNB1-rbOCymjUNqyM/edit?usp=sharing)  [playlist de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mVLxAGgrNbbRMJBqwD9n9R)
 * [1/6]   Auto Encoder e GAN
 * [6/6]   Word Embedding & Transformers 
 * [13/6]  Aprendizado por Reforço - Lucas
