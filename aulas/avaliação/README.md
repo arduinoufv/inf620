@@ -33,7 +33,7 @@
 * Trabalhos Práticos com Colab - 26 pontos
    * Prazo : 29/7
    * [Trabalho 1 - Pandas 3 pts](https://colab.research.google.com/drive/1rUlcUze00BSriWMDFWrHze781nRbvtZi?usp=sharing) para [envio clique aqui](https://forms.gle/hZH3w4jbQXU75zkn7)
-   * Trabalho 2 - Preparação e Analise de dados 4 pts
+   * [Trabalho 2 - Preparação e Analise de dados 4 pts](https://colab.research.google.com/drive/1mAPIaTOEpxtWZW35YjHJkchKMDb1nMX5?usp=sharing) e a [explicacao do trabalho](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nddpu6v3Z28-yEAKuC38E9) + [slides do Adilson](https://docs.google.com/presentation/d/1HkZRF2ko6AyU2cyQCS5uaNPgeYAmdIqaShK6R2_Av-4/edit?usp=sharing) e o [video do Adilson](https://www.youtube.com/watch?v=kU3SpBnuFRo)
    * Trabalho 3 - [Rede Neural 5 pts](https://github.com/arduinoufv/inf620/blob/main/aulas/avalia%C3%A7%C3%A3o/Trabalho3.md)
    * Trabalho 4 - [Rede Convolucional 5 pts](https://github.com/arduinoufv/inf620/blob/main/aulas/avalia%C3%A7%C3%A3o/trabalho4.md)
    * Trabalho 5 - [Random Forest 4 pts](https://github.com/arduinoufv/inf620/blob/main/aulas/avalia%C3%A7%C3%A3o/trabalho5.md)
