@@ -26,7 +26,7 @@
       * [Arvore 2 pts](https://forms.gle/frmPDq5knyu45BJ17)
       * [Kmeans 3 pts](https://forms.gle/4cuu8LLcEhjmtLPk6)
       * [Redes Neurais 4 pts](https://forms.gle/S8ex2uBEEPg7qMVc8)
-      * Arquiteturas de Redes Convolucionais 3 pts
+      * [Arquiteturas de Redes Convolucionais 3 pts](https://forms.gle/VcwuUox9USQptGwZ8)
       * Segmentação e Detecção 4 pts  
       * Word2vec e Transformers  4 pts
 
