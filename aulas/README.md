@@ -39,20 +39,19 @@
 * [27/4] Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost** [playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ljH2zy9Alrh84HFthV_wBA)
 * [2/5]   [Aprendizado não supervisionado - Kmeans](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n0vQK__UIbfY2Ig_cdOcNH) e os [slides](https://docs.google.com/presentation/d/10ujnonGpX676zUcPDJyovN0SARlFOXcWczCf_FuS6AI/edit?usp=sharing)
 * [4/5]  Aprendizado não supervisionado - [outros métodos de agrupamento e PCA](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lSUmKdpdPtaeWIuvGhBplw) e [slides](https://docs.google.com/presentation/d/1LtUNRaVyoDsw8pzHBEC-6rdkDm4NMRLR_z5DvUd7Er4/edit?usp=sharing)
-    * Atividade 1 de Arvores para [entregar até dia 16/5 - valendo 3 pontos](https://forms.gle/Hj7pnnKFyvJPeoUr5)
-    * Atividade 2 de Arvores para [entregar até dia 16/5 - valendo 2 pontos](https://forms.gle/frmPDq5knyu45BJ17)
-     ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
-     * **Trabalho 2 até 2 de junho de 2023**
+    * Atividade 1 de Arvores para [entregar até dia 19/6 - valendo 3 pontos](https://forms.gle/Hj7pnnKFyvJPeoUr5)
+    * Atividade 2 de Arvores para [entregar até dia 19/6 - valendo 2 pontos](https://forms.gle/frmPDq5knyu45BJ17)
+   
+     * **Trabalho 2 até 19 de junho de 2023**
     * [dicas dos questionários e trabalho 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nddpu6v3Z28-yEAKuC38E9)
     * [Colab do Adilson para usar de base](https://colab.research.google.com/drive/1mAPIaTOEpxtWZW35YjHJkchKMDb1nMX5?usp=sharing) além da apresentação [do Adilson com slides](https://docs.google.com/presentation/d/1HkZRF2ko6AyU2cyQCS5uaNPgeYAmdIqaShK6R2_Av-4/edit?usp=sharing) e o [video](https://www.youtube.com/watch?v=kU3SpBnuFRo) e [parte II](https://www.youtube.com/watch?v=E-LTIO1uclc) 
 
 * [9/5 e 11/5]  [Redes Neurais e Regressao Logistica](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kzD5o2A3l7yidAXgmkdytZ)e slides [de regressão logistica](https://docs.google.com/presentation/d/1v8BGsEe9cLfJflYguJSQ2vAlWTQsZjlpDISp5yf9I9w/edit?usp=sharing) e slides de [redes neurais](https://docs.google.com/presentation/d/1jCPr7rAANCWgEhbO4vIhpnCWaJuRTwPqn3uh0Se4neQ/edit?usp=sharing)
- ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
-    * [Questionário de Kmeans, PCA e DBscan - até dia 24/5 - valendo 3 pontos](https://forms.gle/4cuu8LLcEhjmtLPk6)
+    * [Questionário de Kmeans, PCA e DBscan - até dia 19/6 - valendo 3 pontos](https://forms.gle/4cuu8LLcEhjmtLPk6)
 
 * [16/5] [Redes Convolucionais - play list](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kO5XqEIbzONT9EBC302b2) e [slides](https://docs.google.com/presentation/d/1ImBh4awNQ6s6yx9ehcBwg1N1FxBFNHT08olVcH4H_Ag/edit?usp=sharing)
 ![](https://github.com/arduinoufv/inf620/blob/main/material_complementar/ezgif.com-video-to-gif.gif?raw=true)
-* [18/5]  [Tarefa de redes neurais e convolucionais para 1/7/2024 valendo 4 pontos](https://forms.gle/S8ex2uBEEPg7qMVc8)
+* [18/5]  [Tarefa de redes neurais e convolucionais para 19/6  valendo 4 pontos](https://forms.gle/S8ex2uBEEPg7qMVc8)
 * [23/5] [Arquiteturas Convolucionais - slides ](https://docs.google.com/presentation/d/1VILc5ts6Cuz3mwITOnbzPl9HUND_UMULoxRBakCmIQg/edit?usp=sharing) e [playlist de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kF5WFW_9XmEvmztQFbpHL2)
 * [25/5]   RNN & LSTM  [ playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ksGBHUdku-T5PEATDaSoUt) e [slides](https://docs.google.com/presentation/d/1kih30g1o3hEeBn-TjV_T8iDxHgnqDjcywgS7ZYLFZxs/edit?usp=sharing)
     * [MIT Slides](http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L2.pdf) e [MIT Introduction Video](https://www.youtube.com/watch?v=ySEx_Bqxvvo) 
