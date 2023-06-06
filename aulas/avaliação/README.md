@@ -27,8 +27,8 @@
       * [Kmeans 3 pts](https://forms.gle/4cuu8LLcEhjmtLPk6)
       * [Redes Neurais 4 pts](https://forms.gle/S8ex2uBEEPg7qMVc8)
       * [Arquiteturas de Redes Convolucionais 3 pts](https://forms.gle/VcwuUox9USQptGwZ8)
-      * Segmentação e Detecção 4 pts  
-      * Word2vec e Transformers  4 pts
+      * [Segmentação e Detecção 4 pts](https://forms.gle/nKXdbYbC7KUXWXMA6)  
+      * [Word2vec e Transformers  4 pts](https://forms.gle/vU8Dadni1MFz5XPs5)
 
 * Trabalhos Práticos com Colab - 26 pontos
    * Prazo : 1/7
