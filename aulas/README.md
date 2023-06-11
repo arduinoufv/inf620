@@ -56,10 +56,10 @@
 * [25/5]   RNN & LSTM  [ playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ksGBHUdku-T5PEATDaSoUt) e [slides](https://docs.google.com/presentation/d/1kih30g1o3hEeBn-TjV_T8iDxHgnqDjcywgS7ZYLFZxs/edit?usp=sharing)
     * [MIT Slides](http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L2.pdf) e [MIT Introduction Video](https://www.youtube.com/watch?v=ySEx_Bqxvvo) 
 * [30/5]  [Detecao e Segmentaçao de Imagens](https://docs.google.com/presentation/d/1E_EZ92JvScPdxwmwUo9dgdaSrbiNB1-rbOCymjUNqyM/edit?usp=sharing)  [playlist de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mVLxAGgrNbbRMJBqwD9n9R)
-* [1/6]   Auto Encoder e GAN
-* [6/6]   Word Embedding & Transformers 
+* [1/6]   [Playlist Auto Encoder e GAN](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kQNPlvFlbtc_Es3GKYzTyc) +  [slides](https://docs.google.com/presentation/d/1z8mJGxRoqZxzDlGmA0OM9e0y3K_UKPUZBdvyiyPfWBA/edit?usp=sharing)
+* [6/6]   [Playlist Word Embedding & Transformers](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ksj8da7fVYW4nbi4iSrVUi) +  [slides](https://docs.google.com/presentation/d/1TCBjYVdFU16PJuw97-zjG3NnkOwW3RSybh8DtA2rQu8/edit?usp=sharing)
 * [13/6]  Aprendizado por Reforço - Lucas
-* [15/6]   
+* [15/6]   Redes Neurais com Grafos e Node2Vec
 * [20/6]  Aprendizado por Reforço - Lucas
 * [22/6]  Redes Neurais com Grafos e Node2Vec
 * [27/6]  Palestras Michel, Julio, Thiago, Sabrina, Marcos,
