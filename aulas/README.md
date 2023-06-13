@@ -61,9 +61,9 @@
 * [13/6]  Aprendizado por Reforço - Lucas
 * [15/6]   Redes Neurais com Grafos e Node2Vec
 * [20/6]  Aprendizado por Reforço - Lucas
-* [22/6]  Redes Neurais com Grafos e Node2Vec
-* [27/6]  Palestras Michel, Julio, Thiago, Sabrina, Marcos,
-* [29/6]  Palestras Michel, Julio, Thiago, Sabrina, Marcos, 
+* [22/6]  Redes Neurais com Grafos e Node2Vec, palestra Sabrina Visualizacao de Dados
+* [27/6]  Palestras Julio, Marcos,
+* [29/6]  Palestras Michel, Thiago - Visao Computacional 
  
  
 
