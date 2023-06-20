@@ -58,12 +58,12 @@
 * [30/5]  [Detecao e Segmentaçao de Imagens](https://docs.google.com/presentation/d/1E_EZ92JvScPdxwmwUo9dgdaSrbiNB1-rbOCymjUNqyM/edit?usp=sharing)  [playlist de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mVLxAGgrNbbRMJBqwD9n9R)
 * [1/6]   [Playlist Auto Encoder e GAN](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kQNPlvFlbtc_Es3GKYzTyc) +  [slides](https://docs.google.com/presentation/d/1z8mJGxRoqZxzDlGmA0OM9e0y3K_UKPUZBdvyiyPfWBA/edit?usp=sharing)
 * [6/6]   [Playlist Word Embedding & Transformers](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ksj8da7fVYW4nbi4iSrVUi) +  [slides](https://docs.google.com/presentation/d/1TCBjYVdFU16PJuw97-zjG3NnkOwW3RSybh8DtA2rQu8/edit?usp=sharing)
-* [13/6]  Aprendizado por Reforço - Lucas
+* [13/6]  [Aprendizado por Reforço - Prof. Lucas Ferreira - Parte I](https://youtu.be/aE83-dWCulU)
 * [15/6]   Redes Neurais com Grafos e Node2Vec
-* [20/6]  Aprendizado por Reforço - Lucas
-* [22/6]  Redes Neurais com Grafos e Node2Vec, palestra Sabrina Visualizacao de Dados
-* [27/6]  Palestras Julio, Marcos,
-* [29/6]  Palestras Michel, Thiago - Visao Computacional 
+* [20/6]  [Aprendizado por Reforço - Prof. Lucas Ferreira - Parte II](https://youtu.be/w5ygGChcJQA) + [códigos usados na aula](https://gist.github.com/lucasnfe/8f9c02c30ea87062cd548b816216aaa3)
+* [22/6]  palestra Profa. Sabrina Visualizacao de Dados, Prof. Hugo Processamento de Imagens, Prof. Marcos Ciência de Dados
+* [27/6]  Palestras Prof. Julio Reis e Alpha GO com Prof. Lucas Ferreira
+* [29/6]  Palestras Michel Melo, Thiago Luange, Marcos - Visao Computacional 
  
  
 
