@@ -61,7 +61,10 @@
 * [13/6]  [Aprendizado por Reforço - Prof. Lucas Ferreira - Parte I](https://youtu.be/aE83-dWCulU)
 * [15/6]   Redes Neurais com Grafos e Node2Vec
 * [20/6]  [Aprendizado por Reforço - Prof. Lucas Ferreira - Parte II](https://youtu.be/w5ygGChcJQA) + [códigos usados na aula](https://gist.github.com/lucasnfe/8f9c02c30ea87062cd548b816216aaa3)
-* [22/6]  palestra Profa. Sabrina Visualizacao de Dados, Prof. Hugo Processamento de Imagens, Prof. Marcos Ciência de Dados
+* [22/6]
+  * [palestra Profa. Sabrina Visualizacao de Dados](https://youtu.be/hoJ1j83jErw),
+    * [Prof. Hugo - Processamento de Imagens]() + [slides](https://github.com/arduinoufv/inf620/blob/main/aulas/Inf_620_UFV.pdf),
+    * [Prof. Marcos - Ciência de Dados](https://youtu.be/c3PkX-xlvN8) + [slides](https://github.com/arduinoufv/inf620/blob/main/aulas/divulgacao.pdf)
 * [27/6]  Palestras Prof. Julio Reis e Alpha GO com Prof. Lucas Ferreira
 * [29/6]  Palestras Michel Melo, Thiago Luange, Marcos - Visao Computacional 
  
