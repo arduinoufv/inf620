@@ -2,15 +2,16 @@
 
 * Horários: Terças e Quintas 8am as 10am
 * Sala: sala 408 CCE (Predio Vermelho) 4 andar - Sala de Seminarios do Dpto de Informática
-* Links: [meeting](https://meet.google.com/zfz-bfgy-dnm)
-* Monitoria : [horários e links](https://docs.google.com/spreadsheets/d/1uy1n0bAsQ59A7BYW3mRXrxVUZbN7MKMLSBjWcrj9bUE/edit?usp=sharing)
+* Monitoria : [horários e links]()
 
-# Trabalho Final
+# Trabalho Final até 14/6/24
 
-* [Envio do survey](https://forms.gle/siL4LjjKkjm5zHFm7)
-* [Envio do Video](https://forms.gle/QejQNwMRh3DbXYq46)
+* [Envio do survey](https://forms.gle/1b9PhzToGsb4dynT8)
+* [Envio do Video](https://forms.gle/sTeDx4xrgPMWAao57)
 
-## Programação 2023
+## Programação 2024
+
+(em construção...) 
 
 1. Introdução - 7/3 [slides Aula 1](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kidT6I8AfcsSoaUQUpMDWY)
 
