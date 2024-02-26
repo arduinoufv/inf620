@@ -1,4 +1,4 @@
-# Aulas de 2023
+# Aulas de 2024
 
 * Horários: Terças e Quintas 8am as 10am
 * Sala: sala 408 CCE (Predio Vermelho) 4 andar - Sala de Seminarios do Dpto de Informática
@@ -6,18 +6,20 @@
 
 # Trabalho Final até 14/6/24
 
-* [Envio do survey](https://forms.gle/1b9PhzToGsb4dynT8)
-* [Envio do Video](https://forms.gle/sTeDx4xrgPMWAao57)
+* [Envio do survey - 25 pontos](https://forms.gle/1b9PhzToGsb4dynT8)
+* [Envio do Video - 5 pontos](https://forms.gle/sTeDx4xrgPMWAao57)
 
 ## Programação 2024
 
+
+
+1. Introdução - 5/3 [slides Aula 1](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [Gravação]()
+
+2. Introdução Continuação - 7/3 [slides Aula 1 cont](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [gravação]() - Atividades [Para Entregar até 12/3/23, 2 pontos](https://forms.gle/MFJYUCc49Zi6NSTMA) 
+
+3. Introdução a Programação - 12/3 [slide Aula 2 Tipos, Variáveis, Listas e Dicionários](https://docs.google.com/presentation/d/1Ftk4GjlyI_tf9IfoVviYW4OInxqnM3zRc6TPahmzc8U/edit?usp=sharing) Registro da Aula [Gravação]()
+
 (em construção...) 
-
-1. Introdução - 7/3 [slides Aula 1](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kidT6I8AfcsSoaUQUpMDWY)
-
-2. Introdução Continuação - 9/3 [slides Aula 1 cont](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kidT6I8AfcsSoaUQUpMDWY) - Atividades [Para Entregar até 14/3/23, 2 pontos](https://forms.gle/bAzSjLXMDBuPiUVJ9) 
-
-3. Introdução a Programação - 14/3 [slide Aula 2 Tipos, Variáveis, Listas e Dicionários](https://docs.google.com/presentation/d/1Ftk4GjlyI_tf9IfoVviYW4OInxqnM3zRc6TPahmzc8U/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6myudXSygYrh5OWQuLdPigj)
 
 4. Introdução a Programação - 16/3 [slide Aula 3  Sets, Tuplas, Funções, Classes](https://docs.google.com/presentation/d/1Zv7GwoSk_I4FSvYkTan07kQvnDAoDWQO3Sp3so19e2A/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kUKY26eusN_hdtAqSQ0qTe) - Atividades [Para Entregar - 3 pontos](https://forms.gle/Kmfa8kfE7ukkLt6k7) Assistir o [vídeo com dicas](https://youtu.be/HaiESjM_460)  
 5. Introdução a Programação - 21/3 [slide Gradio e NumPy](https://docs.google.com/presentation/d/110kBncxqTlqmFjUS-pyYL79bAZa6kBwro8E1-UTyIA4/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kM7SAdx4ADf_UjHo4Rldxq)
