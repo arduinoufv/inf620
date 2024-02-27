@@ -9,15 +9,22 @@
 * [Envio do survey - 25 pontos](https://forms.gle/1b9PhzToGsb4dynT8)
 * [Envio do Video - 5 pontos](https://forms.gle/sTeDx4xrgPMWAao57)
 
-## Programação 2024
+# Trabalhos práticos
 
+* [Colab com o trabalho 1](https://colab.research.google.com/drive/10_cS0vpZGFLNDtp17XBQjQuP1BEdcqyh?usp=sharing) e para envio: [Formulário - Introdução da programação 2 pontos - prazo 18/3](https://forms.gle/e4QdfeAiSH4K7KxL8)
+
+# Questionários 
+
+* Conceitos Gerais [Para Entregar até 12/3/23, 3 pontos](https://forms.gle/MFJYUCc49Zi6NSTMA)
+  
+## Programação 2024
 
 
 1. Introdução - 5/3 [slides Aula 1](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [Gravação]()
 
-2. Introdução Continuação - 7/3 [slides Aula 1 cont](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [gravação]() - Atividades [Para Entregar até 12/3/23, 2 pontos](https://forms.gle/MFJYUCc49Zi6NSTMA) 
+2. Introdução Continuação - 7/3 [slides Aula 1 cont](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [gravação]() - 
 
-3. Introdução a Programação - 12/3 [slide Aula 2 Tipos, Variáveis, Listas e Dicionários](https://docs.google.com/presentation/d/1Ftk4GjlyI_tf9IfoVviYW4OInxqnM3zRc6TPahmzc8U/edit?usp=sharing) Registro da Aula [Gravação]()
+3. Introdução a Programação - 12/3 [slide Aula 2 Tipos, Variáveis, Listas e Dicionários](https://docs.google.com/presentation/d/1Ftk4GjlyI_tf9IfoVviYW4OInxqnM3zRc6TPahmzc8U/edit?usp=sharing) Registro da Aula [Gravação]() - 
 
 (em construção...) 
 
