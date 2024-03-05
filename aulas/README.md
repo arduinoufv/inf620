@@ -20,7 +20,7 @@
 ## Programação 2024
 
 
-1. Introdução - 5/3 [slides Aula 1](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [Gravação]()
+1. Introdução - 5/3 [slides Aula 1](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nRBS64hHb6__vkPGoT8PkR)
 
 2. Introdução Continuação - 7/3 [slides Aula 1 cont](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [gravação]() - 
 
