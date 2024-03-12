@@ -11,11 +11,11 @@
 
 # Trabalhos práticos
 
-* [Colab com o trabalho 1](https://colab.research.google.com/drive/10_cS0vpZGFLNDtp17XBQjQuP1BEdcqyh?usp=sharing) e para envio: [Formulário - Introdução da programação 2 pontos - prazo 18/3](https://forms.gle/e4QdfeAiSH4K7KxL8)
+* [Colab com o trabalho 1](https://colab.research.google.com/drive/10_cS0vpZGFLNDtp17XBQjQuP1BEdcqyh?usp=sharing) e para envio: [Formulário - Introdução da programação 2 pontos - prazo 18/3](https://forms.gle/e4QdfeAiSH4K7KxL8)  - algumas [dicas](https://youtu.be/3sqx4v5hF4E)
 
 # Questionários 
 
-* Conceitos Gerais [Para Entregar até 15/3/23, 3 pontos](https://forms.gle/MFJYUCc49Zi6NSTMA)
+* Conceitos Gerais [Para Entregar até 15/3/23, 3 pontos](https://forms.gle/MFJYUCc49Zi6NSTMA) - algumas [dicas](https://youtu.be/cKrCoknYb2Y)
   
 ## Programação 2024
 
@@ -24,7 +24,7 @@
 
 2. Introdução Continuação - 7/3 [slides Aula 1 cont](https://docs.google.com/presentation/d/1yE1qdnlkF4a5hhk-bqu7577PeCVoStgJ1QPlYH6OZIU/edit?usp=sharing) - Registro da Aula [gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kc7OyFlZUdPA3pV_M9faqZ) - 
 
-3. Introdução a Programação - 12/3 [slide Aula 2 Tipos, Variáveis, Listas e Dicionários](https://docs.google.com/presentation/d/1Ftk4GjlyI_tf9IfoVviYW4OInxqnM3zRc6TPahmzc8U/edit?usp=sharing) Registro da Aula [Gravação]() - 
+3. Introdução a Programação - 12/3 [slide Aula 2 Tipos, Variáveis, Listas e Dicionários](https://docs.google.com/presentation/d/1Ftk4GjlyI_tf9IfoVviYW4OInxqnM3zRc6TPahmzc8U/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kWPdA4cqpAU3_gtlI_o1Kq) - 
 
 ===
 
