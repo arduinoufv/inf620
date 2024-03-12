@@ -15,7 +15,7 @@
 
 # Questionários 
 
-* Conceitos Gerais [Para Entregar até 12/3/23, 3 pontos](https://forms.gle/MFJYUCc49Zi6NSTMA)
+* Conceitos Gerais [Para Entregar até 15/3/23, 3 pontos](https://forms.gle/MFJYUCc49Zi6NSTMA)
   
 ## Programação 2024
 
