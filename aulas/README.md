@@ -11,7 +11,7 @@
 
 # Trabalhos práticos
 
-* [Colab com o trabalho 1](https://colab.research.google.com/drive/10_cS0vpZGFLNDtp17XBQjQuP1BEdcqyh?usp=sharing) e para envio: [Formulário - Introdução da programação 2 pontos - prazo 18/3](https://forms.gle/e4QdfeAiSH4K7KxL8)  - algumas [dicas](https://youtu.be/3sqx4v5hF4E)
+* [Colab com o trabalho 1](https://colab.research.google.com/drive/10_cS0vpZGFLNDtp17XBQjQuP1BEdcqyh?usp=sharing) e para envio: [Formulário - Introdução da programação 2 pontos - **prazo 21/3**](https://forms.gle/e4QdfeAiSH4K7KxL8)  - algumas [dicas](https://youtu.be/3sqx4v5hF4E)
 
 # Questionários 
 
