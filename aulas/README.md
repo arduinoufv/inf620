@@ -26,7 +26,7 @@
 
 3. Introdução a Programação - 12/3 [slide Aula 2 Tipos, Variáveis, Listas e Dicionários](https://docs.google.com/presentation/d/1Ftk4GjlyI_tf9IfoVviYW4OInxqnM3zRc6TPahmzc8U/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kWPdA4cqpAU3_gtlI_o1Kq) - 
 
-4. Introdução a Programação - 16/3 [slide Aula 3  Sets, Tuplas, Funções, Classes](https://docs.google.com/presentation/d/1Zv7GwoSk_I4FSvYkTan07kQvnDAoDWQO3Sp3so19e2A/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kiYKUxTg9ZAY4bg2zGuWom)
+4. Introdução a Programação - 16/3 [slide Aula 3  Sets, Tuplas, Funções, Classes](https://docs.google.com/presentation/d/1Zv7GwoSk_I4FSvYkTan07kQvnDAoDWQO3Sp3so19e2A/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l3NrA3vV2IznXEAjMKETVW)
 
 (em construção...) 
 
