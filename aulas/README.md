@@ -26,20 +26,22 @@
 
 3. Introdução a Programação - 12/3 [slide Aula 2 Tipos, Variáveis, Listas e Dicionários](https://docs.google.com/presentation/d/1Ftk4GjlyI_tf9IfoVviYW4OInxqnM3zRc6TPahmzc8U/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kWPdA4cqpAU3_gtlI_o1Kq) - 
 
-===
+4. Introdução a Programação - 16/3 [slide Aula 3  Sets, Tuplas, Funções, Classes](https://docs.google.com/presentation/d/1Zv7GwoSk_I4FSvYkTan07kQvnDAoDWQO3Sp3so19e2A/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kiYKUxTg9ZAY4bg2zGuWom)
 
 (em construção...) 
 
 ===
 
-4. Introdução a Programação - 16/3 [slide Aula 3  Sets, Tuplas, Funções, Classes](https://docs.google.com/presentation/d/1Zv7GwoSk_I4FSvYkTan07kQvnDAoDWQO3Sp3so19e2A/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kUKY26eusN_hdtAqSQ0qTe) - Atividades [Para Entregar - 3 pontos](https://forms.gle/Kmfa8kfE7ukkLt6k7) Assistir o [vídeo com dicas](https://youtu.be/HaiESjM_460)  
-5. Introdução a Programação - 21/3 [slide Gradio e NumPy](https://docs.google.com/presentation/d/110kBncxqTlqmFjUS-pyYL79bAZa6kBwro8E1-UTyIA4/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kM7SAdx4ADf_UjHo4Rldxq)
-6.   Introdução a Programação - 23/3 [slide Pandas](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mFTOufBAOavXBoqzF9MM2K) - Atividades [Para Entregar 30 de março de 2023 - 3 pontos ](https://forms.gle/pRsxW1k7qZRY8LyDA)
+6.
+7.
+8. - Atividades [Para Entregar - 3 pontos](https://forms.gle/Kmfa8kfE7ukkLt6k7) Assistir o [vídeo com dicas](https://youtu.be/HaiESjM_460)  
+9. Introdução a Programação - 21/3 [slide Gradio e NumPy](https://docs.google.com/presentation/d/110kBncxqTlqmFjUS-pyYL79bAZa6kBwro8E1-UTyIA4/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kM7SAdx4ADf_UjHo4Rldxq)
+10.   Introdução a Programação - 23/3 [slide Pandas](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mFTOufBAOavXBoqzF9MM2K) - Atividades [Para Entregar 30 de março de 2023 - 3 pontos ](https://forms.gle/pRsxW1k7qZRY8LyDA)
 
-7.   Introdução a Programação - 28/3 [slide Pandas parte II, arquivos e matplotlib, Jupyter Iterativo e linguagem Markdown](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l-b_RQQ0QOnLBQvipzzXcU) - Atividades [Para Entregar 18 de abril](https://colab.research.google.com/drive/1rUlcUze00BSriWMDFWrHze781nRbvtZi?usp=sharing) - Voce irá enviar sua resposta neste [Formulario](https://forms.gle/hZH3w4jbQXU75zkn7) 
-9.  Introdução a Programação - 30/3 [slide Manipulação de Imagens, Github e Google Drive ](https://docs.google.com/presentation/d/1QeTy49w4ANS5ecBRMTAnsDUOsm80s2kJXsQBsBvKWtc/edit?usp=sharing) Gravação da aula [playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n1eqTA3dxqU5BmXtGhUykG)
-10.  Introdução a Programação - 4/4  [Visitando Colabs de aprendizado de Máquina](https://docs.google.com/presentation/d/1K9p27pa3PKJim7vJqe3hLFlonGCHmbbgZPGDDCA3DXY/edit?usp=sharing)
-11.  Introdução a Programação - 11/4 [Exemplos de modelos com Regressão Linear, Naive Bayes, Gaussian Naive Bayes, KNN](https://docs.google.com/presentation/d/1LN0qAsAF7El_86HRBchXryQ3iZ1fc5D0KUx11X7Le1E/edit?usp=sharing) + gravação da aula [playlist de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kPoFhqQFs6vHDYJLEVBYwZ)
+11.   Introdução a Programação - 28/3 [slide Pandas parte II, arquivos e matplotlib, Jupyter Iterativo e linguagem Markdown](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l-b_RQQ0QOnLBQvipzzXcU) - Atividades [Para Entregar 18 de abril](https://colab.research.google.com/drive/1rUlcUze00BSriWMDFWrHze781nRbvtZi?usp=sharing) - Voce irá enviar sua resposta neste [Formulario](https://forms.gle/hZH3w4jbQXU75zkn7) 
+12.  Introdução a Programação - 30/3 [slide Manipulação de Imagens, Github e Google Drive ](https://docs.google.com/presentation/d/1QeTy49w4ANS5ecBRMTAnsDUOsm80s2kJXsQBsBvKWtc/edit?usp=sharing) Gravação da aula [playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n1eqTA3dxqU5BmXtGhUykG)
+13.  Introdução a Programação - 4/4  [Visitando Colabs de aprendizado de Máquina](https://docs.google.com/presentation/d/1K9p27pa3PKJim7vJqe3hLFlonGCHmbbgZPGDDCA3DXY/edit?usp=sharing)
+14.  Introdução a Programação - 11/4 [Exemplos de modelos com Regressão Linear, Naive Bayes, Gaussian Naive Bayes, KNN](https://docs.google.com/presentation/d/1LN0qAsAF7El_86HRBchXryQ3iZ1fc5D0KUx11X7Le1E/edit?usp=sharing) + gravação da aula [playlist de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kPoFhqQFs6vHDYJLEVBYwZ)
 
 * [13/4] [validação cruzada, Viés(Bias) e Variância, busca automática de parametros (tuning), revisão e mais exemplos de Naive Bayes, revisão e mais exemplos de Regressão Linear, engenharia de atributos (features)](https://docs.google.com/presentation/d/1e02qSnwNUj-OnOpdIJ35hf67b4CK6-KwNTxRXg1AM4s/edit?usp=sharing) - Playlist [de video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lFcJlMPEuuHER2R12EB7mk)  outros slides [Prof. Julio Slide 1](https://drive.google.com/file/d/14rITf8HizpeKFZScPBF_3F5pk9RCV5ks/view?usp=sharing) - [Prof. Julio Slide 2](https://drive.google.com/file/d/1KNsuSNzfv-fE-K7iG5sPF57L6OxPC7dH/view?usp=sharing)
 * [18/4] [Slide Arvores de Decisão](https://docs.google.com/presentation/d/1y4dkyMNFjLYU-ByBEXPExgCqYHHWkSxu5gDjo2hqzo0/edit?usp=sharing) playlist de [video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kx3vSd3QmGVASHDlofApgM)
