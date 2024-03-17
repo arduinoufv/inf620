@@ -30,9 +30,9 @@
 4. Introdução a Programação - 16/3 [slide Aula 3  Sets, Tuplas, Funções, Classes](https://docs.google.com/presentation/d/1Zv7GwoSk_I4FSvYkTan07kQvnDAoDWQO3Sp3so19e2A/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l3NrA3vV2IznXEAjMKETVW)
 
 5. Introdução a Programação - 19/3 [slide Gradio e NumPy](https://docs.google.com/presentation/d/110kBncxqTlqmFjUS-pyYL79bAZa6kBwro8E1-UTyIA4/edit?usp=sharing)
-(em construção...) 
 
 ===
+(em construção...) 
 
 9.  Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kM7SAdx4ADf_UjHo4Rldxq)
 10.   Introdução a Programação - 23/3 [slide Pandas](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mFTOufBAOavXBoqzF9MM2K) - Atividades [Para Entregar 30 de março de 2023 - 3 pontos ](https://forms.gle/pRsxW1k7qZRY8LyDA)
