@@ -6,7 +6,7 @@
 
 # Trabalho Final até 14/6/24
 
-* [Envio do survey - 25 pontos](https://forms.gle/1b9PhzToGsb4dynT8)
+* [Envio do survey - 30 pontos](https://forms.gle/1b9PhzToGsb4dynT8)
 * [Envio do Video - 5 pontos](https://forms.gle/sTeDx4xrgPMWAao57)
 
 # Trabalhos práticos
@@ -16,7 +16,7 @@
 # Questionários 
 
 * Conceitos Gerais [Para Entregar até 15/3/24, 3 pontos](https://forms.gle/MFJYUCc49Zi6NSTMA) - algumas [dicas](https://youtu.be/cKrCoknYb2Y)
-* Básico de Lista e Numpy [Para entregar até 22/3/24](https://forms.gle/r79kX6nbn5wAd4yw8)
+* Básico de Lista e Numpy [Para entregar até 22/3/24, 2 pontos](https://forms.gle/r79kX6nbn5wAd4yw8)
   
 ## Programação 2024
 
