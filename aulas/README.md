@@ -15,7 +15,8 @@
 
 # Questionários 
 
-* Conceitos Gerais [Para Entregar até 15/3/23, 3 pontos](https://forms.gle/MFJYUCc49Zi6NSTMA) - algumas [dicas](https://youtu.be/cKrCoknYb2Y)
+* Conceitos Gerais [Para Entregar até 15/3/24, 3 pontos](https://forms.gle/MFJYUCc49Zi6NSTMA) - algumas [dicas](https://youtu.be/cKrCoknYb2Y)
+* Básico de Lista e Numpy [Para entregar até 22/3/24](https://forms.gle/r79kX6nbn5wAd4yw8)
   
 ## Programação 2024
 
@@ -28,14 +29,12 @@
 
 4. Introdução a Programação - 16/3 [slide Aula 3  Sets, Tuplas, Funções, Classes](https://docs.google.com/presentation/d/1Zv7GwoSk_I4FSvYkTan07kQvnDAoDWQO3Sp3so19e2A/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l3NrA3vV2IznXEAjMKETVW)
 
+5. Introdução a Programação - 19/3 [slide Gradio e NumPy](https://docs.google.com/presentation/d/110kBncxqTlqmFjUS-pyYL79bAZa6kBwro8E1-UTyIA4/edit?usp=sharing)
 (em construção...) 
 
 ===
 
-6.
-7.
-8. - Atividades [Para Entregar - 3 pontos](https://forms.gle/Kmfa8kfE7ukkLt6k7) Assistir o [vídeo com dicas](https://youtu.be/HaiESjM_460)  
-9. Introdução a Programação - 21/3 [slide Gradio e NumPy](https://docs.google.com/presentation/d/110kBncxqTlqmFjUS-pyYL79bAZa6kBwro8E1-UTyIA4/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kM7SAdx4ADf_UjHo4Rldxq)
+9.  Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kM7SAdx4ADf_UjHo4Rldxq)
 10.   Introdução a Programação - 23/3 [slide Pandas](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mFTOufBAOavXBoqzF9MM2K) - Atividades [Para Entregar 30 de março de 2023 - 3 pontos ](https://forms.gle/pRsxW1k7qZRY8LyDA)
 
 11.   Introdução a Programação - 28/3 [slide Pandas parte II, arquivos e matplotlib, Jupyter Iterativo e linguagem Markdown](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l-b_RQQ0QOnLBQvipzzXcU) - Atividades [Para Entregar 18 de abril](https://colab.research.google.com/drive/1rUlcUze00BSriWMDFWrHze781nRbvtZi?usp=sharing) - Voce irá enviar sua resposta neste [Formulario](https://forms.gle/hZH3w4jbQXU75zkn7) 
