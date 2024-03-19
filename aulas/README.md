@@ -33,6 +33,7 @@
 
 6. Introdução a Programação - 21/3 [slide Pandas](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing)
 7. Introdução a Programação - 26/3 [slide Pandas - Parte II, dataset Kaggle, matplotlib, arquivos, markdown](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing)
+8. Introdução a Programação - 28/3 [slide Manipulação de Imagens, Github e Google Drive ](https://docs.google.com/presentation/d/1QeTy49w4ANS5ecBRMTAnsDUOsm80s2kJXsQBsBvKWtc/edit?usp=sharing) 
 ===
 (em construção...) 
 
