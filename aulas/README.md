@@ -31,11 +31,13 @@
 
 5. Introdução a Programação - 19/3 [slide Gradio e NumPy](https://docs.google.com/presentation/d/110kBncxqTlqmFjUS-pyYL79bAZa6kBwro8E1-UTyIA4/edit?usp=sharing)
 
+6. Introdução a Programação - 21/3 [slide Pandas](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing)
+7. Introdução a Programação - 26/3 [slide Pandas - Parte II, dataset Kaggle, matplotlib, arquivos, markdown](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing)
 ===
 (em construção...) 
 
-9.  Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kM7SAdx4ADf_UjHo4Rldxq)
-10.   Introdução a Programação - 23/3 [slide Pandas](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mFTOufBAOavXBoqzF9MM2K) - Atividades [Para Entregar 30 de março de 2023 - 3 pontos ](https://forms.gle/pRsxW1k7qZRY8LyDA)
+
+10.   Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mFTOufBAOavXBoqzF9MM2K) - Atividades [Para Entregar 30 de março de 2023 - 3 pontos ](https://forms.gle/pRsxW1k7qZRY8LyDA)
 
 11.   Introdução a Programação - 28/3 [slide Pandas parte II, arquivos e matplotlib, Jupyter Iterativo e linguagem Markdown](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l-b_RQQ0QOnLBQvipzzXcU) - Atividades [Para Entregar 18 de abril](https://colab.research.google.com/drive/1rUlcUze00BSriWMDFWrHze781nRbvtZi?usp=sharing) - Voce irá enviar sua resposta neste [Formulario](https://forms.gle/hZH3w4jbQXU75zkn7) 
 12.  Introdução a Programação - 30/3 [slide Manipulação de Imagens, Github e Google Drive ](https://docs.google.com/presentation/d/1QeTy49w4ANS5ecBRMTAnsDUOsm80s2kJXsQBsBvKWtc/edit?usp=sharing) Gravação da aula [playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n1eqTA3dxqU5BmXtGhUykG)
