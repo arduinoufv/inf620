@@ -16,7 +16,7 @@
 # Questionários 
 
 * Conceitos Gerais [Para Entregar até 15/3/24, 3 pontos](https://forms.gle/MFJYUCc49Zi6NSTMA) - algumas [dicas](https://youtu.be/cKrCoknYb2Y)
-* Básico de Lista e Numpy [Para entregar até 22/3/24, 2 pontos](https://forms.gle/r79kX6nbn5wAd4yw8) - algumas [dicas](https://youtu.be/-lf6O3z5UuY)
+* Básico de Lista e Numpy [Para entregar até 25/3/24, 2 pontos](https://forms.gle/r79kX6nbn5wAd4yw8) - algumas [dicas](https://youtu.be/-lf6O3z5UuY)
   
 ## Programação 2024
 
