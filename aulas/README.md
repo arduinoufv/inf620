@@ -16,7 +16,7 @@
 # Questionários 
 
 * Conceitos Gerais [Para Entregar até 15/3/24, 3 pontos](https://forms.gle/MFJYUCc49Zi6NSTMA) - algumas [dicas](https://youtu.be/cKrCoknYb2Y)
-* Básico de Lista e Numpy [Para entregar até 22/3/24, 2 pontos](https://forms.gle/r79kX6nbn5wAd4yw8)
+* Básico de Lista e Numpy [Para entregar até 22/3/24, 2 pontos](https://forms.gle/r79kX6nbn5wAd4yw8) - algumas [dicas](https://youtu.be/-lf6O3z5UuY)
   
 ## Programação 2024
 
@@ -29,7 +29,7 @@
 
 4. Introdução a Programação - 16/3 [slide Aula 3  Sets, Tuplas, Funções, Classes](https://docs.google.com/presentation/d/1Zv7GwoSk_I4FSvYkTan07kQvnDAoDWQO3Sp3so19e2A/edit?usp=sharing) Registro da Aula [Gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l3NrA3vV2IznXEAjMKETVW)
 
-5. Introdução a Programação - 19/3 [slide Gradio e NumPy](https://docs.google.com/presentation/d/110kBncxqTlqmFjUS-pyYL79bAZa6kBwro8E1-UTyIA4/edit?usp=sharing)
+5. Introdução a Programação - 19/3 [slide Gradio e NumPy](https://docs.google.com/presentation/d/110kBncxqTlqmFjUS-pyYL79bAZa6kBwro8E1-UTyIA4/edit?usp=sharing) e [gravação da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lqak5LBSS4C2CHoMpIteKQ)
 
 6. Introdução a Programação - 21/3 [slide Pandas](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing)
 7. Introdução a Programação - 26/3 [slide Pandas - Parte II, dataset Kaggle, matplotlib, arquivos, markdown](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing)
