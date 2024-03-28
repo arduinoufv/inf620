@@ -32,8 +32,8 @@
 
 5. Introdução a Programação - 19/3 [slide Gradio e NumPy](https://docs.google.com/presentation/d/110kBncxqTlqmFjUS-pyYL79bAZa6kBwro8E1-UTyIA4/edit?usp=sharing) e [gravação da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lqak5LBSS4C2CHoMpIteKQ)
 
-6. Introdução a Programação - 21/3 [slide Pandas](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing)
-7. Introdução a Programação - 26/3 [slide Pandas - Parte II, dataset Kaggle, matplotlib, arquivos, markdown](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing)
+6. Introdução a Programação - 21/3 [slide Pandas](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) com registro de [video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lDMwYmWP-b2nwg-Wb7KQCn)
+7. Introdução a Programação - 26/3 [slide Pandas - Parte II, dataset Kaggle, matplotlib, arquivos, markdown](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) - com a [gravação da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nUjzCA6ic4GOXUIRMq-pxD)
 8. Introdução a Programação - 2/4 [slide Manipulação de Imagens, Github e Google Drive ](https://docs.google.com/presentation/d/1QeTy49w4ANS5ecBRMTAnsDUOsm80s2kJXsQBsBvKWtc/edit?usp=sharing) 
 
 ===
