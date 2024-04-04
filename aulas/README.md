@@ -35,7 +35,7 @@
 6. Introdução a Programação - 21/3 [slide Pandas](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) com registro de [video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lDMwYmWP-b2nwg-Wb7KQCn)
 7. Introdução a Programação - 26/3 [slide Pandas - Parte II, dataset Kaggle, matplotlib, arquivos, markdown](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) - com a [gravação da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nUjzCA6ic4GOXUIRMq-pxD)
 8. Introdução a Programação - 2/4 [slide Manipulação de Imagens, Github e Google Drive ](https://docs.google.com/presentation/d/1QeTy49w4ANS5ecBRMTAnsDUOsm80s2kJXsQBsBvKWtc/edit?usp=sharing)  gravação da [aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k4TUF57MGGx7lv28QlkQYQ)
-9. Introdução a Programação - 4/4  [Visitando Colabs de aprendizado de Máquina](https://docs.google.com/presentation/d/1K9p27pa3PKJim7vJqe3hLFlonGCHmbbgZPGDDCA3DXY/edit?usp=sharing)
+9. Introdução a Programação - 4/4  [Visitando Colabs de aprendizado de Máquina](https://docs.google.com/presentation/d/1K9p27pa3PKJim7vJqe3hLFlonGCHmbbgZPGDDCA3DXY/edit?usp=sharing) gravação da [aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mya1RZjk2ZBSG5RaoQlFxo)
 
 ===
 
