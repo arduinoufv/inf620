@@ -36,6 +36,8 @@
 7. Introdução a Programação - 26/3 [slide Pandas - Parte II, dataset Kaggle, matplotlib, arquivos, markdown](https://docs.google.com/presentation/d/1w0GFzJAKQKonswZg3ak1VbQbGR_tkjIndObStz2Bth0/edit?usp=sharing) - com a [gravação da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nUjzCA6ic4GOXUIRMq-pxD)
 8. Introdução a Programação - 2/4 [slide Manipulação de Imagens, Github e Google Drive ](https://docs.google.com/presentation/d/1QeTy49w4ANS5ecBRMTAnsDUOsm80s2kJXsQBsBvKWtc/edit?usp=sharing)  gravação da [aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k4TUF57MGGx7lv28QlkQYQ)
 9. Introdução a Programação - 4/4  [Visitando Colabs de aprendizado de Máquina](https://docs.google.com/presentation/d/1K9p27pa3PKJim7vJqe3hLFlonGCHmbbgZPGDDCA3DXY/edit?usp=sharing) gravação da [aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mya1RZjk2ZBSG5RaoQlFxo)
+10. 9/4 [Exemplos de modelos com Regressão Linear, Naive Bayes, Gaussian Naive Bayes, KNN](https://docs.google.com/presentation/d/1LN0qAsAF7El_86HRBchXryQ3iZ1fc5D0KUx11X7Le1E/edit?usp=sharing)
+11. 11/4 [validação cruzada, Viés(Bias) e Variância, busca automática de parametros (tuning), revisão e mais exemplos de Naive Bayes, revisão e mais exemplos de Regressão Linear, engenharia de atributos (features)](https://docs.google.com/presentation/d/1e02qSnwNUj-OnOpdIJ35hf67b4CK6-KwNTxRXg1AM4s/edit?usp=sharing) -  outros slides [Prof. Julio Slide 1](https://drive.google.com/file/d/14rITf8HizpeKFZScPBF_3F5pk9RCV5ks/view?usp=sharing) - [Prof. Julio Slide 2](https://drive.google.com/file/d/1KNsuSNzfv-fE-K7iG5sPF57L6OxPC7dH/view?usp=sharing)
 
 ===
 
@@ -45,10 +47,8 @@
 
 
 
-13.  Introdução a Programação - 4/4  [Visitando Colabs de aprendizado de Máquina](https://docs.google.com/presentation/d/1K9p27pa3PKJim7vJqe3hLFlonGCHmbbgZPGDDCA3DXY/edit?usp=sharing)
-14.  Introdução a Programação - 11/4 [Exemplos de modelos com Regressão Linear, Naive Bayes, Gaussian Naive Bayes, KNN](https://docs.google.com/presentation/d/1LN0qAsAF7El_86HRBchXryQ3iZ1fc5D0KUx11X7Le1E/edit?usp=sharing) + gravação da aula [playlist de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kPoFhqQFs6vHDYJLEVBYwZ)
 
-* [13/4] [validação cruzada, Viés(Bias) e Variância, busca automática de parametros (tuning), revisão e mais exemplos de Naive Bayes, revisão e mais exemplos de Regressão Linear, engenharia de atributos (features)](https://docs.google.com/presentation/d/1e02qSnwNUj-OnOpdIJ35hf67b4CK6-KwNTxRXg1AM4s/edit?usp=sharing) - Playlist [de video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lFcJlMPEuuHER2R12EB7mk)  outros slides [Prof. Julio Slide 1](https://drive.google.com/file/d/14rITf8HizpeKFZScPBF_3F5pk9RCV5ks/view?usp=sharing) - [Prof. Julio Slide 2](https://drive.google.com/file/d/1KNsuSNzfv-fE-K7iG5sPF57L6OxPC7dH/view?usp=sharing)
+* [13/4] 
 * [18/4] [Slide Arvores de Decisão](https://docs.google.com/presentation/d/1y4dkyMNFjLYU-ByBEXPExgCqYHHWkSxu5gDjo2hqzo0/edit?usp=sharing) playlist de [video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kx3vSd3QmGVASHDlofApgM)
 
 *  [Questionário de KNN e Naive bayes - 3 pontos - prazo 28/4](https://forms.gle/fiwHwVucTJDJ83hw9)
