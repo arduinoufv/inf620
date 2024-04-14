@@ -39,7 +39,7 @@
 10. 9/4 [Exemplos de modelos com Regressão Linear, Naive Bayes, Gaussian Naive Bayes, KNN](https://docs.google.com/presentation/d/1LN0qAsAF7El_86HRBchXryQ3iZ1fc5D0KUx11X7Le1E/edit?usp=sharing) gravação da [aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6notxDzyG8fr2veCgLha1pr)
 11. 11/4 [validação cruzada, Viés(Bias) e Variância, busca automática de parametros (tuning), revisão e mais exemplos de Naive Bayes, revisão e mais exemplos de Regressão Linear, engenharia de atributos (features)](https://docs.google.com/presentation/d/1e02qSnwNUj-OnOpdIJ35hf67b4CK6-KwNTxRXg1AM4s/edit?usp=sharing) -  outros slides [Prof. Julio Slide 1](https://drive.google.com/file/d/14rITf8HizpeKFZScPBF_3F5pk9RCV5ks/view?usp=sharing) - [Prof. Julio Slide 2](https://drive.google.com/file/d/1KNsuSNzfv-fE-K7iG5sPF57L6OxPC7dH/view?usp=sharing)
 
-12. 16/4 Arvores de Decisao
+12. 16/4 [Slide Arvores de Decisão](https://docs.google.com/presentation/d/1y4dkyMNFjLYU-ByBEXPExgCqYHHWkSxu5gDjo2hqzo0/edit?usp=sharing)
 13. 18/4 Random Forest
 14. 23/4 Boost
 15. 25/4 Revisao dos Métodos
@@ -71,7 +71,7 @@
 
 
 * [13/4] 
-* [18/4] [Slide Arvores de Decisão](https://docs.google.com/presentation/d/1y4dkyMNFjLYU-ByBEXPExgCqYHHWkSxu5gDjo2hqzo0/edit?usp=sharing) playlist de [video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kx3vSd3QmGVASHDlofApgM)
+* [18/4]  playlist de [video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kx3vSd3QmGVASHDlofApgM)
 
 *  [Questionário de KNN e Naive bayes - 3 pontos - prazo 28/4](https://forms.gle/fiwHwVucTJDJ83hw9)
 
