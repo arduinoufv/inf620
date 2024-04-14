@@ -41,7 +41,7 @@
 
 12. 16/4 [Slide Arvores de Decisão](https://docs.google.com/presentation/d/1y4dkyMNFjLYU-ByBEXPExgCqYHHWkSxu5gDjo2hqzo0/edit?usp=sharing)
 13. 18/4 [Random Forest](https://docs.google.com/presentation/d/1rukdnfQp8fcpMYWDO_YTUzXsaHdAZ40rKfO7rSoiDHA/edit?usp=sharing)
-14. 23/4 [Boost](https://docs.google.com/presentation/d/1rukdnfQp8fcpMYWDO_YTUzXsaHdAZ40rKfO7rSoiDHA/edit?usp=sharing)
+14. 23/4 [Boost](https://docs.google.com/presentation/d/1Lgj20GCFjr7z9RGPaR2zkSNW7BSrqJ8wH-cnLAXV2lU/edit?usp=sharing)
 15. 25/4 Revisao dos Métodos
 16. 30/4 Kmeans
 17. 2/5 Kmedoids, DBScan
