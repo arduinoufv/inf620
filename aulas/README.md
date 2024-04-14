@@ -40,8 +40,8 @@
 11. 11/4 [validação cruzada, Viés(Bias) e Variância, busca automática de parametros (tuning), revisão e mais exemplos de Naive Bayes, revisão e mais exemplos de Regressão Linear, engenharia de atributos (features)](https://docs.google.com/presentation/d/1e02qSnwNUj-OnOpdIJ35hf67b4CK6-KwNTxRXg1AM4s/edit?usp=sharing) -  outros slides [Prof. Julio Slide 1](https://drive.google.com/file/d/14rITf8HizpeKFZScPBF_3F5pk9RCV5ks/view?usp=sharing) - [Prof. Julio Slide 2](https://drive.google.com/file/d/1KNsuSNzfv-fE-K7iG5sPF57L6OxPC7dH/view?usp=sharing)
 
 12. 16/4 [Slide Arvores de Decisão](https://docs.google.com/presentation/d/1y4dkyMNFjLYU-ByBEXPExgCqYHHWkSxu5gDjo2hqzo0/edit?usp=sharing)
-13. 18/4 Random Forest
-14. 23/4 Boost
+13. 18/4 [Random Forest](https://docs.google.com/presentation/d/1rukdnfQp8fcpMYWDO_YTUzXsaHdAZ40rKfO7rSoiDHA/edit?usp=sharing)
+14. 23/4 [Boost](https://docs.google.com/presentation/d/1rukdnfQp8fcpMYWDO_YTUzXsaHdAZ40rKfO7rSoiDHA/edit?usp=sharing)
 15. 25/4 Revisao dos Métodos
 16. 30/4 Kmeans
 17. 2/5 Kmedoids, DBScan
