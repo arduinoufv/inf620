@@ -12,7 +12,7 @@
 # Trabalhos práticos
 
 * [Colab com o trabalho 1](https://colab.research.google.com/drive/10_cS0vpZGFLNDtp17XBQjQuP1BEdcqyh?usp=sharing) e para envio: [Formulário - Introdução da programação 2 pontos - **prazo 21/3**](https://forms.gle/e4QdfeAiSH4K7KxL8)  - algumas [dicas](https://youtu.be/3sqx4v5hF4E)
-* [Trabalho 2 em grupo - Knn e Naive Bayes](https://colab.research.google.com/drive/1sc6T4RolPQlGi-CcsbIKNu4FSXDS9Apl?usp=sharing)
+* [Trabalho 2 em grupo - Knn e Naive Bayes - 4 pontos](https://colab.research.google.com/drive/1sc6T4RolPQlGi-CcsbIKNu4FSXDS9Apl?usp=sharing)
 
 
 # Questionários 
