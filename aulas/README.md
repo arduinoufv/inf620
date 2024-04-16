@@ -12,7 +12,7 @@
 # Trabalhos práticos
 
 * [Colab com o trabalho 1](https://colab.research.google.com/drive/10_cS0vpZGFLNDtp17XBQjQuP1BEdcqyh?usp=sharing) e para envio: [Formulário - Introdução da programação 2 pontos - **prazo 21/3**](https://forms.gle/e4QdfeAiSH4K7KxL8)  - algumas [dicas](https://youtu.be/3sqx4v5hF4E)
-* [Trabalho 2 em grupo - Knn e Naive Bayes - 4 pontos](https://colab.research.google.com/drive/1sc6T4RolPQlGi-CcsbIKNu4FSXDS9Apl?usp=sharing)
+* [Trabalho 2 em grupo - Knn e Naive Bayes - 4 pontos](https://colab.research.google.com/drive/1sc6T4RolPQlGi-CcsbIKNu4FSXDS9Apl?usp=sharing) gravação com [explicações](https://www.youtube.com/playlist?list=PLcvOyD_LMr6moOBm08z9tANARf0ZmKssh)
 
 
 # Questionários 
@@ -42,7 +42,7 @@
 10. 9/4 [Exemplos de modelos com Regressão Linear, Naive Bayes, Gaussian Naive Bayes, KNN](https://docs.google.com/presentation/d/1LN0qAsAF7El_86HRBchXryQ3iZ1fc5D0KUx11X7Le1E/edit?usp=sharing) gravação da [aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6notxDzyG8fr2veCgLha1pr)
 11. 11/4 [validação cruzada, Viés(Bias) e Variância, busca automática de parametros (tuning), revisão e mais exemplos de Naive Bayes, revisão e mais exemplos de Regressão Linear, engenharia de atributos (features)](https://docs.google.com/presentation/d/1e02qSnwNUj-OnOpdIJ35hf67b4CK6-KwNTxRXg1AM4s/edit?usp=sharing) -  outros slides [Prof. Julio Slide 1](https://drive.google.com/file/d/14rITf8HizpeKFZScPBF_3F5pk9RCV5ks/view?usp=sharing) - [Prof. Julio Slide 2](https://drive.google.com/file/d/1KNsuSNzfv-fE-K7iG5sPF57L6OxPC7dH/view?usp=sharing)
 
-12. 16/4 [Slide Arvores de Decisão](https://docs.google.com/presentation/d/1y4dkyMNFjLYU-ByBEXPExgCqYHHWkSxu5gDjo2hqzo0/edit?usp=sharing)
+12. 16/4 [Slide Arvores de Decisão](https://docs.google.com/presentation/d/1y4dkyMNFjLYU-ByBEXPExgCqYHHWkSxu5gDjo2hqzo0/edit?usp=sharing) gravação da [aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lqBgoCBT-M_Qk6Wltau6yj)
 13. 18/4 [Random Forest](https://docs.google.com/presentation/d/1rukdnfQp8fcpMYWDO_YTUzXsaHdAZ40rKfO7rSoiDHA/edit?usp=sharing)
 14. 23/4 [Boost](https://docs.google.com/presentation/d/1Lgj20GCFjr7z9RGPaR2zkSNW7BSrqJ8wH-cnLAXV2lU/edit?usp=sharing)
 15. 25/4 Revisao dos Métodos
