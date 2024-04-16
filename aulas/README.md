@@ -52,13 +52,13 @@
 19. 9/5 Regressão Logistica
 20. 14/5 Rede Neural
 21. 16/5 Rede Convolucional
-22. 21/5 Aprendizado por Reforço
-23. 23/5 Aprendizado pro Reforço
+22. 21/5 Aprendizado por Reforço  Prof. Lucas
+23. 23/5 Aprendizado pro Reforço  Prof. Lucas
 24. 28/5 Arquiteturas Convolucionais
 25. 4/6 Auto-encoder e GAN
 26. 6/6 RNN e LSTM
-27. 11/6 Palestras Convidadas: Prof. Hugo, Marcos, Sabrina, Michel, Thiago, Julio
-28. 13/6 Palestras Convidadas: Prof. Hugo, Marcos, Sabrina, Michel, Thiago, Julio
+27. 11/6 Palestras Convidadas: Prof. Hugo, Marcos, **Sabrina**, Michel, Thiago, Julio
+28. 13/6 Palestras Convidadas: Prof. Hugo, **Marcos**, **Sabrina**, Michel, Thiago, Julio
 29. 18/6 Word2Vector
 30. 21/6 Transformers
 31. 25/6 Grafos
