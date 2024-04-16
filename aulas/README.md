@@ -1,6 +1,6 @@
 # Aulas de 2024
 
-* Horários: Terças e Quintas 8am as 10am
+* Horários: Terças e Quintas 8am as 10am 
 * Sala: sala 408 CCE (Predio Vermelho) 4 andar - Sala de Seminarios do Dpto de Informática
 * Monitoria : [horários e links]()
 
