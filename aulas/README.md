@@ -58,12 +58,12 @@
 24. 28/5 Arquiteturas Convolucionais
 25. 4/6 Auto-encoder e GAN
 26. 6/6 RNN e LSTM
-27. 11/6 Palestras Convidadas: Prof. Hugo, Marcos, **Sabrina**, Michel, Thiago, Julio
-28. 13/6 Palestras Convidadas: Prof. Hugo, **Marcos**, **Sabrina**, Michel, Thiago, Julio
+27. 11/6 Palestras Convidadas: Profa. **Sabrina**, Prof.**Julio**
+28. 13/6 Palestras Convidadas: Prof. Hugo, **Marcos**, Michel, Thiago, Julio
 29. 18/6 Word2Vector
 30. 21/6 Transformers
 31. 25/6 Grafos
-32. 28/6 Encerramento + Palestras Convidadas 
+32. 28/6 Encerramento + Palestras Convidadas Prof. Hugo, Michel, Thiago
 
 ===
 
