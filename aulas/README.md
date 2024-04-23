@@ -21,6 +21,7 @@
 * Básico de Lista e Numpy [Para entregar até 25/3/24, 2 pontos](https://forms.gle/r79kX6nbn5wAd4yw8) - algumas [dicas](https://youtu.be/-lf6O3z5UuY)
 * Numpy e Pandas  [Para Entregar 5 abril 2024 - 3 pontos ](https://forms.gle/t4gKt86xxt9LQNmY9)
 * Knn e Naive Bayes [Para entregar 22 abril 2024 - 2 pontos](https://forms.gle/WXdTie47zSyGYp6T8)
+* Arvores, Random Forest e Boost [Para entregar 30 abril de 2024 - 2 pontos](https://forms.gle/gKjVUfkhxubaSAV49)
                                   
 ## Programação 2024
 
