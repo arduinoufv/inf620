@@ -13,7 +13,7 @@
 
 * [Colab com o trabalho 1](https://colab.research.google.com/drive/10_cS0vpZGFLNDtp17XBQjQuP1BEdcqyh?usp=sharing) e para envio: [Formulário - Introdução da programação 2 pontos - **prazo 21/3**](https://forms.gle/e4QdfeAiSH4K7KxL8)  - algumas [dicas](https://youtu.be/3sqx4v5hF4E)
 * [Trabalho 2 em grupo - Knn e Naive Bayes - 4 pontos](https://colab.research.google.com/drive/1sc6T4RolPQlGi-CcsbIKNu4FSXDS9Apl?usp=sharing) gravação com [explicações](https://www.youtube.com/playlist?list=PLcvOyD_LMr6moOBm08z9tANARf0ZmKssh)
-
+* [Trabalho 3 em grupo - explorando um dataset com 5 milhões de amostras - gravação do video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n9WHWVeg9J9Lrf2_Dzuvo2
 
 # Questionários 
 
@@ -46,7 +46,7 @@
 12. 16/4 [Slide Arvores de Decisão](https://docs.google.com/presentation/d/1y4dkyMNFjLYU-ByBEXPExgCqYHHWkSxu5gDjo2hqzo0/edit?usp=sharing) gravação da [aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lqBgoCBT-M_Qk6Wltau6yj)
 13. 18/4 [Slide Random Forest](https://docs.google.com/presentation/d/1rukdnfQp8fcpMYWDO_YTUzXsaHdAZ40rKfO7rSoiDHA/edit?usp=sharing) gravação da [aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m1b38UFoHN3F3bB1IP9AQT)
 14. 23/4 [Slide Boost](https://docs.google.com/presentation/d/1Lgj20GCFjr7z9RGPaR2zkSNW7BSrqJ8wH-cnLAXV2lU/edit?usp=sharing)  gravação da [aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mA7Vx3XLbnsDCqpX4SNlHh)
-15. 25/4 Revisao dos Métodos
+15. 25/4 Revisao dos Métodos = [gravação da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lJYr05H8lpo8EQrBeBqdYp) 
 16. 30/4 Kmeans
 17. 2/5 Kmedoids, DBScan
 18. 7/5 PCA, TSNE, RBF
