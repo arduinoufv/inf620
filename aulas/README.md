@@ -14,6 +14,7 @@
 * [Colab com o trabalho 1](https://colab.research.google.com/drive/10_cS0vpZGFLNDtp17XBQjQuP1BEdcqyh?usp=sharing) e para envio: [Formulário - Introdução da programação 2 pontos - **prazo 21/3**](https://forms.gle/e4QdfeAiSH4K7KxL8)  - algumas [dicas](https://youtu.be/3sqx4v5hF4E)
 * [Trabalho 2 em grupo - Knn e Naive Bayes - 4 pontos](https://colab.research.google.com/drive/1sc6T4RolPQlGi-CcsbIKNu4FSXDS9Apl?usp=sharing) gravação com [explicações](https://www.youtube.com/playlist?list=PLcvOyD_LMr6moOBm08z9tANARf0ZmKssh)
 * [Trabalho 3 em grupo - explorando um dataset com 5 milhões de amostras - gravação do video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n9WHWVeg9J9Lrf2_Dzuvo2
+* Trabalho 4 [baseado neste notebook](https://github.com/robertofranceschi/Default-Credit-Card-Prediction/blob/master/code.ipynb) e [video stat quest](https://www.youtube.com/watch?v=8A7L0GsBiLQ)
 
 # Questionários 
 
