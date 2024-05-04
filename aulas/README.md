@@ -47,10 +47,10 @@
 13. 18/4 [Slide Random Forest](https://docs.google.com/presentation/d/1rukdnfQp8fcpMYWDO_YTUzXsaHdAZ40rKfO7rSoiDHA/edit?usp=sharing) gravação da [aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m1b38UFoHN3F3bB1IP9AQT)
 14. 23/4 [Slide Boost](https://docs.google.com/presentation/d/1Lgj20GCFjr7z9RGPaR2zkSNW7BSrqJ8wH-cnLAXV2lU/edit?usp=sharing)  gravação da [aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mA7Vx3XLbnsDCqpX4SNlHh)
 15. 25/4 Revisao dos Métodos = [gravação da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lJYr05H8lpo8EQrBeBqdYp) 
-16. 30/4 Kmeans
-17. 2/5 Kmedoids, DBScan
-18. 7/5 PCA, TSNE, RBF
-19. 9/5 Regressão Logistica
+16. 30/4 Kmeans Kmedoids, DBScan aula [gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l2TV9Ka_NeCjPzTg03lN5F) e os [slides](https://docs.google.com/presentation/d/10ujnonGpX676zUcPDJyovN0SARlFOXcWczCf_FuS6AI/edit?usp=sharing)
+17. 2/5 PCA, TSNE, RBF  [slides](https://docs.google.com/presentation/d/1LtUNRaVyoDsw8pzHBEC-6rdkDm4NMRLR_z5DvUd7Er4/edit?usp=sharing)
+18. 7/5 SVM e Regressão Logistica slides [de regressão logistica](https://docs.google.com/presentation/d/1v8BGsEe9cLfJflYguJSQ2vAlWTQsZjlpDISp5yf9I9w/edit?usp=sharing)
+19. 9/5 Regressão Logistica e Rede Neural, slides de [redes neurais](https://docs.google.com/presentation/d/1jCPr7rAANCWgEhbO4vIhpnCWaJuRTwPqn3uh0Se4neQ/edit?usp=sharing)
 20. 14/5 Rede Neural
 21. 16/5 Rede Convolucional
 22. 21/5 Aprendizado por Reforço  Prof. Lucas
@@ -74,26 +74,18 @@
 
 
 
-* [13/4] 
-* [18/4]  playlist de [video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kx3vSd3QmGVASHDlofApgM)
-
-*  [Questionário de KNN e Naive bayes - 3 pontos - prazo 28/4](https://forms.gle/fiwHwVucTJDJ83hw9)
 
 * [20/4] Random Forest [Playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6laRhwevdGnq2XaYIGSAp7A)
 * [25/4] [Links para video](https://drive.google.com/file/d/1qW7q9VzEnYaVUEJ059LIgTqGR85uXXAP/view?usp=sharing) e [chat](https://drive.google.com/file/d/1z6R0fMqpRAJ16rEETO6SV8cwXUN2GNCA/view?usp=sharing) 
      *  [link para o colab](https://colab.research.google.com/drive/1zlg-048zjyrQCyS3wwSD-2syEF8QpWTC?usp=sharing)
 
 * [27/4] Tópicos: **Boosting**, **bagging**, **stacking**, **adaboost**, **gradient boost**, **xgboost** [playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ljH2zy9Alrh84HFthV_wBA)
-* [2/5]   [Aprendizado não supervisionado - Kmeans](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n0vQK__UIbfY2Ig_cdOcNH) e os [slides](https://docs.google.com/presentation/d/10ujnonGpX676zUcPDJyovN0SARlFOXcWczCf_FuS6AI/edit?usp=sharing)
-* [4/5]  Aprendizado não supervisionado - [outros métodos de agrupamento e PCA](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lSUmKdpdPtaeWIuvGhBplw) e [slides](https://docs.google.com/presentation/d/1LtUNRaVyoDsw8pzHBEC-6rdkDm4NMRLR_z5DvUd7Er4/edit?usp=sharing)
-    * Atividade 1 de Arvores para [entregar até dia 19/6 - valendo 3 pontos](https://forms.gle/Hj7pnnKFyvJPeoUr5)
-    * Atividade 2 de Arvores para [entregar até dia 19/6 - valendo 2 pontos](https://forms.gle/frmPDq5knyu45BJ17)
+* [2/5]   [Aprendizado não supervisionado - Kmeans](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n0vQK__UIbfY2Ig_cdOcNH) e os 
+* [4/5]  Aprendizado não supervisionado - [outros métodos de agrupamento e PCA](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lSUmKdpdPtaeWIuvGhBplw) e
    
-     * **Trabalho 2 até 19 de junho de 2023**
-    * [dicas dos questionários e trabalho 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nddpu6v3Z28-yEAKuC38E9)
     * [Colab do Adilson para usar de base](https://colab.research.google.com/drive/1mAPIaTOEpxtWZW35YjHJkchKMDb1nMX5?usp=sharing) além da apresentação [do Adilson com slides](https://docs.google.com/presentation/d/1HkZRF2ko6AyU2cyQCS5uaNPgeYAmdIqaShK6R2_Av-4/edit?usp=sharing) e o [video](https://www.youtube.com/watch?v=kU3SpBnuFRo) e [parte II](https://www.youtube.com/watch?v=E-LTIO1uclc) 
 
-* [9/5 e 11/5]  [Redes Neurais e Regressao Logistica](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kzD5o2A3l7yidAXgmkdytZ)e slides [de regressão logistica](https://docs.google.com/presentation/d/1v8BGsEe9cLfJflYguJSQ2vAlWTQsZjlpDISp5yf9I9w/edit?usp=sharing) e slides de [redes neurais](https://docs.google.com/presentation/d/1jCPr7rAANCWgEhbO4vIhpnCWaJuRTwPqn3uh0Se4neQ/edit?usp=sharing)
+* [9/5 e 11/5]  [Redes Neurais e Regressao Logistica](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kzD5o2A3l7yidAXgmkdytZ)e 
     * [Questionário de Kmeans, PCA e DBscan - até dia 19/6 - valendo 3 pontos](https://forms.gle/4cuu8LLcEhjmtLPk6)
 
 * [16/5] [Redes Convolucionais - play list](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kO5XqEIbzONT9EBC302b2) e [slides](https://docs.google.com/presentation/d/1ImBh4awNQ6s6yx9ehcBwg1N1FxBFNHT08olVcH4H_Ag/edit?usp=sharing)
