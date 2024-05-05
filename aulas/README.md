@@ -6,7 +6,7 @@
 
 # Trabalho Final até 14/6/24
 
-* [Envio do survey - 30 pontos](https://forms.gle/1b9PhzToGsb4dynT8)
+* [Envio do survey - 30 pontos](https://forms.gle/1b9PhzToGsb4dynT8) 
 * [Envio do Video - 5 pontos](https://forms.gle/sTeDx4xrgPMWAao57)
 
 # Trabalhos práticos
