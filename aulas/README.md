@@ -54,14 +54,14 @@
 19. 9/5 Regressão Logistica e Rede Neural, slides de [redes neurais](https://docs.google.com/presentation/d/1jCPr7rAANCWgEhbO4vIhpnCWaJuRTwPqn3uh0Se4neQ/edit?usp=sharing)
 20. 14/5 Rede Neural
 21. 16/5 Rede Convolucional
-22. 21/5 Aprendizado por Reforço  Prof. Lucas
-23. 23/5 Aprendizado pro Reforço  Prof. Lucas
-24. 28/5 Arquiteturas Convolucionais
-25. 4/6 Auto-encoder e GAN
-26. 6/6 RNN e LSTM
+22. 21/5 Arquiteturas Convolucionais 
+23. 23/5 RNN e LSTM
+24. 28/5 Word2Vector
+25. 4/6  Aprendizado por Reforço  Prof. Lucas 
+26. 6/6  Aprendizado pro Reforço  Prof. Lucas
 27. 11/6 Palestras Convidadas: Profa. **Sabrina**, Prof.**Julio**
-28. 13/6 Palestras Convidadas: Prof. Hugo, **Marcos**, Michel, Thiago, Julio
-29. 18/6 Word2Vector
+28. 13/6 Palestras Convidadas: Prof. Hugo, **Marcos**, Michel, Thiago
+29. 18/6 Auto-encoder e GAN
 30. 21/6 Transformers
 31. 25/6 Grafos
 32. 28/6 Encerramento + Palestras Convidadas Prof. Hugo, Michel, Thiago
