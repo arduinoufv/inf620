@@ -49,7 +49,7 @@
 14. 23/4 [Slide Boost](https://docs.google.com/presentation/d/1Lgj20GCFjr7z9RGPaR2zkSNW7BSrqJ8wH-cnLAXV2lU/edit?usp=sharing)  gravação da [aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mA7Vx3XLbnsDCqpX4SNlHh)
 15. 25/4 Revisao dos Métodos = [gravação da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lJYr05H8lpo8EQrBeBqdYp) 
 16. 30/4 Kmeans Kmedoids, DBScan aula [gravação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l2TV9Ka_NeCjPzTg03lN5F) e os [slides](https://docs.google.com/presentation/d/10ujnonGpX676zUcPDJyovN0SARlFOXcWczCf_FuS6AI/edit?usp=sharing)
-17. 2/5 PCA, TSNE, RBF  [slides](https://docs.google.com/presentation/d/1LtUNRaVyoDsw8pzHBEC-6rdkDm4NMRLR_z5DvUd7Er4/edit?usp=sharing)
+17. 2/5 PCA, TSNE, RBF  [slides](https://docs.google.com/presentation/d/1LtUNRaVyoDsw8pzHBEC-6rdkDm4NMRLR_z5DvUd7Er4/edit?usp=sharing) e aula [gravada](https://studio.youtube.com/playlist/PLcvOyD_LMr6lR6NhP-jPxNGkZZRVENG2n/edit)
 18. 7/5 [slides de SVM](https://docs.google.com/presentation/d/1H8F3Wn5fNB29cLqx3LycFNNErYpTilI0mVtCmkGXskk/edit?usp=sharing) e  [slides de regressão logistica](https://docs.google.com/presentation/d/1v8BGsEe9cLfJflYguJSQ2vAlWTQsZjlpDISp5yf9I9w/edit?usp=sharing)
 19. 9/5 Regressão Logistica e Rede Neural, slides de [redes neurais](https://docs.google.com/presentation/d/1jCPr7rAANCWgEhbO4vIhpnCWaJuRTwPqn3uh0Se4neQ/edit?usp=sharing)
 20. 14/5 Rede Neural
