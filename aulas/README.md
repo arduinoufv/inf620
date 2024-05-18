@@ -55,9 +55,9 @@
 18. 7/5 [slides de SVM](https://docs.google.com/presentation/d/1H8F3Wn5fNB29cLqx3LycFNNErYpTilI0mVtCmkGXskk/edit?usp=sharing) e  [slides de regressão logistica](https://docs.google.com/presentation/d/1v8BGsEe9cLfJflYguJSQ2vAlWTQsZjlpDISp5yf9I9w/edit?usp=sharing) gravação da [aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lsVro3vEsIJzs6cNZnjnQZ)
 19. 9/5 Regressão Logistica e Rede Neural, slides de [redes neurais](https://docs.google.com/presentation/d/1jCPr7rAANCWgEhbO4vIhpnCWaJuRTwPqn3uh0Se4neQ/edit?usp=sharing)e gravação da [aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nEo7srdoMeh_Xvgq2HzUQe)
 20. 14/5 Rede Neural e Rede Convolucional [slides](https://docs.google.com/presentation/d/1ImBh4awNQ6s6yx9ehcBwg1N1FxBFNHT08olVcH4H_Ag/edit?usp=sharing) e gravação da [aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kh8cdIailg6fB6DhAHVL0O)
-21. 16/5 Rede Convolucional e Arquiteturas Convolucionais
-22. 21/5 RNN e LSTM 
-23. 23/5 Word2Vector
+21. 16/5 Rede Convolucional 
+22. 21/5 Arquiteturas Convolucionais [slides](https://docs.google.com/presentation/d/1VILc5ts6Cuz3mwITOnbzPl9HUND_UMULoxRBakCmIQg/edit?usp=sharing), RNN e LSTM [slides](https://docs.google.com/presentation/d/1kih30g1o3hEeBn-TjV_T8iDxHgnqDjcywgS7ZYLFZxs/edit?usp=sharing) 
+23. 23/5 Word2Vector [slides](https://docs.google.com/presentation/d/1TCBjYVdFU16PJuw97-zjG3NnkOwW3RSybh8DtA2rQu8/edit?usp=sharing)
 24. 28/5 Transformers
 25. 4/6  Aprendizado por Reforço  Prof. Lucas 
 26. 6/6  Aprendizado pro Reforço  Prof. Lucas
@@ -83,12 +83,10 @@
 
     * [Colab do Adilson para usar de base](https://colab.research.google.com/drive/1mAPIaTOEpxtWZW35YjHJkchKMDb1nMX5?usp=sharing) além da apresentação [do Adilson com slides](https://docs.google.com/presentation/d/1HkZRF2ko6AyU2cyQCS5uaNPgeYAmdIqaShK6R2_Av-4/edit?usp=sharing) e o [video](https://www.youtube.com/watch?v=kU3SpBnuFRo) e [parte II](https://www.youtube.com/watch?v=E-LTIO1uclc) 
 
-* [23/5] [Arquiteturas Convolucionais - slides ](https://docs.google.com/presentation/d/1VILc5ts6Cuz3mwITOnbzPl9HUND_UMULoxRBakCmIQg/edit?usp=sharing) e [playlist de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kF5WFW_9XmEvmztQFbpHL2)
-* [25/5]   RNN & LSTM  [ playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ksGBHUdku-T5PEATDaSoUt) e [slides](https://docs.google.com/presentation/d/1kih30g1o3hEeBn-TjV_T8iDxHgnqDjcywgS7ZYLFZxs/edit?usp=sharing)
-    * [MIT Slides](http://introtodeeplearning.com/slides/6S191_MIT_DeepLearning_L2.pdf) e [MIT Introduction Video](https://www.youtube.com/watch?v=ySEx_Bqxvvo) 
+* [23/5] 
 * [30/5]  [Detecao e Segmentaçao de Imagens](https://docs.google.com/presentation/d/1E_EZ92JvScPdxwmwUo9dgdaSrbiNB1-rbOCymjUNqyM/edit?usp=sharing)  [playlist de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mVLxAGgrNbbRMJBqwD9n9R)
 * [1/6]   [Playlist Auto Encoder e GAN](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kQNPlvFlbtc_Es3GKYzTyc) +  [slides](https://docs.google.com/presentation/d/1z8mJGxRoqZxzDlGmA0OM9e0y3K_UKPUZBdvyiyPfWBA/edit?usp=sharing)
-* [6/6]   [Playlist Word Embedding & Transformers](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ksj8da7fVYW4nbi4iSrVUi) +  [slides](https://docs.google.com/presentation/d/1TCBjYVdFU16PJuw97-zjG3NnkOwW3RSybh8DtA2rQu8/edit?usp=sharing)
+* [6/6]   [Playlist Word Embedding & Transformers](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ksj8da7fVYW4nbi4iSrVUi) +  
 * [13/6]  [Aprendizado por Reforço - Prof. Lucas Ferreira - Parte I](https://youtu.be/aE83-dWCulU)
 * [15/6]   Redes Neurais com Grafos e Node2Vec
 * [20/6]  [Aprendizado por Reforço - Prof. Lucas Ferreira - Parte II](https://youtu.be/w5ygGChcJQA) + [códigos usados na aula](https://gist.github.com/lucasnfe/8f9c02c30ea87062cd548b816216aaa3)
