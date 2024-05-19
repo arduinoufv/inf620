@@ -16,7 +16,7 @@
 * 4 pontos - [Trabalho 3 em grupo - explorando um dataset com 5 milhões de amostras - gravação do video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n9WHWVeg9J9Lrf2_Dzuvo2) usar o colab [clique aqui](https://colab.research.google.com/drive/17NhNbZLyGqFwSl878ee6Y6dGU3GSU0f_?usp=sharing)
 * 5 pontos - Trabalho 4 - Continuar o Trabalho 2  [baseado neste notebook](https://github.com/robertofranceschi/Default-Credit-Card-Prediction/blob/master/code.ipynb) e [video stat quest](https://www.youtube.com/watch?v=8A7L0GsBiLQ) aplicar os metodos do knn, svm, random forest e regressão logística com exploração de hiperparametros. 
 * 5 pontos - Trabalho 5 - Usar três redes neurais com características diferentes para os dataset do trabalho 2.
-* 10 pontos - rede convolucional
+* 10 pontos - rede convolucional adaptar o colab [keras de cachorro e gato](https://keras.io/examples/vision/image_classification_from_scratch/) para este [dataset](https://github.com/kavishsanghvi/fauna-image-classification-using-convolutional-neural-network/tree/master)
 * 8 pontos - gerar um exemplo de machine learning com um dataset, exploracao parametros, algumas tecnicas para ser um exemplo didático.
 
 
