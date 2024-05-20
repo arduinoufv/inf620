@@ -30,8 +30,7 @@
 * redes neurais 3 pontos
 * redes convolucionais 3 pontos
 * rnn, lstm 3 pontos
-* kmeans, pca , dbscan 4 pontos
-* deteccqao esegmentacao 2 pontos 
+* [kmeans, pca , dbscan 5 pontos](https://forms.gle/uSsNswYfBWtHqrt6A)
                                   
 ## Programação 2024
 
