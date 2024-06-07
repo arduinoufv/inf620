@@ -6,10 +6,10 @@
 
 # Trabalho Final até 14/6/24
 
-* [Envio do survey - 30 pontos](https://forms.gle/1b9PhzToGsb4dynT8) 
-* [Envio do Video - 5 pontos](https://forms.gle/sTeDx4xrgPMWAao57)
+* [Envio do survey - 30 pontos](https://forms.gle/1b9PhzToGsb4dynT8) alguns exemplos de [2022](https://docs.google.com/document/d/1jVZnxh3E266Kn3GTUCmXg2aMAiSml0QwV7nh9rrja6w/edit?usp=sharing)
+* [Envio do Video - 5 pontos](https://forms.gle/sTeDx4xrgPMWAao57) alguns exemplos de [2022](https://docs.google.com/document/d/1GCfwWVaz6JkTbzr-Z7cY4kc0ikT5Tamp-WX4xHLNq7U/edit?usp=sharing)
 
-# Trabalhos práticos
+# Trabalhos práticos - todos os trabalhos podem ser enviados por [aqui](https://forms.gle/3peHAworZMDbegeG7)
 
 * [Colab com o trabalho 1](https://colab.research.google.com/drive/10_cS0vpZGFLNDtp17XBQjQuP1BEdcqyh?usp=sharing) e para envio: [Formulário - Introdução da programação 2 pontos - **prazo 21/3**](https://forms.gle/e4QdfeAiSH4K7KxL8)  - algumas [dicas](https://youtu.be/3sqx4v5hF4E)
 * [Trabalho 2 em grupo - Knn e Naive Bayes - 4 pontos](https://colab.research.google.com/drive/1sc6T4RolPQlGi-CcsbIKNu4FSXDS9Apl?usp=sharing) gravação com [explicações](https://www.youtube.com/playlist?list=PLcvOyD_LMr6moOBm08z9tANARf0ZmKssh)
