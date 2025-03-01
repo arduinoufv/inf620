@@ -1,10 +1,12 @@
 # Assignments
- 
-# References
+
+* 10 multiple-choice question tests (40 points).
+* 4 Labs in Google Colab (20 points).
+* Submit a survey article in your research area, reviewing 10 articles that use AI or ML.  
 
 # Scheduling
 
-##  Lecture 1 11/3/25 - Introduction I
+##  Lecture 1 11/3/25 - [Introduction I](https://docs.google.com/presentation/d/10jTcNTy6A4eGegUodfMp8QGZ8cTOX7ObdbvcqoAawHU/edit?usp=sharing)
 
 ## Lecture 2 13/3/25  -  Introduction II
 
