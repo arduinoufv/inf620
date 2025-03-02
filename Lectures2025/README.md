@@ -14,7 +14,7 @@
 * [Basic Colab Commands](https://colab.research.google.com/drive/13n7krqZdgiSd2a_2LQVAZC1wu4j9Hi_E?usp=sharing)
 
 ## Lecture 3 March 18, 2025 (Asynchronous Lecture) - Introduction to Python Language
-* [Click here for the Video Playlist]()
+* [Click here for the Video Playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nuuHEVSuLcK_IKrCDvmQ_c)
 * [Click here for the Colab Exercises](https://colab.research.google.com/drive/1kjNadd4g3y7ekMycTsZdA2tu9RpheEL5?usp=sharing)
 * [Click here for take alway](https://colab.research.google.com/drive/1MKwIw093UG_S0r9wULwXfH_Xxb-mNbcL?usp=sharing)
 
