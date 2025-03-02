@@ -18,32 +18,32 @@
 * [Click here for the Colab Exercises](https://colab.research.google.com/drive/1kjNadd4g3y7ekMycTsZdA2tu9RpheEL5?usp=sharing)
 * [Click here for take alway](https://colab.research.google.com/drive/1MKwIw093UG_S0r9wULwXfH_Xxb-mNbcL?usp=sharing)
 
-## Lecture 4 March 20, 2025 (Asynchronous Lecture)
+## Lecture 4 March 20, 2025 (Asynchronous Lecture) - Numpy and Matplotlib
 * [Click here for the Video Playlist]()
 * [Click here for the Colab Exercises]()
 
-## Lecture 5 March 25, 2025 (Synchronous Lecture)
+## Lecture 5 March 25, 2025 (Synchronous Lecture) - Pandas and Forms
 * [Click here for the Google Meeting at 8 am]()
 * [Click here for the Colab Exercises]()
 
-## Lecture 6 March 27, 2025 (Synchronous Lecture)
+## Lecture 6 March 27, 2025 (Synchronous Lecture) - Images and File Formats
 * [Click here for the Google Meeting at 10 am]()
 * [Click here for the Colab Exercises]()
 
-## Lecture 7 April 1, 2025 (Asynchronous Lecture)
+## Lecture 7 April 1, 2025 (Asynchronous Lecture) - Introduction to Machine Learning and KNN
 * [Click here for the Video Playlist]()
 * [Click here for the Colab Exercises]()
 
-## Lecture 8 April 3, 2025 (Asynchronous Lecture)
+## Lecture 8 April 3, 2025 (Asynchronous Lecture) - Introduction to Machine Learning and Naive Bayes
 * [Click here for the Video Playlist]()
 * [Click here for the Colab Exercises]()
 
 
-## Lecture 9 08/4/25  
-## Lecture 10 10/4/25 
-## Lecture 11 15/4/25 
-## Lecture 12 22/4/25
-## Lecture 13 24/4/25 
+## Lecture 9 08/4/25  - Validation, Overfitting and metrics
+## Lecture 10 10/4/25 - Decision Trees
+## Lecture 11 15/4/25 - Ensemble and Random Forest
+## Lecture 12 22/4/25 - Boost
+## Lecture 13 24/4/25 - 
 ## Lecture 14 29/4/25  
 ## Lecture 15 6/5/25    
 ## Lecture 16 8/5/25  
