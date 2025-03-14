@@ -12,6 +12,7 @@
   
 ## Lecture 2 13/3/25  -  Introduction II 
 
+* [Recorded Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l0dz9OLstXAbKzWkpaDqmH)
 * [Basic Colab Commands](https://colab.research.google.com/drive/13n7krqZdgiSd2a_2LQVAZC1wu4j9Hi_E?usp=sharing)
 
 ## Lecture 3 March 18, 2025 (Asynchronous Lecture) - Introduction to Python Language
