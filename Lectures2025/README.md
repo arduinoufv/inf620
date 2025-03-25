@@ -26,7 +26,8 @@
 
 ## Lecture 5 March 25, 2025 (Asynchronous Lecture) - Pandas and Forms
 * [Video Playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k9rR2ksgYqTiD6netyeWex)
-* [Click here for the Colab Exercises]()
+* [slides](https://docs.google.com/presentation/d/1q_cokY7qyCT-h7TaxWQmRQfWmQH3f0hDf-E_d9sOQro/edit?usp=sharing)
+* [Click here for the Colab Examples, Demo, and exercises](https://colab.research.google.com/drive/1C1MSe7n_VbFHG2-eSelpOfCJqM-etOpz?usp=sharing)
 
 ## Lecture 6 March 27, 2025 (Synchronous Lecture) - Images and File Formats
 * [Click here for the Google Meeting at 10 am]()
