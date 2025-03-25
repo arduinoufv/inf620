@@ -24,8 +24,8 @@
 * [Click here for the Video Playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ml8OYhMJHYbhwZtfs_omd_)
 * [Click here for the Colab Exercises](https://colab.research.google.com/drive/12h_GKcDJ0Qk9tN_MMXQueC4F4lk6a8SA?usp=sharing)
 
-## Lecture 5 March 25, 2025 (Synchronous Lecture) - Pandas and Forms
-* [Click here for the Google Meeting at 8 am]()
+## Lecture 5 March 25, 2025 (Asynchronous Lecture) - Pandas and Forms
+* [Video Playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k9rR2ksgYqTiD6netyeWex)
 * [Click here for the Colab Exercises]()
 
 ## Lecture 6 March 27, 2025 (Synchronous Lecture) - Images and File Formats
