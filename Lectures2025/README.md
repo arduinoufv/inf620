@@ -29,9 +29,9 @@
 * [slides](https://docs.google.com/presentation/d/1q_cokY7qyCT-h7TaxWQmRQfWmQH3f0hDf-E_d9sOQro/edit?usp=sharing)
 * [Click here for the Colab Examples, Demo, and exercises](https://colab.research.google.com/drive/1C1MSe7n_VbFHG2-eSelpOfCJqM-etOpz?usp=sharing)
 
-## Lecture 6 March 27, 2025 (Synchronous Lecture) - Images and File Formats
-* [Click here for the Google Meeting at 10 am]()
-* [Click here for the Colab Exercises]()
+## Lecture 6 March 27, 2025 (asynchronous Lecture) - Images
+* [Click here for video playlis](https://www.youtube.com/playlist?list=PLcvOyD_LMr6labH-qT5hfaaoCdt43a9bN)
+* [Click here for the slides](https://docs.google.com/presentation/d/1k7BQ4Mm7aU-8zrZ2-XWnmCbxXZobr_GEamSiYuxgyl4/edit?usp=sharing)
 
 ## Lecture 7 April 1, 2025 (Asynchronous Lecture) - Introduction to Machine Learning and KNN
 * [Click here for the Video Playlist]()
