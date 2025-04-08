@@ -34,8 +34,8 @@
 * [Click here for the slides](https://docs.google.com/presentation/d/1k7BQ4Mm7aU-8zrZ2-XWnmCbxXZobr_GEamSiYuxgyl4/edit?usp=sharing)
 
 ## Lecture 7 April 1, 2025 (Asynchronous Lecture) - Introduction to Machine Learning and KNN
-* [Click here for the Video Playlist]()
-* [Click here for the Colab Exercises]()
+* [Lectures Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620__KNN_SupervisED.pdf)
+* [Click here for the Colab Exercises](https://colab.research.google.com/drive/12qeE5hynaHqfcURGi3z-W6sKW4uaYlS3?usp=sharing)
 
 ## Lecture 8 April 3, 2025 (Asynchronous Lecture) - Introduction to Machine Learning and Naive Bayes
 * [Click here for the Video Playlist]()
