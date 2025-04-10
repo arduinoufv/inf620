@@ -33,22 +33,22 @@
 * [Click here for video playlis](https://www.youtube.com/playlist?list=PLcvOyD_LMr6labH-qT5hfaaoCdt43a9bN)
 * [Click here for the slides](https://docs.google.com/presentation/d/1k7BQ4Mm7aU-8zrZ2-XWnmCbxXZobr_GEamSiYuxgyl4/edit?usp=sharing)
 
-## Lecture 7 April 1, 2025 (Asynchronous Lecture) - Introduction to Machine Learning and KNN
+## Lecture 7 April 1, 2025 - Introduction to Machine Learning and KNN
 * [Lectures Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620__KNN_SupervisED.pdf)
 * [Click here for the Colab Exercises](https://colab.research.google.com/drive/12qeE5hynaHqfcURGi3z-W6sKW4uaYlS3?usp=sharing)
 
-## Lecture 8 April 3, 2025 (Asynchronous Lecture) - Introduction to Machine Learning and Naive Bayes
-* [Click here for the Video Playlist]()
-* [Click here for the Colab Exercises]()
+## Lecture 8 April 3, 2025  - Introduction to Machine Learning and Naive Bayes
+* [Google Colab for this lecture](https://colab.research.google.com/drive/1aYjULK-l7rgIjxzFNAFcpV9Ixx8KD2qv?usp=sharing)
+* [Slides]()
 
 
-## Lecture 9 08/4/25  - Validation, Overfitting and metrics
-## Lecture 10 10/4/25 - Decision Trees
-## Lecture 11 15/4/25 - Ensemble and Random Forest
-## Lecture 12 22/4/25 - Boost
+## Lecture 9 08/4/25  - Decision Trees
+## Lecture 10 10/4/25 - Ensemble and Random Forest
+## Lecture 11 15/4/25 - Boost
+## Lecture 12 22/4/25 - 
 ## Lecture 13 24/4/25 - 
-## Lecture 14 29/4/25  
-## Lecture 15 6/5/25    
+## Lecture 14 29/4/25 - 
+## Lecture 15 6/5/25  -  
 ## Lecture 16 8/5/25  
 ## Lecture 17 13/5/25 
 ## Lecture 18 15/5/25 - 
