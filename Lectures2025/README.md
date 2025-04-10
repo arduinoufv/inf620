@@ -45,25 +45,25 @@
 ## Lecture 9 08/4/25  - Decision Trees
 ## Lecture 10 10/4/25 - Ensemble and Random Forest
 ## Lecture 11 15/4/25 - Boost
-## Lecture 12 22/4/25 - 
-## Lecture 13 24/4/25 - 
-## Lecture 14 29/4/25 - 
-## Lecture 15 6/5/25  -  
-## Lecture 16 8/5/25  
-## Lecture 17 13/5/25 
-## Lecture 18 15/5/25 - 
-## Lecture 19 20/5/25 - 
-## Lecture 20 27/5/25 - 
-## Lecture 21 29/5/25  
-## Lecture 22 3/6/25  - 
-## Lecture 23 5/6/25  - 
-## Lecture 24 11/6/25  - 
-## Lecture 25 12/6/25 - 
-## Lecture 26 17/6/25 - 
-## Lecture 27 24/6/25 - 
-## Lecture 28 26/6/25 -  
-## Lecture 29 1/6/25 -  
-## Lecture 30 3/7/25   
+## Lecture 12 22/4/25 - Kmeans, DBscan
+## Lecture 13 24/4/25 - Kmedoids, Kmedian, Hierchical
+## Lecture 14 29/4/25 - PCA, T-sne
+## Lecture 15 6/5/25  - SVM 
+## Lecture 16 8/5/25  - Logistic Regression, Linear Regression, Polynomial Regression ([see also](https://ufv-inf721-2024-2.lucasnferreira.com/calendario/))
+## Lecture 17 13/5/25 - Neural Networks
+## Lecture 18 15/5/25 - Neural Networks
+## Lecture 19 20/5/25 - Regularization and Gradient Descent
+## Lecture 20 27/5/25 - Convolution
+## Lecture 21 29/5/25 - Convolution
+## Lecture 22 3/6/25  - Segmentation and Yolo
+## Lecture 23 5/6/25  - RNN and LSTM
+## Lecture 24 11/6/25 - Encoder and Decoders, GAN
+## Lecture 25 12/6/25 - Word2vec, Transformers and Attention
+## Lecture 26 17/6/25 - Radial Neural networks and other approaches
+## Lecture 27 24/6/25 - Reinforcement Learning
+## Lecture 28 26/6/25 - GPU 
+## Lecture 29 1/6/25  - Invited Seminars 
+## Lecture 30 3/7/25  - Invited Seminars 
 
 
 
