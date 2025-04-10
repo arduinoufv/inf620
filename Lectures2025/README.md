@@ -1,6 +1,6 @@
 # Assignments
 
-* 10 multiple-choice question tests (40 points).
+* 10 multiple-choice question tests (40 points): [Quiz 1  21 April](https://forms.gle/zY94xWyweR6m745s7), 
 * 4 Labs in Google Colab (20 points).
 * Submit a survey article in your research area, reviewing 10 articles that use AI or ML.  
 
@@ -39,7 +39,7 @@
 
 ## Lecture 8 April 3, 2025  - Introduction to Machine Learning and Naive Bayes
 * [Google Colab for this lecture](https://colab.research.google.com/drive/1aYjULK-l7rgIjxzFNAFcpV9Ixx8KD2qv?usp=sharing)
-* [Slides]()
+* [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_lecture_8__Naive_Bayes_Supervised.pdf)
 
 
 ## Lecture 9 08/4/25  - Decision Trees
