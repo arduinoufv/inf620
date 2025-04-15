@@ -37,7 +37,7 @@
 * [Lectures Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620__KNN_SupervisED.pdf)
 * [Click here for the Colab Exercises](https://colab.research.google.com/drive/12qeE5hynaHqfcURGi3z-W6sKW4uaYlS3?usp=sharing)
 
-## Lecture 8 April 3, 2025  - Introduction to Machine Learning and Naive Bayes [Click here for video playlist](
+## Lecture 8 April 3, 2025  - Introduction to Machine Learning and Naive Bayes [Click here for video playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nyo_mNDtq8vi1EVWqoYAd1)
 * [Google Colab for this lecture](https://colab.research.google.com/drive/1aYjULK-l7rgIjxzFNAFcpV9Ixx8KD2qv?usp=sharing)
 * [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_lecture_8__Naive_Bayes_Supervised.pdf)
 
