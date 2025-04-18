@@ -32,41 +32,39 @@
 ## Lecture 6 March 27, 2025 (asynchronous Lecture) - Images
 * [Click here for video playlis](https://www.youtube.com/playlist?list=PLcvOyD_LMr6labH-qT5hfaaoCdt43a9bN)
 * [Click here for the slides](https://docs.google.com/presentation/d/1k7BQ4Mm7aU-8zrZ2-XWnmCbxXZobr_GEamSiYuxgyl4/edit?usp=sharing)
-
-## Lecture 7 April 1, 2025 - Introduction to Machine Learning and KNN  [Click here for video playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mMioLW0nemmdtYCiXkreh0)
+  
+## Lecture 7 April 8, 2025 - Introduction to Machine Learning and KNN  [Click here for video playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mMioLW0nemmdtYCiXkreh0)
 * [Lectures Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620__KNN_SupervisED.pdf)
 * [Click here for the Colab Exercises](https://colab.research.google.com/drive/12qeE5hynaHqfcURGi3z-W6sKW4uaYlS3?usp=sharing)
 
-## Lecture 8 April 3, 2025  - Introduction to Machine Learning and Naive Bayes [Click here for video playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nyo_mNDtq8vi1EVWqoYAd1)
+## Lecture 8 April 10, 2025  - Introduction to Machine Learning and Naive Bayes [Click here for video playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nyo_mNDtq8vi1EVWqoYAd1)
 * [Google Colab for this lecture](https://colab.research.google.com/drive/1aYjULK-l7rgIjxzFNAFcpV9Ixx8KD2qv?usp=sharing)
 * [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_lecture_8__Naive_Bayes_Supervised.pdf)
 
 
-## Lecture 9 08/4/25  - Decision Trees [click here for videoplaylist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nnhNYEt7JfBDsEeQ6yrPNX)
+## Lecture 9 15/4/25  - Decision Trees [click here for videoplaylist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nnhNYEt7JfBDsEeQ6yrPNX)
 *  [Google Colab for this lecture - underconstruction](https://colab.research.google.com/drive/1Cf6Q6KvN5Jb3MKAiREj1d8wbJzeNmTrt?usp=sharing)
 *  [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_Lecture_decision_tree.pdf)
   
-## Lecture 10 10/4/25 - Ensemble and Random Forest
-## Lecture 11 15/4/25 - Boost
-## Lecture 12 22/4/25 - Kmeans, DBscan
-## Lecture 13 24/4/25 - Kmedoids, Kmedian, Hierchical
-## Lecture 14 29/4/25 - PCA, T-sne
-## Lecture 15 6/5/25  - SVM 
-## Lecture 16 8/5/25  - Logistic Regression, Linear Regression, Polynomial Regression ([see also](https://ufv-inf721-2024-2.lucasnferreira.com/calendario/))
-## Lecture 17 13/5/25 - Neural Networks
-## Lecture 18 15/5/25 - Neural Networks
-## Lecture 19 20/5/25 - Regularization and Gradient Descent
-## Lecture 20 27/5/25 - Convolution
-## Lecture 21 29/5/25 - Convolution
-## Lecture 22 3/6/25  - Segmentation and Yolo
-## Lecture 23 5/6/25  - RNN and LSTM
-## Lecture 24 11/6/25 - Encoder and Decoders, GAN
-## Lecture 25 12/6/25 - Word2vec, Transformers and Attention
-## Lecture 26 17/6/25 - Radial Neural networks and other approaches
-## Lecture 27 24/6/25 - Reinforcement Learning
-## Lecture 28 26/6/25 - GPU 
-## Lecture 29 1/6/25  - Invited Seminars 
-## Lecture 30 3/7/25  - Invited Seminars 
+## Lecture 10 22/4/25 - Ensemble and Random Forest
+## Lecture 11 24/4/25 - Boost
+## Lecture 12 29/4/25 - Kmeans, DBscan
+## Lecture 13 6/5/25 - Kmedoids, Kmedian, Hierchical
+## Lecture 14 8/5/25 - PCA, T-sne
+## Lecture 15 13/5/25  - SVM 
+## Lecture 16 15/5/25  - Logistic Regression, Linear Regression, Polynomial Regression ([see also](https://ufv-inf721-2024-2.lucasnferreira.com/calendario/))
+## Lecture 17 20/5/25 - Neural Networks
+## Lecture 18 27/5/25 - Neural Networks
+## Lecture 19 29/5/25 - Regularization and Gradient Descent
+## Lecture 20 3/6/25 - Convolution
+## Lecture 21 5/6/25 - Convolution
+## Lecture 22 10/6/25  - Segmentation and Yolo
+## Lecture 23 12/6/25  - RNN and LSTM
+## Lecture 24 17/6/25 - Encoder and Decoders, GAN
+## Lecture 25 24/6/25 - Word2vec, Transformers and Attention
+## Lecture 26 26/6/25 - Radial Neural networks and other approaches
+## Lecture 27 1/7/25 - Reinforcement Learning
+## Lecture 28 3/7/25 - GPU 
 
 
 
