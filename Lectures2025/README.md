@@ -45,17 +45,16 @@
 ## Lecture 9 15/4/25  - Decision Trees [click here for videoplaylist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nnhNYEt7JfBDsEeQ6yrPNX)
 *  [Google Colab for this lecture - underconstruction](https://colab.research.google.com/drive/1Cf6Q6KvN5Jb3MKAiREj1d8wbJzeNmTrt?usp=sharing)
 *  [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_Lecture_decision_tree.pdf)
-  
 ## Lecture 10 22/4/25 - Ensemble and Random Forest
 ## Lecture 11 24/4/25 - Boost
 ## Lecture 12 29/4/25 - Kmeans, DBscan
 ## Lecture 13 6/5/25 - Kmedoids, Kmedian, Hierchical
-## Lecture 14 8/5/25 - PCA, T-sne
-## Lecture 15 13/5/25  - SVM 
-## Lecture 16 15/5/25  - Logistic Regression, Linear Regression, Polynomial Regression ([see also](https://ufv-inf721-2024-2.lucasnferreira.com/calendario/))
-## Lecture 17 20/5/25 - Neural Networks
-## Lecture 18 27/5/25 - Neural Networks
-## Lecture 19 29/5/25 - Regularization and Gradient Descent
+## Lecture 14 8/5/25 - Logistic Regression, Linear Regression, Gradient Descent, Polynomial Regression ([see also](https://ufv-inf721-2024-2.lucasnferreira.com/calendario/))
+## Lecture 15 13/5/25  - Neural Networks 
+## Lecture 16 15/5/25  - Neural Networks
+# Lecture 17 20/5/25 - SVM 
+## Lecture 18 27/5/25 - PCA, T-sne 
+## Lecture 19 29/5/25 - Regularization 
 ## Lecture 20 3/6/25 - Convolution
 ## Lecture 21 5/6/25 - Convolution
 ## Lecture 22 10/6/25  - Segmentation and Yolo
