@@ -49,6 +49,8 @@
 * [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_Lecture__Random_Forest.pdf)
 * [Colab](https://colab.research.google.com/drive/1VbgN5SGmxwCC_z6hrfYRGOSq_z4Ung2o?usp=sharing)
 ## Lecture 11 24/4/25 - Boost
+* [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_Lecture__Boost.pdf)
+* [Colab - same Random Forest](https://colab.research.google.com/drive/1VbgN5SGmxwCC_z6hrfYRGOSq_z4Ung2o?usp=sharing)
 ## Lecture 12 29/4/25 - Kmeans, DBscan
 ## Lecture 13 6/5/25 - Kmedoids, Kmedian, Hierchical
 ## Lecture 14 8/5/25 - Logistic Regression, Linear Regression, Gradient Descent, Polynomial Regression ([see also](https://ufv-inf721-2024-2.lucasnferreira.com/calendario/))
