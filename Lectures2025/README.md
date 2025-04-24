@@ -45,7 +45,9 @@
 ## Lecture 9 15/4/25  - Decision Trees [click here for videoplaylist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nnhNYEt7JfBDsEeQ6yrPNX)
 *  [Google Colab for this lecture - underconstruction](https://colab.research.google.com/drive/1Cf6Q6KvN5Jb3MKAiREj1d8wbJzeNmTrt?usp=sharing)
 *  [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_Lecture_decision_tree.pdf)
-## Lecture 10 22/4/25 - Ensemble and Random Forest
+## Lecture 10 22/4/25 - Ensemble and Random Forest [video playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nF3c5NF1xDoecWbr85obXf)
+* [Slides]()
+* [Colab](https://colab.research.google.com/drive/1VbgN5SGmxwCC_z6hrfYRGOSq_z4Ung2o?usp=sharing)
 ## Lecture 11 24/4/25 - Boost
 ## Lecture 12 29/4/25 - Kmeans, DBscan
 ## Lecture 13 6/5/25 - Kmedoids, Kmedian, Hierchical
