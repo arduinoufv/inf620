@@ -48,13 +48,14 @@
 ## Lecture 10 22/4/25 - Ensemble and Random Forest [video playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nF3c5NF1xDoecWbr85obXf)
 * [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_Lecture__Random_Forest.pdf)
 * [Colab](https://colab.research.google.com/drive/1VbgN5SGmxwCC_z6hrfYRGOSq_z4Ung2o?usp=sharing)
-## Lecture 11 24/4/25 - Boost
+## Lecture 11 24/4/25 - Boost [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mS6qMOuQ99nLAxM26t75m_)
 * [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_Lecture__Boost.pdf)
 * [Colab - same Random Forest](https://colab.research.google.com/drive/1VbgN5SGmxwCC_z6hrfYRGOSq_z4Ung2o?usp=sharing)
-## Lecture 12 29/4/25 - Kmeans, DBscan, Hierarchical
+## Lecture 12 29/4/25 - Kmeans [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mMn-BFnf8aIPNpZxNiUJF6)
 * [slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/Inf620_2025_Lecture_Unsupervised_Learning_and_Cluster__Kmeans__DBscan-1.pdf)
 * [colab](https://colab.research.google.com/drive/1uACHSYOilMjXIBNN9bdMaAwvl2rtgPww?usp=sharing)
-## Lecture 13 6/5/25 - Kmedoids, Kmedian, Quantization
+  
+## Lecture 13 6/5/25 - DBscan, Hierarchical, Kmedoids, Kmedian, Quantization
 ## Lecture 14 8/5/25 - Logistic Regression, Linear Regression, Gradient Descent, Polynomial Regression ([see also](https://ufv-inf721-2024-2.lucasnferreira.com/calendario/))
 ## Lecture 15 13/5/25  - Neural Networks 
 ## Lecture 16 15/5/25  - Neural Networks
