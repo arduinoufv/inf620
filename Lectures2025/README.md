@@ -1,6 +1,6 @@
 # Assignments
 
-* 10 multiple-choice question tests (40 points): [Quiz 1  21 April](https://forms.gle/zY94xWyweR6m745s7), [Quiz 2 28 April](https://forms.gle/tE2Xm6vgaG2jTKBk8)
+* 10 multiple-choice question tests (40 points): [Quiz 1  21 April](https://forms.gle/zY94xWyweR6m745s7), [Quiz 2 28 April](https://forms.gle/tE2Xm6vgaG2jTKBk8), [Quiz 3 15 May](https://docs.google.com/forms/d/e/1FAIpQLSeEhMjN8yj8NV9YtL3iltdra0szZ_MMW7cn43BqlKGZ67tYFw/viewform?usp=header)
 * 4 Labs in Google Colab (20 points).
 * Submit a survey article in your research area, reviewing 10 articles that use AI or ML.  
 
