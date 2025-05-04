@@ -56,6 +56,8 @@
 * [colab](https://colab.research.google.com/drive/1uACHSYOilMjXIBNN9bdMaAwvl2rtgPww?usp=sharing)
   
 ## Lecture 13 6/5/25 - DBscan, Hierarchical, Kmedoids, Kmedian, Quantization
+* [slides Kmedoids and Kmedian](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/Inf620_2025_Lecture_Unsupervised_kmedoids__kmedian-1.pdf)
+* [Colab for Kmedoids and Kmedian](https://colab.research.google.com/drive/1GxBUrQ685Dfs6QwMWZhaUK4HBksZ30uM?usp=sharing)
 ## Lecture 14 8/5/25 - Logistic Regression, Linear Regression, Gradient Descent, Polynomial Regression ([see also](https://ufv-inf721-2024-2.lucasnferreira.com/calendario/))
 ## Lecture 15 13/5/25  - Neural Networks 
 ## Lecture 16 15/5/25  - Neural Networks
