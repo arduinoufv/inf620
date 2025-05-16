@@ -62,7 +62,7 @@
 * [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k4ISTm4dUqL5rWzWzzEwWJ)
 * [slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/Inf620_2025_Lecture_Linear__Polinomial__and_Logistic_Regression-3.pdf)
 ## Lecture 15 13/5/25  - Neural Networks 
-## Lecture 16 15/5/25  - Neural Networks
+## Lecture 16 15/5/25  - Neural Networks [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mvpPzmKyZKByQs6Vyuprhm)
 # Lecture 17 20/5/25 - SVM 
 ## Lecture 18 27/5/25 - PCA, T-sne 
 ## Lecture 19 29/5/25 - Regularization 
