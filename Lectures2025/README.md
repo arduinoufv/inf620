@@ -63,16 +63,20 @@
 * [slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/Inf620_2025_Lecture_Linear__Polinomial__and_Logistic_Regression-3.pdf)
 ## Lecture 15 13/5/25  - Neural Networks 
 ## Lecture 16 15/5/25  - Neural Networks [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mvpPzmKyZKByQs6Vyuprhm)
-# Lecture 17 20/5/25 - SVM 
-## Lecture 18 27/5/25 - PCA, T-sne 
-## Lecture 19 29/5/25 - Regularization 
-## Lecture 20 3/6/25 - Convolution
-## Lecture 21 5/6/25 - Convolution
-## Lecture 22 10/6/25  - Segmentation and Yolo
-## Lecture 23 12/6/25  - RNN and LSTM
-## Lecture 24 17/6/25 - Encoder and Decoders, GAN
+# Lecture 17 20/5/25 - Convolution  
+* [slide](https://docs.google.com/presentation/d/1ImBh4awNQ6s6yx9ehcBwg1N1FxBFNHT08olVcH4H_Ag/edit?usp=sharing)
+* [Colab under construction](https://colab.research.google.com/drive/1V693PzbQ6976_ls11dAWp_nvG6zyyH5c?usp=sharing)
+* [Colab under construction Digits](https://colab.research.google.com/drive/1vsVAxx-99rXOU9W3NptpFD6VBUcrSjwY?usp=sharing)
+* [Deep Learning Course Prof. Lucas Nascimento](https://ufv-inf721-2024-2.lucasnferreira.com/calendario/)
+## Lecture 18 27/5/25 - Convolution
+## Lecture 19 29/5/25 - Segmentation and Yolo
+## Lecture 20 3/6/25 - Encoder and Decoders, GAN
+## Lecture 21 5/6/25 - RNN and LSTM 
+## Lecture 22 10/6/25  - PCA, T-sne 
+## Lecture 23 12/6/25  - SVM
+## Lecture 24 17/6/25 - Radial Neural networks and other approaches
 ## Lecture 25 24/6/25 - Word2vec, Transformers and Attention
-## Lecture 26 26/6/25 - Radial Neural networks and other approaches
+## Lecture 26 26/6/25 - Reinforcement Learning
 ## Lecture 27 1/7/25 - Reinforcement Learning
 ## Lecture 28 3/7/25 - GPU 
 
