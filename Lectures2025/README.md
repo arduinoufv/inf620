@@ -70,6 +70,9 @@
 * [Deep Learning Course Prof. Lucas Nascimento](https://ufv-inf721-2024-2.lucasnferreira.com/calendario/)
 ## Lecture 18 27/5/25 - Convolution
 ## Lecture 19 29/5/25 - Segmentation and Yolo
+* [playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ne5WiKDN35YzM8Xo2IfDwW)
+* [slide](https://docs.google.com/presentation/d/1E_EZ92JvScPdxwmwUo9dgdaSrbiNB1-rbOCymjUNqyM/edit?usp=drive_link)
+* 
 ## Lecture 20 3/6/25 - Encoder and Decoders, GAN
 ## Lecture 21 5/6/25 - RNN and LSTM 
 ## Lecture 22 10/6/25  - PCA, T-sne 
