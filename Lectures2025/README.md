@@ -74,6 +74,9 @@
 * [slide](https://docs.google.com/presentation/d/1E_EZ92JvScPdxwmwUo9dgdaSrbiNB1-rbOCymjUNqyM/edit?usp=drive_link)
 * 
 ## Lecture 20 3/6/25 - Encoder and Decoders, GAN
+* [Lucas Nascimento Encoders](https://ufv-inf721-2024-2.lucasnferreira.com/assets/slides/L20-vae.pdf) + [colab](https://colab.research.google.com/drive/1jTu1sVXY0ZJOR-KeYAIxX4GHlHAeSmJy?usp=sharing)
+* [Lucas Nascimento GAN](https://ufv-inf721-2024-2.lucasnferreira.com/assets/slides/L21-gans.pdf) + [código](https://docs.pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
+* [slides](https://docs.google.com/presentation/d/1z8mJGxRoqZxzDlGmA0OM9e0y3K_UKPUZBdvyiyPfWBA/edit?usp=sharing)
 ## Lecture 21 5/6/25 - RNN and LSTM 
 ## Lecture 22 10/6/25  - PCA, T-sne 
 ## Lecture 23 12/6/25  - SVM
