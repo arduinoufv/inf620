@@ -1,7 +1,7 @@
 # Assignments
 
 * 10 multiple-choice question tests (40 points): [Quiz 1  21 April](https://forms.gle/zY94xWyweR6m745s7), [Quiz 2 28 April](https://forms.gle/tE2Xm6vgaG2jTKBk8), [Quiz 3 15 May](https://docs.google.com/forms/d/e/1FAIpQLSeEhMjN8yj8NV9YtL3iltdra0szZ_MMW7cn43BqlKGZ67tYFw/viewform?usp=header), [Quiz4 15 May](https://forms.gle/xLNsW45QGSgh2yoF7)
-* For 4 July - [quiz 5 linear and logistic regression](https://forms.gle/iAbgC9JV8whb9RrDA) - [quiz 6 - Neural Network - basic ](https://forms.gle/zXUf6bJvzuDjqZoEA) - [quiz 7 Neural and parameters](https://forms.gle/7FrY3CXxnWB3QWj26) 
+* For 4 July - [quiz 5 linear and logistic regression](https://forms.gle/iAbgC9JV8whb9RrDA) - [quiz 6 - Neural Network - basic ](https://forms.gle/zXUf6bJvzuDjqZoEA) - [quiz 7 Neural and parameters](https://forms.gle/7FrY3CXxnWB3QWj26) - [quiz 8 parameters for image](https://forms.gle/Ct2EGDZ1dDK7s2vX6) - [9 quiz Convolution , RNN, LSTM, GAN, Encoders](https://forms.gle/f5vmTgrEv9tyJUwb6) - [quiz 10 - SVM, PCA, tSNE]()
 * 4 Labs in Google Colab (20 points). [lab 1 - 15 May ](https://colab.research.google.com/drive/120a5NQsfi7_NTfihwI3KRyboHgI9eq2u?usp=sharing) , [lab 2 - 27 May](https://colab.research.google.com/drive/1OQibvMtHiEfUlnhYPFIWR2nvRsep6TwA?usp=sharing) - Use this [form to send the Colab link](https://forms.gle/xSKcn3Nrzfd9qiyXA)
 * Submit a survey article in your research area, reviewing 10 articles that use AI or ML.  
 
