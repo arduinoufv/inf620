@@ -80,13 +80,19 @@
 * [Lucas Nascimento Encoders](https://ufv-inf721-2024-2.lucasnferreira.com/assets/slides/L20-vae.pdf) + [colab](https://colab.research.google.com/drive/1jTu1sVXY0ZJOR-KeYAIxX4GHlHAeSmJy?usp=sharing)
 * [Lucas Nascimento GAN](https://ufv-inf721-2024-2.lucasnferreira.com/assets/slides/L21-gans.pdf) + [código](https://docs.pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
 ## Lecture 21 5/6/25 - RNN and LSTM 
+* [Slides](https://docs.google.com/presentation/d/1kih30g1o3hEeBn-TjV_T8iDxHgnqDjcywgS7ZYLFZxs/edit?usp=drive_link)
 ## Lecture 22 10/6/25  - PCA, T-sne 
+* [Slides](https://docs.google.com/presentation/d/1LtUNRaVyoDsw8pzHBEC-6rdkDm4NMRLR_z5DvUd7Er4/edit?usp=drive_link)
 ## Lecture 23 12/6/25  - SVM
+* [Slides](https://docs.google.com/presentation/d/1H8F3Wn5fNB29cLqx3LycFNNErYpTilI0mVtCmkGXskk/edit?usp=drive_link)
 ## Lecture 24 17/6/25 - Radial Neural networks and other approaches
 ## Lecture 25 24/6/25 - Word2vec, Transformers and Attention
-## Lecture 26 26/6/25 - Reinforcement Learning
-## Lecture 27 1/7/25 - Reinforcement Learning
-## Lecture 28 3/7/25 - GPU 
+* [Slides](https://docs.google.com/presentation/d/1TCBjYVdFU16PJuw97-zjG3NnkOwW3RSybh8DtA2rQu8/edit?usp=drive_link)
+## Lecture 26 26/6/25 -
+* [Colab](https://colab.research.google.com/drive/1jmAYPc-L7lVq41jOJCjYmvZB-1k2sIUd?usp=sharing)
+* [GPU Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lxQK-EmYGZ8LfYndqgv0C5) 
+## Lecture 27 1/7/25 - 
+## Lecture 28 3/7/25 -  
 
 
 
