@@ -28,23 +28,23 @@
 * [Basic Colab Commands](https://colab.research.google.com/drive/13n7krqZdgiSd2a_2LQVAZC1wu4j9Hi_E?usp=sharing)
 * Q1
 
-## Lecture 3 March 18, 2025 (Asynchronous Lecture) - Introduction to Python Language
-* [Click here for the Video Playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nuuHEVSuLcK_IKrCDvmQ_c)
+## Lecture 3 March 17, 2026 (Asynchronous Lecture) - Introduction to Python Language for NON computer Science Student
 * [Click here for the Colab Exercises](https://colab.research.google.com/drive/1kjNadd4g3y7ekMycTsZdA2tu9RpheEL5?usp=sharing)
 * [Click here for take alway](https://colab.research.google.com/drive/1MKwIw093UG_S0r9wULwXfH_Xxb-mNbcL?usp=sharing)
 
-## Lecture 4 March 20, 2025 (Asynchronous) - Numpy and Matplotlib
-* [Click here for the Video Playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ml8OYhMJHYbhwZtfs_omd_)
+## Lecture 4 March 19, 2026 (Asynchronous) - Numpy and Matplotlib for NON computer Science Student
 * [Click here for the Colab Exercises](https://colab.research.google.com/drive/12h_GKcDJ0Qk9tN_MMXQueC4F4lk6a8SA?usp=sharing)
 
-## Lecture 5 March 25, 2025 (Asynchronous Lecture) - Pandas and Forms
-* [Video Playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k9rR2ksgYqTiD6netyeWex)
+## Lecture 5 March 24, 2026 (Asynchronous Lecture) - Pandas and Forms for NON computer Science Student
 * [slides](https://docs.google.com/presentation/d/1q_cokY7qyCT-h7TaxWQmRQfWmQH3f0hDf-E_d9sOQro/edit?usp=sharing)
 * [Click here for the Colab Examples, Demo, and exercises](https://colab.research.google.com/drive/1C1MSe7n_VbFHG2-eSelpOfCJqM-etOpz?usp=sharing)
 
-## Lecture 6 March 27, 2025 (asynchronous Lecture) - Images
-* [Click here for video playlis](https://www.youtube.com/playlist?list=PLcvOyD_LMr6labH-qT5hfaaoCdt43a9bN)
+## Lecture 6 March 26, 2026 (asynchronous Lecture) - Images
 * [Click here for the slides](https://docs.google.com/presentation/d/1k7BQ4Mm7aU-8zrZ2-XWnmCbxXZobr_GEamSiYuxgyl4/edit?usp=sharing)
+
+-----------------------
+To be updated soon....
+-----------------------
   
 ## Lecture 7 April 8, 2025 - Introduction to Machine Learning and KNN  [Click here for video playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mMioLW0nemmdtYCiXkreh0)
 * [Lectures Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620__KNN_SupervisED.pdf)
