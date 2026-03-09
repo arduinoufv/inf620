@@ -43,12 +43,13 @@
 * [Click here for the slides](https://docs.google.com/presentation/d/1k7BQ4Mm7aU-8zrZ2-XWnmCbxXZobr_GEamSiYuxgyl4/edit?usp=sharing)
 
 -----------------------
-To be updated soon....
------------------------
   
 ## Lecture 7 - March 31, 2026 - Introduction to Machine Learning and KNN  [Click here for video playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mMioLW0nemmdtYCiXkreh0)
 * [Lectures Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620__KNN_SupervisED.pdf)
 * [Click here for the Colab Exercises](https://colab.research.google.com/drive/12qeE5hynaHqfcURGi3z-W6sKW4uaYlS3?usp=sharing)
+
+To be updated soon....
+-----------------------
 
 ## Lecture 8 April 7, 2026  - Quiz Q2 -  Introduction to Machine Learning and Naive Bayes [Click here for video playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nyo_mNDtq8vi1EVWqoYAd1)
 * [Google Colab for this lecture](https://colab.research.google.com/drive/1aYjULK-l7rgIjxzFNAFcpV9Ixx8KD2qv?usp=sharing)
