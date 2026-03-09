@@ -28,23 +28,23 @@
 * [Basic Colab Commands](https://colab.research.google.com/drive/13n7krqZdgiSd2a_2LQVAZC1wu4j9Hi_E?usp=sharing)
 * Q1
 
-## Lecture 3 March 17, 2026 (Asynchronous Lecture) - Introduction to Python Language for NON computer Science Student
+## Lecture 3 March 17, 2026  - Introduction to Python Language for NON computer Science Student
 * [Click here for the Colab Exercises](https://colab.research.google.com/drive/1kjNadd4g3y7ekMycTsZdA2tu9RpheEL5?usp=sharing)
 * [Click here for take alway](https://colab.research.google.com/drive/1MKwIw093UG_S0r9wULwXfH_Xxb-mNbcL?usp=sharing)
 
-## Lecture 4 March 19, 2026 (Asynchronous) - Numpy and Matplotlib for NON computer Science Student
+## Lecture 4 March 19, 2026 - Numpy and Matplotlib for NON computer Science Student
 * [Click here for the Colab Exercises](https://colab.research.google.com/drive/12h_GKcDJ0Qk9tN_MMXQueC4F4lk6a8SA?usp=sharing)
 
-## Lecture 5 March 24, 2026 (Asynchronous Lecture) - Pandas and Forms for NON computer Science Student
+## Lecture 5 March 24, 2026 - Pandas and Forms for NON computer Science Student
 * [slides](https://docs.google.com/presentation/d/1q_cokY7qyCT-h7TaxWQmRQfWmQH3f0hDf-E_d9sOQro/edit?usp=sharing)
 * [Click here for the Colab Examples, Demo, and exercises](https://colab.research.google.com/drive/1C1MSe7n_VbFHG2-eSelpOfCJqM-etOpz?usp=sharing)
 
-## Lecture 6 March 26, 2026 (asynchronous Lecture) - Images
+## Lecture 6 March 26, 2026 - Images
 * [Click here for the slides](https://docs.google.com/presentation/d/1k7BQ4Mm7aU-8zrZ2-XWnmCbxXZobr_GEamSiYuxgyl4/edit?usp=sharing)
 
 -----------------------
   
-## Lecture 7 - March 31, 2026 - Introduction to Machine Learning and KNN  [Click here for video playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mMioLW0nemmdtYCiXkreh0)
+## Lecture 7 - March 31, 2026 - Introduction to Machine Learning and KNN 
 * [Lectures Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures_2026/Inf620__KNN_Supervised_2026.pdf)
 * [Click here for the Colab examples](https://colab.research.google.com/drive/12qeE5hynaHqfcURGi3z-W6sKW4uaYlS3?usp=sharing)
 * [Click here for Q&A to prepare for the Q2](https://colab.research.google.com/drive/1_93SELM3uePBP2t3Uvk2xhJ7CjwSFpX6?usp=sharing)
@@ -52,7 +52,7 @@
 To be updated soon....
 -----------------------
 
-## Lecture 8 April 7, 2026  - Quiz Q2 -  Introduction to Machine Learning and Naive Bayes [Click here for video playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nyo_mNDtq8vi1EVWqoYAd1)
+## Lecture 8 April 7, 2026  - Quiz Q2 -  Introduction to Machine Learning and Naive Bayes
 * [Google Colab for this lecture](https://colab.research.google.com/drive/1aYjULK-l7rgIjxzFNAFcpV9Ixx8KD2qv?usp=sharing)
 * [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_lecture_8__Naive_Bayes_Supervised.pdf)
 
