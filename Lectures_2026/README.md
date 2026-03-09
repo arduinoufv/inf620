@@ -45,7 +45,7 @@
 -----------------------
   
 ## Lecture 7 - March 31, 2026 - Introduction to Machine Learning and KNN  [Click here for video playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mMioLW0nemmdtYCiXkreh0)
-* [Lectures Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620__KNN_SupervisED.pdf)
+* [Lectures Slides](Lectures_2026/Inf620__KNN_Supervised_2026.pdf)
 * [Click here for the Colab examples](https://colab.research.google.com/drive/12qeE5hynaHqfcURGi3z-W6sKW4uaYlS3?usp=sharing)
 * [Click here for Q&A to prepare for the Q2](https://colab.research.google.com/drive/1_93SELM3uePBP2t3Uvk2xhJ7CjwSFpX6?usp=sharing)
   
