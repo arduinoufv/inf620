@@ -30,6 +30,7 @@
 ## Lecture 3 March 17, 2026  - Introduction to Python Language for NON computer Science Student  - Quiz Q1
 * [Click here for the Colab Exercises](https://colab.research.google.com/drive/1kjNadd4g3y7ekMycTsZdA2tu9RpheEL5?usp=sharing)
 * [Click here for take alway](https://colab.research.google.com/drive/1MKwIw093UG_S0r9wULwXfH_Xxb-mNbcL?usp=sharing)
+* [Non Computer Science Students (in Portuguese), Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lX28IsjpFzSVZ79lIPoHvn)
 
 ## Lecture 4 March 19, 2026 - Numpy and Matplotlib for NON computer Science Student
 * [Click here for the Colab Exercises](https://colab.research.google.com/drive/12h_GKcDJ0Qk9tN_MMXQueC4F4lk6a8SA?usp=sharing)
