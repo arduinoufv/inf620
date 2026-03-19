@@ -34,6 +34,7 @@
 
 ## Lecture 4 March 19, 2026 - Numpy and Matplotlib for NON computer Science Student
 * [Click here for the Colab Exercises](https://colab.research.google.com/drive/12h_GKcDJ0Qk9tN_MMXQueC4F4lk6a8SA?usp=sharing)
+* [Colab Examples in Classe + Gemini (portuguese)](https://colab.research.google.com/drive/1n7Em1C4vyQpbqEdE29tgElIMX-PHwxNh?usp=sharing)
 
 ## Lecture 5 March 24, 2026 - Pandas and Forms for NON computer Science Student
 * [slides](https://docs.google.com/presentation/d/1q_cokY7qyCT-h7TaxWQmRQfWmQH3f0hDf-E_d9sOQro/edit?usp=sharing)
