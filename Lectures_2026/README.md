@@ -39,7 +39,8 @@
 ## Lecture 5 March 24, 2026 - Pandas and Forms for NON computer Science Student
 * [slides](https://docs.google.com/presentation/d/1q_cokY7qyCT-h7TaxWQmRQfWmQH3f0hDf-E_d9sOQro/edit?usp=sharing)
 * [Click here for the Colab Examples, Demo, and exercises](https://colab.research.google.com/drive/1C1MSe7n_VbFHG2-eSelpOfCJqM-etOpz?usp=sharing)
-
+* [aula em video (in portuguese)](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kDCyPOSsRgemoEsv5YOqVG)
+* 
 ## Lecture 6 March 26, 2026 - Images
 * [Click here for the slides](https://docs.google.com/presentation/d/1k7BQ4Mm7aU-8zrZ2-XWnmCbxXZobr_GEamSiYuxgyl4/edit?usp=sharing)
 
