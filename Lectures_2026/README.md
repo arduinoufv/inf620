@@ -62,12 +62,13 @@
 ## Lecture 9 April 9, 2026  - Quiz Q3 - Decision Trees 
 *  [Google Colab for this lecture - underconstruction](https://colab.research.google.com/drive/1Cf6Q6KvN5Jb3MKAiREj1d8wbJzeNmTrt?usp=sharing)
 *  [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_Lecture_decision_tree.pdf)
+*  [Click here for Q&A to prepare to Q4](https://colab.research.google.com/drive/1Irx1ksNCW4y1zpsKAYdyU9UO8joBinwA?usp=sharing)
+*  [NotebookLM using the slides](https://notebooklm.google.com/notebook/d1028077-3607-4582-99ee-c9791d00a003)
+
 
 To be updated soon....
 -----------------------
 
-
-  
 ## Lecture 10 April 14, 2026  - Quiz Q4 - Ensemble and Random Forest [video playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nF3c5NF1xDoecWbr85obXf)
 * [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_Lecture__Random_Forest.pdf)
 * [Colab](https://colab.research.google.com/drive/1VbgN5SGmxwCC_z6hrfYRGOSq_z4Ung2o?usp=sharing)
