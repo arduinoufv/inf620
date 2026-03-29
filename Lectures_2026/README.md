@@ -50,6 +50,7 @@
 * [Lectures Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures_2026/Inf620__KNN_Supervised_2026.pdf)
 * [Click here for the Colab examples](https://colab.research.google.com/drive/12qeE5hynaHqfcURGi3z-W6sKW4uaYlS3?usp=sharing)
 * [Click here for Q&A to prepare for the Q2](https://colab.research.google.com/drive/1_93SELM3uePBP2t3Uvk2xhJ7CjwSFpX6?usp=sharing)
+* [short video knn](https://youtu.be/xvh6Muf0sR8) and [short video for Tie and Normalization](https://youtu.be/bLxw6ygn1_o)
 
 ## Lecture 8 April 7, 2026  - Quiz Q2 KNN -  Introduction to Machine Learning and Naive Bayes
 * [Google Colab for this lecture](https://colab.research.google.com/drive/1aYjULK-l7rgIjxzFNAFcpV9Ixx8KD2qv?usp=sharing)
