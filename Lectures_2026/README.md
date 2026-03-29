@@ -50,18 +50,24 @@
 * [Lectures Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures_2026/Inf620__KNN_Supervised_2026.pdf)
 * [Click here for the Colab examples](https://colab.research.google.com/drive/12qeE5hynaHqfcURGi3z-W6sKW4uaYlS3?usp=sharing)
 * [Click here for Q&A to prepare for the Q2](https://colab.research.google.com/drive/1_93SELM3uePBP2t3Uvk2xhJ7CjwSFpX6?usp=sharing)
+
+## Lecture 8 April 7, 2026  - Quiz Q2 KNN -  Introduction to Machine Learning and Naive Bayes
+* [Google Colab for this lecture](https://colab.research.google.com/drive/1aYjULK-l7rgIjxzFNAFcpV9Ixx8KD2qv?usp=sharing)
+* [Slides]([Lectures_2026/inf620_2026__lecture_8__Naive_Bayes_Supervised.pdf](https://github.com/arduinoufv/inf620/blob/main/Lectures_2026/inf620_2026__lecture_8__Naive_Bayes_Supervised.pdf))
+* [Click here for Q& to prepare for the Q3](https://colab.research.google.com/drive/1iYLC_Wx_pVWYYEEl7w5SOm4FFqA1Gizp?usp=sharing)
   
+  
+
+
+## Lecture 9 April 9, 2026  - Quiz Q3 - Decision Trees 
+*  [Google Colab for this lecture - underconstruction](https://colab.research.google.com/drive/1Cf6Q6KvN5Jb3MKAiREj1d8wbJzeNmTrt?usp=sharing)
+*  [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_Lecture_decision_tree.pdf)
+
 To be updated soon....
 -----------------------
 
-## Lecture 8 April 7, 2026  - Quiz Q2 -  Introduction to Machine Learning and Naive Bayes
-* [Google Colab for this lecture](https://colab.research.google.com/drive/1aYjULK-l7rgIjxzFNAFcpV9Ixx8KD2qv?usp=sharing)
-* [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_lecture_8__Naive_Bayes_Supervised.pdf)
 
-
-## Lecture 9 April 9, 2026  - Quiz Q3 - Decision Trees [click here for videoplaylist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nnhNYEt7JfBDsEeQ6yrPNX)
-*  [Google Colab for this lecture - underconstruction](https://colab.research.google.com/drive/1Cf6Q6KvN5Jb3MKAiREj1d8wbJzeNmTrt?usp=sharing)
-*  [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_Lecture_decision_tree.pdf)
+  
 ## Lecture 10 April 14, 2026  - Quiz Q4 - Ensemble and Random Forest [video playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nF3c5NF1xDoecWbr85obXf)
 * [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_Lecture__Random_Forest.pdf)
 * [Colab](https://colab.research.google.com/drive/1VbgN5SGmxwCC_z6hrfYRGOSq_z4Ung2o?usp=sharing)
