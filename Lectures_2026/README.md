@@ -69,12 +69,15 @@
 ## Lecture 10 April 14, 2026  - Quiz Q4 - Ensemble and Random Forest 
 * [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_Lecture__Random_Forest.pdf)
 * [Colab](https://colab.research.google.com/drive/1VbgN5SGmxwCC_z6hrfYRGOSq_z4Ung2o?usp=sharing)
-
+* [Click here for Q&A to prepare to Q5](https://colab.research.google.com/drive/17BonND4TRmeScBwF0CVMvRLTWs9gCd_J?usp=sharing)
+* [NotebookLM](https://notebooklm.google.com/notebook/bdcd63ea-6aea-4ffb-a121-32cf93858190)
 
 
 ## Lecture 11 April 16, 2026 - Quiz Q5 - Boost [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mS6qMOuQ99nLAxM26t75m_)
 * [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_Lecture__Boost.pdf)
 * [Colab - same Random Forest](https://colab.research.google.com/drive/1VbgN5SGmxwCC_z6hrfYRGOSq_z4Ung2o?usp=sharing)
+* [Click here for Q&A to prepare to Q6](https://colab.research.google.com/drive/1gM9QTp8i_K4S5qY-uboVke-7_O1yzcC8?usp=sharing)
+* [NotebookLM](https://notebooklm.google.com/notebook/bff2941e-0263-4ed6-9a2e-a852e64f73e8)
 
 
 To be updated soon....
