@@ -66,16 +66,22 @@
 *  [Click here for Q&A to prepare to Q4](https://colab.research.google.com/drive/1Irx1ksNCW4y1zpsKAYdyU9UO8joBinwA?usp=sharing)
 *  [NotebookLM using the slides](https://notebooklm.google.com/notebook/d1028077-3607-4582-99ee-c9791d00a003)
 
+## Lecture 10 April 14, 2026  - Quiz Q4 - Ensemble and Random Forest 
+* [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_Lecture__Random_Forest.pdf)
+* [Colab](https://colab.research.google.com/drive/1VbgN5SGmxwCC_z6hrfYRGOSq_z4Ung2o?usp=sharing)
+
+
+
+## Lecture 11 April 16, 2026 - Quiz Q5 - Boost [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mS6qMOuQ99nLAxM26t75m_)
+* [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_Lecture__Boost.pdf)
+* [Colab - same Random Forest](https://colab.research.google.com/drive/1VbgN5SGmxwCC_z6hrfYRGOSq_z4Ung2o?usp=sharing)
+
 
 To be updated soon....
 -----------------------
 
-## Lecture 10 April 14, 2026  - Quiz Q4 - Ensemble and Random Forest [video playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nF3c5NF1xDoecWbr85obXf)
-* [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_Lecture__Random_Forest.pdf)
-* [Colab](https://colab.research.google.com/drive/1VbgN5SGmxwCC_z6hrfYRGOSq_z4Ung2o?usp=sharing)
-## Lecture 11 April 16, 2026 - Quiz Q5 - Boost [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mS6qMOuQ99nLAxM26t75m_)
-* [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/inf620_Lecture__Boost.pdf)
-* [Colab - same Random Forest](https://colab.research.google.com/drive/1VbgN5SGmxwCC_z6hrfYRGOSq_z4Ung2o?usp=sharing)
+
+
 ## Lecture 12 April 23, 2026 - Quiz Q6 - Kmeans [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mMn-BFnf8aIPNpZxNiUJF6)
 * [slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/Inf620_2025_Lecture_Unsupervised_Learning_and_Cluster__Kmeans__DBscan-1.pdf)
 * [colab](https://colab.research.google.com/drive/1uACHSYOilMjXIBNN9bdMaAwvl2rtgPww?usp=sharing)
