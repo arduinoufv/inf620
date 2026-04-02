@@ -54,10 +54,10 @@
 
 ## Lecture 8 April 7, 2026  - Quiz Q2 KNN -  Introduction to Machine Learning and Naive Bayes
 * [Google Colab for this lecture](https://colab.research.google.com/drive/1aYjULK-l7rgIjxzFNAFcpV9Ixx8KD2qv?usp=sharing)
-* [Slides]([Lectures_2026/inf620_2026__lecture_8__Naive_Bayes_Supervised.pdf](https://github.com/arduinoufv/inf620/blob/main/Lectures_2026/inf620_2026__lecture_8__Naive_Bayes_Supervised.pdf))
+* [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures_2026/inf620_2026__lecture_8__Naive_Bayes_Supervised.pdf)
 * [Click here for Q& to prepare for the Q3](https://colab.research.google.com/drive/1iYLC_Wx_pVWYYEEl7w5SOm4FFqA1Gizp?usp=sharing)
   
-  
+* [Lab 1. Knn and Naive Bayes for three datasets](https://colab.research.google.com/drive/1CJSob7zHkbEbUYPpdiZg20LfhErhohUK?usp=sharing) - 5 points for non-computer science students, and 2.5 for computer science students.   
 
 
 ## Lecture 9 April 9, 2026  - Quiz Q3 - Decision Trees 
