@@ -57,7 +57,7 @@
 * [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures_2026/inf620_2026__lecture_8__Naive_Bayes_Supervised.pdf)
 * [Click here for Q& to prepare for the Q3](https://colab.research.google.com/drive/1iYLC_Wx_pVWYYEEl7w5SOm4FFqA1Gizp?usp=sharing)
   
-* [Lab 1. Knn and Naive Bayes for three datasets](https://colab.research.google.com/drive/1CJSob7zHkbEbUYPpdiZg20LfhErhohUK?usp=sharing) - 5 points for non-computer science students, and 2.5 for computer science students.   
+* [Lab 1. Knn and Naive Bayes for three datasets - deadline 30 April](https://colab.research.google.com/drive/1CJSob7zHkbEbUYPpdiZg20LfhErhohUK?usp=sharing) - 5 points for non-computer science students, and 2.5 for computer science students.   
 
 
 ## Lecture 9 April 9, 2026  - Quiz Q3 - Decision Trees 
@@ -80,18 +80,19 @@
 * [NotebookLM](https://notebooklm.google.com/notebook/bff2941e-0263-4ed6-9a2e-a852e64f73e8)
 
 
-To be updated soon....
------------------------
-
-
-
-## Lecture 12 April 23, 2026 - Quiz Q6 - Kmeans [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mMn-BFnf8aIPNpZxNiUJF6)
+## Lecture 12 April 23, 2026 - Quiz Q6 - Kmeans
 * [slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/Inf620_2025_Lecture_Unsupervised_Learning_and_Cluster__Kmeans__DBscan-1.pdf)
 * [colab](https://colab.research.google.com/drive/1uACHSYOilMjXIBNN9bdMaAwvl2rtgPww?usp=sharing)
+
   
 ## Lecture 13 April 28, 2026 - Quiz Q7 - DBscan, Hierarchical, Kmedoids, Kmedian, Quantization
 * [slides Kmedoids and Kmedian](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/Inf620_2025_Lecture_Unsupervised_kmedoids__kmedian-1.pdf)
 * [Colab for Kmedoids and Kmedian](https://colab.research.google.com/drive/1GxBUrQ685Dfs6QwMWZhaUK4HBksZ30uM?usp=sharing)
+
+To be updated soon....
+-----------------------
+
+
 ## Lecture 14 April 30, 2026 - Quiz Q8 - Logistic Regression, Linear Regression, Gradient Descent, Polynomial Regression ([see also](https://ufv-inf721-2024-2.lucasnferreira.com/calendario/))
 * [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k4ISTm4dUqL5rWzWzzEwWJ)
 * [slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/Inf620_2025_Lecture_Linear__Polinomial__and_Logistic_Regression-3.pdf)
