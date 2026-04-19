@@ -83,6 +83,7 @@
 ## Lecture 12 April 23, 2026 - Quiz Q6 - Kmeans
 * [slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/Inf620_2025_Lecture_Unsupervised_Learning_and_Cluster__Kmeans__DBscan-1.pdf)
 * [colab](https://colab.research.google.com/drive/1uACHSYOilMjXIBNN9bdMaAwvl2rtgPww?usp=sharing)
+* [quiz to train](https://colab.research.google.com/drive/151kv9h7ryIY6uJ9HDx_58rg5bKzxCSX7?usp=sharing)
 
   
 ## Lecture 13 April 28, 2026 - Quiz Q7 - DBscan, Hierarchical, Kmedoids, Kmedian, Quantization
