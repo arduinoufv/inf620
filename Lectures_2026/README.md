@@ -95,7 +95,8 @@ To be updated soon....
 
 
 ## Lecture 14 April 30, 2026 - Quiz Q8 - Logistic Regression, Linear Regression, Gradient Descent, Polynomial Regression ([see also](https://ufv-inf721-2024-2.lucasnferreira.com/calendario/))
-* [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k4ISTm4dUqL5rWzWzzEwWJ)
+
+* [colab](https://colab.research.google.com/drive/1MZcTHWMa7-G7SVcQ2YczlEk2oQsOJMXw?usp=sharing)
 * [slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/Inf620_2025_Lecture_Linear__Polinomial__and_Logistic_Regression-3.pdf)
 ## Lecture 15 May 5, 2026 - Quiz Q9   - Neural Networks 
 ## Lecture 16 May 7, 2026 - Quiz Q10  - Neural Networks [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mvpPzmKyZKByQs6Vyuprhm)
