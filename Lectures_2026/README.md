@@ -90,16 +90,16 @@
 * [slides Kmedoids and Kmedian](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/Inf620_2025_Lecture_Unsupervised_kmedoids__kmedian-1.pdf)
 * [Colab for Kmedoids and Kmedian](https://colab.research.google.com/drive/1GxBUrQ685Dfs6QwMWZhaUK4HBksZ30uM?usp=sharing)
 
-To be updated soon....
------------------------
 
-
-## Lecture 14 April 30, 2026 - Quiz Q8 - Logistic Regression, Linear Regression, Gradient Descent, Polynomial Regression ([see also](https://ufv-inf721-2024-2.lucasnferreira.com/calendario/))
+## Lecture 14 April 30, 2026 - Quiz Q8 - Logistic Regression, Linear Regression, Gradient Descent, Polynomial Regression ([see also](https://lucasnfe.github.io/ufv-inf721-2024-2/calendario/))
 
 * [colab](https://colab.research.google.com/drive/1MZcTHWMa7-G7SVcQ2YczlEk2oQsOJMXw?usp=sharing)
 * [slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/Inf620_2025_Lecture_Linear__Polinomial__and_Logistic_Regression-3.pdf)
+
 ## Lecture 15 May 5, 2026 - Quiz Q9   - Neural Networks 
-## Lecture 16 May 7, 2026 - Quiz Q10  - Neural Networks [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mvpPzmKyZKByQs6Vyuprhm)
+* [Slides](https://docs.google.com/presentation/d/1-CVaBcTex58WjuXtUNCKBH2lsW5MhpBA8QkzB5cx9bk/edit?usp=sharing) 
+## Lecture 16 May 7, 2026 - Quiz Q10  - Neural Networks 
+
 # Lecture 17 May 12, 2026 - Quiz Q11 - Convolution  
 * [slide](https://docs.google.com/presentation/d/1ImBh4awNQ6s6yx9ehcBwg1N1FxBFNHT08olVcH4H_Ag/edit?usp=sharing)
 * [Colab under construction](https://colab.research.google.com/drive/1V693PzbQ6976_ls11dAWp_nvG6zyyH5c?usp=sharing)
