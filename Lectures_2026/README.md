@@ -89,12 +89,14 @@
 ## Lecture 13 April 28, 2026 - Quiz Q7 - DBscan, Hierarchical, Kmedoids, Kmedian, Quantization
 * [slides Kmedoids and Kmedian](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/Inf620_2025_Lecture_Unsupervised_kmedoids__kmedian-1.pdf)
 * [Colab for Kmedoids and Kmedian](https://colab.research.google.com/drive/1GxBUrQ685Dfs6QwMWZhaUK4HBksZ30uM?usp=sharing)
+* [quiz to train](https://colab.research.google.com/drive/1PfbTbOKovRetcYBGU4knQRfssYrZlA9X?usp=sharing)
 
 
 ## Lecture 14 April 30, 2026 - Quiz Q8 - Logistic Regression, Linear Regression, Gradient Descent, Polynomial Regression ([see also](https://lucasnfe.github.io/ufv-inf721-2024-2/calendario/))
 
 * [colab](https://colab.research.google.com/drive/1MZcTHWMa7-G7SVcQ2YczlEk2oQsOJMXw?usp=sharing)
 * [slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/Inf620_2025_Lecture_Linear__Polinomial__and_Logistic_Regression-3.pdf)
+* 
 
 ## Lecture 15 May 5, 2026 - Quiz Q9   - Neural Networks 
 * [Slides](https://docs.google.com/presentation/d/1-CVaBcTex58WjuXtUNCKBH2lsW5MhpBA8QkzB5cx9bk/edit?usp=sharing) 
