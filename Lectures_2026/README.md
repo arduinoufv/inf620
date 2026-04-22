@@ -98,9 +98,11 @@
 * [slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/Inf620_2025_Lecture_Linear__Polinomial__and_Logistic_Regression-3.pdf)
 * [quiz to train](https://colab.research.google.com/drive/1buwbpyHqEXwhaxOj1CIfb8qrRexF0Wh-?usp=sharing)
 
-## Lecture 15 May 5, 2026 - Quiz Q9   - Neural Networks 
-* [Slides](https://docs.google.com/presentation/d/1-CVaBcTex58WjuXtUNCKBH2lsW5MhpBA8QkzB5cx9bk/edit?usp=sharing) 
-## Lecture 16 May 7, 2026 - Quiz Q10  - Neural Networks 
+## Lecture 15 May 5, 2026 - Quiz Q9   - Neural Networks ([see also](https://lucasnfe.github.io/ufv-inf721-2024-2/calendario/))
+* [Slides](https://docs.google.com/presentation/d/1-CVaBcTex58WjuXtUNCKBH2lsW5MhpBA8QkzB5cx9bk/edit?usp=sharing)
+* [Quiz to train](https://colab.research.google.com/drive/1VrtgF_wwNWnoc3JKQKFYmMfckCWSZYlX?usp=sharing)
+  
+## Lecture 16 May 7, 2026 - Quiz Q10  - Neural Networks ([see also](https://lucasnfe.github.io/ufv-inf721-2024-2/calendario/))
 
 # Lecture 17 May 12, 2026 - Quiz Q11 - Convolution  
 * [slide](https://docs.google.com/presentation/d/1ImBh4awNQ6s6yx9ehcBwg1N1FxBFNHT08olVcH4H_Ag/edit?usp=sharing)
