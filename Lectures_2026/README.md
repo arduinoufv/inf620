@@ -96,7 +96,7 @@
 
 * [colab](https://colab.research.google.com/drive/1MZcTHWMa7-G7SVcQ2YczlEk2oQsOJMXw?usp=sharing)
 * [slides](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/Inf620_2025_Lecture_Linear__Polinomial__and_Logistic_Regression-3.pdf)
-* 
+* [quiz to train](https://colab.research.google.com/drive/1buwbpyHqEXwhaxOj1CIfb8qrRexF0Wh-?usp=sharing)
 
 ## Lecture 15 May 5, 2026 - Quiz Q9   - Neural Networks 
 * [Slides](https://docs.google.com/presentation/d/1-CVaBcTex58WjuXtUNCKBH2lsW5MhpBA8QkzB5cx9bk/edit?usp=sharing) 
