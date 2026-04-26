@@ -8,6 +8,7 @@
 * **Literature Survey:** Write a survey relevant to your research domain, citing at least 10 AI-related papers (35 points).
 * **Google Colab Assignments:** Hands-on programming exercises (20 points). 
     * *Note: This may be completed in groups of up to 2 students.*
+    * [click here to submit](https://forms.gle/fHaR9XmPUr3M9FNd7)
 ---
 
 ### Computer Science Students
@@ -40,7 +41,7 @@
 * [slides](https://docs.google.com/presentation/d/1q_cokY7qyCT-h7TaxWQmRQfWmQH3f0hDf-E_d9sOQro/edit?usp=sharing)
 * [Click here for the Colab Examples, Demo, and exercises](https://colab.research.google.com/drive/1C1MSe7n_VbFHG2-eSelpOfCJqM-etOpz?usp=sharing)
 * [aula em video (in portuguese)](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kDCyPOSsRgemoEsv5YOqVG)
-* 
+
 ## Lecture 6 March 26, 2026 - Images
 * [Click here for the slides](https://docs.google.com/presentation/d/1k7BQ4Mm7aU-8zrZ2-XWnmCbxXZobr_GEamSiYuxgyl4/edit?usp=sharing)
 
@@ -57,7 +58,7 @@
 * [Slides](https://github.com/arduinoufv/inf620/blob/main/Lectures_2026/inf620_2026__lecture_8__Naive_Bayes_Supervised.pdf)
 * [Click here for Q& to prepare for the Q3](https://colab.research.google.com/drive/1iYLC_Wx_pVWYYEEl7w5SOm4FFqA1Gizp?usp=sharing)
   
-* [Lab 1. Knn and Naive Bayes for three datasets - deadline 30 April](https://colab.research.google.com/drive/1CJSob7zHkbEbUYPpdiZg20LfhErhohUK?usp=sharing) - 5 points for non-computer science students, and 2.5 for computer science students.   
+* [Lab 1. Knn and Naive Bayes for three datasets - deadline 30 April](https://colab.research.google.com/drive/1CJSob7zHkbEbUYPpdiZg20LfhErhohUK?usp=sharing) - 5 points for non-computer science students, and 2.5 for computer science students.   - [click here to submit](https://forms.gle/fHaR9XmPUr3M9FNd7)
 
 
 ## Lecture 9 April 9, 2026  - Quiz Q3 - Decision Trees 
@@ -90,7 +91,7 @@
 * [slides Kmedoids and Kmedian](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/Inf620_2025_Lecture_Unsupervised_kmedoids__kmedian-1.pdf)
 * [Colab for Kmedoids and Kmedian](https://colab.research.google.com/drive/1GxBUrQ685Dfs6QwMWZhaUK4HBksZ30uM?usp=sharing)
 * [quiz to train](https://colab.research.google.com/drive/1PfbTbOKovRetcYBGU4knQRfssYrZlA9X?usp=sharing)
-* [Lab 2. Decision Trees, Random Forest and Boost for three datasets - deadline 30 May](https://colab.research.google.com/drive/1SF8zRNPnxPeBmwfEgwcp9l6ArxbSiJc_?usp=sharing) - 5 points for non-computer science students, and 2.5 for computer science students. 
+* [Lab 2. Decision Trees, Random Forest and Boost for three datasets - deadline 30 May](https://colab.research.google.com/drive/1SF8zRNPnxPeBmwfEgwcp9l6ArxbSiJc_?usp=sharing) - 5 points for non-computer science students, and 2.5 for computer science students.  [click here to submit](https://forms.gle/fHaR9XmPUr3M9FNd7)
 
 ## Lecture 14 April 30, 2026 - Quiz Q8 - Logistic Regression, Linear Regression, Gradient Descent, Polynomial Regression ([see also](https://lucasnfe.github.io/ufv-inf721-2024-2/calendario/))
 
