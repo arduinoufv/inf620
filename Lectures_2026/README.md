@@ -90,7 +90,7 @@
 * [slides Kmedoids and Kmedian](https://github.com/arduinoufv/inf620/blob/main/Lectures2025/Inf620_2025_Lecture_Unsupervised_kmedoids__kmedian-1.pdf)
 * [Colab for Kmedoids and Kmedian](https://colab.research.google.com/drive/1GxBUrQ685Dfs6QwMWZhaUK4HBksZ30uM?usp=sharing)
 * [quiz to train](https://colab.research.google.com/drive/1PfbTbOKovRetcYBGU4knQRfssYrZlA9X?usp=sharing)
-
+* [Lab 2. Decision Trees, Random Forest and Boost for three datasets - deadline 30 May](https://colab.research.google.com/drive/1SF8zRNPnxPeBmwfEgwcp9l6ArxbSiJc_?usp=sharing) - 5 points for non-computer science students, and 2.5 for computer science students. 
 
 ## Lecture 14 April 30, 2026 - Quiz Q8 - Logistic Regression, Linear Regression, Gradient Descent, Polynomial Regression ([see also](https://lucasnfe.github.io/ufv-inf721-2024-2/calendario/))
 
