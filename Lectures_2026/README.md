@@ -112,6 +112,7 @@
 * [Colab under construction Digits](https://colab.research.google.com/drive/1vsVAxx-99rXOU9W3NptpFD6VBUcrSjwY?usp=sharing)
 * [Deep Learning Course Prof. Lucas Nascimento](https://ufv-inf721-2024-2.lucasnferreira.com/calendario/)
 ## Lecture 18 May 14, 2026  Convolution
+* [Convolution History - slides](https://docs.google.com/presentation/d/1VILc5ts6Cuz3mwITOnbzPl9HUND_UMULoxRBakCmIQg/edit?usp=sharing)
 ## Lecture 19 May 18, 2026 - Quiz Q12  - Segmentation and Yolo
 * [playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ne5WiKDN35YzM8Xo2IfDwW)
 * [slide](https://docs.google.com/presentation/d/1E_EZ92JvScPdxwmwUo9dgdaSrbiNB1-rbOCymjUNqyM/edit?usp=drive_link)
