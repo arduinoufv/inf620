@@ -118,14 +118,14 @@
 * [Slides](https://docs.google.com/presentation/d/1kih30g1o3hEeBn-TjV_T8iDxHgnqDjcywgS7ZYLFZxs/edit?usp=drive_link)
 * [Slides Lucas Ferreira](https://lucasnfe.github.io/ufv-inf721-2024-2/assets/slides/L13-rnn1.pdf)
 
-## Lecture 20 May 20, 2026 - Quiz Q13 - PCA, T-sne 
+## Lecture 20 May 20, 2026 - PCA, T-sne 
 * [Slides](https://docs.google.com/presentation/d/1LtUNRaVyoDsw8pzHBEC-6rdkDm4NMRLR_z5DvUd7Er4/edit?usp=drive_link)
 
-## Lecture 21 May 25, 2026 - Quiz Q14  - Segmentation and Yolo
+## Lecture 21 May 25, 2026 - Quiz Q13  - Segmentation and Yolo
 * [playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ne5WiKDN35YzM8Xo2IfDwW)
 * [slide](https://docs.google.com/presentation/d/1E_EZ92JvScPdxwmwUo9dgdaSrbiNB1-rbOCymjUNqyM/edit?usp=drive_link)
   
-## Lecture 22 May 27,2026 - Encoder and Decoders, GAN
+## Lecture 22 May 27,2026  - Quiz Q14 - Encoder and Decoders, GAN
 
 * [slides](https://docs.google.com/presentation/d/1z8mJGxRoqZxzDlGmA0OM9e0y3K_UKPUZBdvyiyPfWBA/edit?usp=sharing) + [gan demo](https://poloclub.github.io/ganlab/)
 * [Lucas Nascimento Encoders](https://ufv-inf721-2024-2.lucasnferreira.com/assets/slides/L20-vae.pdf) + [colab](https://colab.research.google.com/drive/1jTu1sVXY0ZJOR-KeYAIxX4GHlHAeSmJy?usp=sharing)
