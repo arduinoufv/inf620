@@ -116,8 +116,9 @@
 
 ## Lecture 19 May 18, 2026 - Quiz Q12  - RNN and LSTM 
 * [Slides](https://docs.google.com/presentation/d/1kih30g1o3hEeBn-TjV_T8iDxHgnqDjcywgS7ZYLFZxs/edit?usp=drive_link)
-* [Slides Lucas Ferreira](https://lucasnfe.github.io/ufv-inf721-2024-2/assets/slides/L13-rnn1.pdf)
-
+* [Slides Lucas Ferreira RNN](https://lucasnfe.github.io/ufv-inf721-2024-2/assets/slides/L13-rnn1.pdf)
+* [Slide Lucas Ferreira LSTM GRU](https://lucasnfe.github.io/ufv-inf721-2024-2/assets/slides/L14-rnn2.pdf)
+  
 ## Lecture 20 May 20, 2026 - PCA, T-sne 
 * [Slides](https://docs.google.com/presentation/d/1LtUNRaVyoDsw8pzHBEC-6rdkDm4NMRLR_z5DvUd7Er4/edit?usp=drive_link)
 
