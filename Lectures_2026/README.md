@@ -127,7 +127,8 @@
 * [slide](https://docs.google.com/presentation/d/1E_EZ92JvScPdxwmwUo9dgdaSrbiNB1-rbOCymjUNqyM/edit?usp=drive_link)
   
 ## Lecture 22 May 27,2026  - Quiz Q14 - Encoder and Decoders, GAN
-
+* [Lab 3. Neural Networks - deadline 25 June](https://colab.research.google.com/drive/1wuY-UQhiujPCI7JK9bLWt9fL69WrfUKo?usp=sharing)
+* [Lab 4. Segmentation - deadline 25 June](https://colab.research.google.com/drive/1fITwv-mqM3mikqMNN7YazXJYgf9xHY16?usp=sharing)
 * [slides](https://docs.google.com/presentation/d/1z8mJGxRoqZxzDlGmA0OM9e0y3K_UKPUZBdvyiyPfWBA/edit?usp=sharing) + [gan demo](https://poloclub.github.io/ganlab/)
 * [Lucas Nascimento Encoders](https://lucasnfe.github.io/ufv-inf721-2024-2/assets/slides/L20-vae.pdf) + [colab](https://colab.research.google.com/drive/1jTu1sVXY0ZJOR-KeYAIxX4GHlHAeSmJy?usp=sharing)
 * [Lucas Nascimento GAN](https://lucasnfe.github.io/ufv-inf721-2024-2/assets/slides/L21-gans.pdf) + [código](https://docs.pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
