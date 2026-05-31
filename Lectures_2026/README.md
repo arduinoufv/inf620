@@ -114,7 +114,7 @@
 ## Lecture 18 May 14, 2026  Convolution
 * [Convolution History - slides](https://docs.google.com/presentation/d/1VILc5ts6Cuz3mwITOnbzPl9HUND_UMULoxRBakCmIQg/edit?usp=sharing)
 
-## Lecture 19 May 18, 2026 - Quiz Q12  - RNN and LSTM 
+## Lecture 19 May 18, 2026   - RNN and LSTM 
 * [Slides](https://docs.google.com/presentation/d/1kih30g1o3hEeBn-TjV_T8iDxHgnqDjcywgS7ZYLFZxs/edit?usp=drive_link)
 * [Slides Lucas Ferreira RNN](https://lucasnfe.github.io/ufv-inf721-2024-2/assets/slides/L13-rnn1.pdf)
 * [Slide Lucas Ferreira LSTM GRU](https://lucasnfe.github.io/ufv-inf721-2024-2/assets/slides/L14-rnn2.pdf)
@@ -122,22 +122,25 @@
 ## Lecture 20 May 20, 2026 - PCA, T-sne 
 * [Slides](https://docs.google.com/presentation/d/1LtUNRaVyoDsw8pzHBEC-6rdkDm4NMRLR_z5DvUd7Er4/edit?usp=drive_link)
 
-## Lecture 21 May 25, 2026 - Quiz Q13  - Segmentation and Yolo
+## Lecture 21 May 25, 2026  - Segmentation and Yolo
 * [playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ne5WiKDN35YzM8Xo2IfDwW)
 * [slide](https://docs.google.com/presentation/d/1E_EZ92JvScPdxwmwUo9dgdaSrbiNB1-rbOCymjUNqyM/edit?usp=drive_link)
   
-## Lecture 22 May 27,2026  - Quiz Q14 - Encoder and Decoders, GAN
+## Lecture 22 May 27,2026  - - Encoder and Decoders, GAN
 * [Lab 3. Neural Networks - deadline 25 June](https://colab.research.google.com/drive/1wuY-UQhiujPCI7JK9bLWt9fL69WrfUKo?usp=sharing)
 * [Lab 4. Segmentation - deadline 25 June](https://colab.research.google.com/drive/1fITwv-mqM3mikqMNN7YazXJYgf9xHY16?usp=sharing)
 * [slides](https://docs.google.com/presentation/d/1z8mJGxRoqZxzDlGmA0OM9e0y3K_UKPUZBdvyiyPfWBA/edit?usp=sharing) + [gan demo](https://poloclub.github.io/ganlab/)
 * [Lucas Nascimento Encoders](https://lucasnfe.github.io/ufv-inf721-2024-2/assets/slides/L20-vae.pdf) + [colab](https://colab.research.google.com/drive/1jTu1sVXY0ZJOR-KeYAIxX4GHlHAeSmJy?usp=sharing)
 * [Lucas Nascimento GAN](https://lucasnfe.github.io/ufv-inf721-2024-2/assets/slides/L21-gans.pdf) + [código](https://docs.pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
-## Lecture 23 June 2, 2026  - Word2vec, Transformers and Attention
+## Lecture 23 June 2, 2026  - Word2vec, Transformers and Attention - Quiz 12 CNN
 * [Slides](https://docs.google.com/presentation/d/1TCBjYVdFU16PJuw97-zjG3NnkOwW3RSybh8DtA2rQu8/edit?usp=drive_link)
-## Lecture 24 June 9, 2026 -  SVM
+* [To train CNN for the Quiz](https://colab.research.google.com/drive/1KdxkYFbsQBEhJInKQBnxdIUSDPBl52AA?usp=sharing)
+## Lecture 24 June 9, 2026 -  SVM -  Quiz 13 Segmentation, Yolo, Encoder/Deocder, GAN
 * [Slides](https://docs.google.com/presentation/d/1H8F3Wn5fNB29cLqx3LycFNNErYpTilI0mVtCmkGXskk/edit?usp=drive_link)
-## Lecture 25 June 11, 2026-  Radial Neural networks and other approaches
-## Lecture 26 June 16, 2026 -
+* [To train Detection, Segmentation, ...](https://colab.research.google.com/drive/1SN0dLQ4Xeq7eK143lN5gos_JTjGmMXLH?usp=sharing)
+## Lecture 25 June 11, 2026-  Radial Neural networks and other approaches - Quiz 14 Word2Vec, Transformers, Attention
+
+## Lecture 26 June 16, 2026 - Quiz 15 SVM
 * [Colab](https://colab.research.google.com/drive/1jmAYPc-L7lVq41jOJCjYmvZB-1k2sIUd?usp=sharing)
 * [GPU Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lxQK-EmYGZ8LfYndqgv0C5) 
 ## Lecture 27 and 28 June 18 and 23 - Reinforcement Learning
