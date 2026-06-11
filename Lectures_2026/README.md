@@ -139,6 +139,7 @@
 * [Slides](https://docs.google.com/presentation/d/1H8F3Wn5fNB29cLqx3LycFNNErYpTilI0mVtCmkGXskk/edit?usp=drive_link)
 * [To train Detection, Segmentation, ...](https://colab.research.google.com/drive/1SN0dLQ4Xeq7eK143lN5gos_JTjGmMXLH?usp=sharing)
 ## Lecture 25 June 11, 2026-  GPU 
+* [Slides](https://docs.google.com/presentation/d/17ZIHisoQlxGT6wpnhH29_z2TyN3jEQGFCcjpBBmxz4o/edit?usp=sharing)
 * [Colab](https://colab.research.google.com/drive/1jmAYPc-L7lVq41jOJCjYmvZB-1k2sIUd?usp=sharing)
 * [GPU Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lxQK-EmYGZ8LfYndqgv0C5) 
 ## Lecture 26 June 16, 2026 - Others ML approaches - Stack, Grid, autotune, ....Quiz 14 Word2Vec, Transformers, Attention Quiz 15 SVM
