@@ -142,9 +142,14 @@
 * [Slides](https://docs.google.com/presentation/d/17ZIHisoQlxGT6wpnhH29_z2TyN3jEQGFCcjpBBmxz4o/edit?usp=sharing)
 * [Colab](https://colab.research.google.com/drive/1jmAYPc-L7lVq41jOJCjYmvZB-1k2sIUd?usp=sharing)
 * [GPU Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lxQK-EmYGZ8LfYndqgv0C5) 
-## Lecture 26 June 16, 2026 - Others ML approaches - Stack, Grid, autotune, ....Quiz 14 Word2Vec, Transformers, Attention Quiz 15 SVM
-## Lecture 27 and 28 June 18 and 23 - Reinforcement Learning
+## Lecture 26-27 June 16 and 18, 2026 - Reinforcement Learning Others ML approaches - Stack, Grid, autotune, ....
+* [slides](https://docs.google.com/presentation/d/1Ia8_Vc824RyteHSG0FxmqL1O3jbkfF7ztrU5XGQOgbc/edit?usp=sharing)
+* [colab sticks](https://colab.research.google.com/drive/16XH326bbu3VsmpgdfGKuhzjiCn0i0Byl?usp=sharing)
+* [colab 3x3 grid game](https://colab.research.google.com/drive/1jxK3I8xnfX8aw_8FbptOGN2PxlAJm764?usp=sharing)
+* [colab Shap and Autotune](https://colab.research.google.com/drive/1KBS0oH7GyQyKgp6vJNV2Zun_vbF9IEl8?usp=sharing)
+* [colab Stack](https://colab.research.google.com/drive/17wJNsztx2sB0zR-A7uPdNEsAoxFCl005?usp=sharing)
 ## Lecture 28 June 25, 2026 -  
+* [Train for the last two quizzes](https://colab.research.google.com/drive/1YvXaEUaqi7KUBm72WbE8JvJerpWg9l0L?usp=sharing)
 * [Colab Take aways - Part I](https://colab.research.google.com/drive/1OMh0aXmpwZPWbNul8GDD5JQzboytvB8_?usp=sharing)
 
 
